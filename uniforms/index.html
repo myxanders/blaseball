@@ -1,0 +1,290 @@
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Istok+Web&display=swap" rel="stylesheet">
+    <title>Sants Uniform Tracker Demo</title>
+    <link href="../css/bootstrap.css" rel="stylesheet">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="apple-touch-icon" sizes="180x180" href="../apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../favicon-16x16.png">
+    <link rel="manifest" href="..//site.webmanifest">
+    <link rel="mask-icon" href="..//safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="saints_unis.js"></script>
+</head>
+<script type="text/javascript">
+    $.ajax({
+        'async': false,
+        'global': false,
+        'url': "unis.json",
+        'dataType': "json",
+        'success': function (data) {
+            unis = data;
+        }
+    });
+
+</script>
+<style>
+    body {
+        background-color: black;
+    }
+
+    form {
+        background-color: #D3BC8D;
+    }
+
+    #title {
+        color: #D3BC8D;
+    }
+
+    #submit {
+        background-color: black;
+    }
+
+    #panel {
+        background-color: #D3BC8D;
+        color: black;
+    }
+
+    #panel:hover {
+        background-color: black;
+        color: white;
+    }
+
+    #submit:hover {
+        background-color: white;
+        color: black;
+    }
+
+    p {
+        color: lightgrey;
+        position: relative;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+    }
+
+    a {
+        color: inherit;
+    }
+
+    a:hover {
+        color: darkgrey;
+    }
+
+    #data td {
+        background-color: #eee;
+    }
+
+    #data th {
+        background-color: #D3BC8D;
+    }
+
+    #info {
+        background-color: rgba(255,255,255,0.5);
+    }
+</style>
+
+<body>
+    <div class="container">
+        <h1 class="h1 py-3" align="center" id="title">Saints Uniform Tracker</h1>
+        <div class="col text-center">
+            <button class="btn btn-primary mb-3" id="panel" type="button" data-toggle="collapse" data-target="#criteriaCard"
+                aria-expanded="false" aria-controls="collapseExample">
+                Select Criteria
+            </button>
+        </div>
+        <div class="collapse mb-3" id="criteriaCard">
+            <div class="card card-body">
+                <form class="p-md-4" action="" method="get" onsubmit="createCriterion();return false;">
+                    <div class="form-row">
+                        <div class="form-group col">
+                            <label for="startYear">Start</label>
+                            <select class="form-control" id="startYear" name="startYear" onchange="endDates()">
+                                <option value="2006" selected>2006</option>
+                                <option value="2007">2007</option>
+                                <option value="2008">2008</option>
+                                <option value="2009">2009</option>
+                                <option value="2010">2010</option>
+                                <option value="2011">2011</option>
+                                <option value="2012">2012</option>
+                                <option value="2013">2013</option>
+                                <option value="2014">2014</option>
+                                <option value="2015">2015</option>
+                                <option value="2016">2016</option>
+                                <option value="2017">2017</option>
+                                <option value="2018">2018</option>
+                                <option value="2019">2019</option>
+                                <option value="2020">2020</option>
+                                <option value="2021">2021</option>
+                            </select>
+                        </div>
+                        <div class="form-group col">
+                            <label for="endYear">End</label>
+                            <select class="form-control" id="endYear" name="endYear">
+                                <option value="2021">2021</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col">
+                            <label for="gameType">Weeks</label>
+                            <select class="form-control" id="gameType" name="gameType">
+                                <option value="All" selected>All</option>
+                                <option value="Regular">Regular Season</option>
+                                <option value="Playoffs">Postseason</option>
+                            </select>
+                        </div>
+                        <div class="form-group col">
+                            <label for="gameDay">Day</label>
+                            <select class="form-control" id="gameDay" name="gameDay">
+                                <option value="A" selected>All</option>
+                                <option value="S">Sunday</option>
+                                <option value="M">Monday</option>
+                                <option value="R">Thursday</option>
+                                <option value="F">Friday</option>
+                                <option value="D">Saturday</option>
+                            </select>
+                        </div>
+                        <div class="form-group col">
+                            <label for="network">Network</label>
+                            <select class="form-control" id="network" name="network">
+                                <option value="All" selected>All</option>
+                                <option value="FOX">FOX</option>
+                                <option value="CBS">CBS</option>
+                                <option value="NBC">NBC</option>
+                                <option value="ESPN">ESPN</option>
+                                <option value="NFLN">NFLN</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col">
+                            <label for="location">Location</label>
+                            <select class="form-control" id="location" name="location">
+                                <option value="All" selected>All</option>
+                                <option value="home">Home</option>
+                                <option value="away">Away</option>
+                                <option value="neutral">Neutral</option>
+                            </select>
+                        </div>
+                        <div class="form-group col">
+                            <label for="opponent">Opponent</label>
+                            <select class="form-control" id="opponent" name="opponent">
+                                <option value="All" selected>All</option>
+                                <option value="SF">49ers</option>
+                                <option value="CHI">Bears</option>
+                                <option value="CIN">Bengals</option>
+                                <option value="BUF">Bills</option>
+                                <option value="DEN">Broncos</option>
+                                <option value="CLE">Browns</option>
+                                <option value="TB">Buccaneers</option>
+                                <option value="ARZ">Cardinals</option>
+                                <option value="LAC">Chargers</option>
+                                <option value="KC">Chiefs</option>
+                                <option value="IND">Colts</option>
+                                <option value="DAL">Cowboys</option>
+                                <option value="MIA">Dolphins</option>
+                                <option value="PHI">Eagles</option>
+                                <option value="ATL">Falcons</option>
+                                <option value="NYG">Giants</option>
+                                <option value="JAX">Jaguars</option>
+                                <option value="NYJ">Jets</option>
+                                <option value="DET">Lions</option>
+                                <option value="GB">Packers</option>
+                                <option value="CAR">Panthers</option>
+                                <option value="NE">Patriots</option>
+                                <option value="LV">Raiders</option>
+                                <option value="LAR">Rams</option>
+                                <option value="BAL">Ravens</option>
+                                <option value="SEA">Seahawks</option>
+                                <option value="PIT">Steelers</option>
+                                <option value="HOU">Texans</option>
+                                <option value="TEN">Titans</option>
+                                <option value="MIN">Vikings</option>
+                                <option value="WAS">Washington</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col">
+                            <label for="uniSet">Uniform Set</label>
+                            <select class="form-control" id="uniSet" name="uniSet">
+                                <option value="All" selected>All Sets</option>
+                                <option value="Normal">Normal</option>
+                                <option value="Color Rush">Color Rush</option>
+                                <option value="Throwback">Throwback</option>
+                            </select>
+                        </div>
+                        <div class="form-group col">
+                            <label for="jersey">Jersey Color</label>
+                            <select class="form-control" id="jersey" name="jersey">
+                                <option value="All" selected>All</option>
+                                <option value="black">Black</option>
+                                <option value="white">White</option>
+                            </select>
+                        </div>
+                        <div class="form-group col">
+                            <label for="pants">Pants Color</label>
+                            <select class="form-control" id="pants" name="pants">
+                                <option value="All" selected>All</option>
+                                <option value="black">Black</option>
+                                <option value="gold">Gold</option>
+                                <option value="white">White</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="text-center">
+                        <button class="btn btn-primary" id="submit">Submit</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <img class="img-fluid" id="uniPreview" src="bg.png">
+            </div>
+            <div class="col">
+                <div class="row"></div>
+                <div class="row rounded-top" id="info">
+                    <div class="col"><p class="h2">Record:</p></div>
+                    <div class="col"><p id="record" class="h3">-</div>
+                </div>
+                <div class="row rounded-bottom" id="info">
+                    <div class="col"><p class="h2">Scoring:</p></div>
+                    <div class="col"><p id="scoring" class="h3">-</div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="table-responsive">
+                <table class="table" id="data">
+                    <thead>
+                        <tr>
+                            <th>Year</th>
+                            <th>Week</th>
+                            <th>Day</th>
+                            <th>Opp.</th>
+                            <th>Site</th>
+                            <th>Uni Set</th>
+                            <th>Jersey</th>
+                            <th>Pants</th>
+                            <th>Result</th>
+                            <th>Score</th>
+                            <th>Ntwk</th>
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>Uniform images courtesy of Gridiron Uniform Database. <a
+                href="https://www.gridiron-uniforms.com/">https://www.gridiron-uniforms.com/</a></p>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src="../js/bootstrap.js"></script>
+    </footer>
+</body>
