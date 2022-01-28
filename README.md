@@ -1,2 +1,2 @@
-# blaseball
-Advanced Blaseball Stats Page
+# Demos
+Demos for my projects
