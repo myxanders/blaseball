@@ -1,0 +1,748 @@
+body {
+    background-color: burlywood;
+    color: black;
+}
+
+.NFL {
+    background-color: midnightblue;
+    color: crimson;
+}
+
+.NFL h1 {
+    color: white;
+}
+
+.NBA {
+    background-color: maroon;
+    color: black;
+}
+
+.NBA h1 {
+    color: white;
+    font-weight: bold;
+}
+
+.MLB {
+    background-color: steelblue;
+    color: firebrick;
+}
+
+.MLB h1 {
+    font-weight: bold;
+}
+
+.NHL {
+    background-color: darkgrey;
+    color: black;
+}
+
+.NHL h1 {
+    color: black;
+    font-weight: bold;
+}
+
+.MLS {
+    background-color: darkgreen;
+    color: darkgoldenrod;
+}
+
+.MLS h1 {
+    font-weight: darkgoldenrod;
+}
+
+.EFL {
+    background-color: black;
+    color: silver;
+}
+
+.EFL h1 {
+    font-weight: bold;
+}
+
+.NFL td {
+    /* background-color: white; */
+    color: black;
+}
+
+.NFL td#Cardinals{
+    font-family: 'Cambo', Times, serif;
+    color: black;
+    background-color: #9b2743;
+}
+
+.NFL td#Falcons{
+    font-family: 'Cambo', Times, serif;
+    color: black;
+    background-color: #a6192e;
+}
+
+.NFL td#Ravens{
+    font-family: 'Cambo', Times, serif;
+    color: #9a7611;
+    background-color: #24125f;
+}
+
+.NFL td#Bills{
+    font-family: 'Cambo', Times, serif;
+    color: #c8102e;
+    background-color: #003087;
+}
+
+.NFL td#Panthers{
+    font-family: 'Cambo', Times, serif;
+    color: black;
+    background-color: #0085ca;
+}
+
+.NFL td#Bears{
+    font-family: 'Cambo', Times, serif;
+    color: #dc4405;
+    background-color: #091f2c;
+}
+
+.NFL td#Bengals{
+    font-family: 'Cambo', Times, serif;
+    color: black;
+    background-color: #dc4405;
+}
+
+.NFL td#Browns{
+    font-family: 'Cambo', Times, serif;
+    color: #eb3300;
+    background-color: #321c00;
+}
+
+.NFL td#Cowboys{
+    font-family: 'Cambo', Times, serif;
+    color: #0c2340;
+    background-color: #87909a;
+}
+
+.NFL td#Broncos{
+    font-family: 'Cambo', Times, serif;
+    color: #0c2340;
+    background-color: #fc4c02;
+}
+
+.NFL td#Lions{
+    font-family: 'Cambo', Times, serif;
+    color: #a2aaad;
+    background-color: #0069b1;
+}
+
+.NFL td#Packers{
+    font-family: 'Cambo', Times, serif;
+    color: #ffb81c;
+    background-color: #183029;
+}
+
+.NFL td#Texans{
+    font-family: 'Cambo', Times, serif;
+    color: #a6192e;
+    background-color: #091f2c;
+}
+
+.NFL td#Colts{
+    font-family: 'Cambo', Times, serif;
+    color: white;
+    background-color: #003a70;
+}
+
+.NFL td#Jaguars{
+    font-family: 'Cambo', Times, serif;
+    color: black;
+    background-color: #006271;
+}
+
+.NFL td#Chiefs{
+    font-family: 'Cambo', Times, serif;
+    color: #ffb81c;
+    background-color: #c8102e;
+}
+
+.NFL td#Chargers{
+    font-family: 'Cambo', Times, serif;
+    color: #ffb81c;
+    background-color: #0072ce;
+}
+
+.NFL td#Rams{
+    font-family: 'Cambo', Times, serif;
+    color: #ffd100;
+    background-color: #1e22aa;
+}
+
+.NFL td#Raiders{
+    font-family: 'Cambo', Times, serif;
+    color: #a2aaad;
+    background-color: black;
+}
+
+.NFL td#Dolphins{
+    font-family: 'Cambo', Times, serif;
+    color: #fc4c02;
+    background-color: #008c95;
+}
+
+.NFL td#Vikings{
+    font-family: 'Cambo', Times, serif;
+    color: #ffc72c;
+    background-color: #582c83;
+}
+
+.NFL td#Patriots{
+    font-family: 'Cambo', Times, serif;
+    color: #a2aaad;
+    background-color: #0c2340;
+}
+
+.NFL td#Saints{
+    font-family: 'Cambo', Times, serif;
+    color: black;
+    background-color: #d3bc8d;
+}
+
+.NFL td#Giants{
+    font-family: 'Cambo', Times, serif;
+    color: white;
+    background-color: #001e62;
+}
+
+.NFL td#Jets{
+    font-family: 'Cambo', Times, serif;
+    color: white;
+    background-color: #115740;
+}
+
+.NFL td#Eagles{
+    font-family: 'Cambo', Times, serif;
+    color: #a2aaad;
+    background-color: #004851;
+}
+
+.NFL td#Steelers{
+    font-family: 'Cambo', Times, serif;
+    color: #ffb81c;
+    background-color: black;
+}
+
+.NFL td#Seahawks{
+    font-family: 'Cambo', Times, serif;
+    color: #78be21;
+    background-color: #0c2340;
+}
+
+.NFL td#Niners{
+    font-family: 'Cambo', Times, serif;
+    color: #c6aa76;
+    background-color: #a6192e;
+}
+
+.NFL td#Buccaneers{
+    font-family: 'Cambo', Times, serif;
+    color: #3d3935;
+    background-color: #a6192e;
+}
+
+.NFL td#Titans{
+    font-family: 'Cambo', Times, serif;
+    color: #418fde;
+    background-color: #0c2340;
+}
+
+.NFL td#Commanders{
+    font-family: 'Cambo', Times, serif;
+    color: #ffb81c;
+    background-color: #651c32;
+}
+
+.NBA td#Hawks{
+    font-family: 'Cambo', Times, serif;
+    color: #ffc72c;
+    background-color: #c8102e;
+}
+
+.NBA td#Nets{
+    font-family: 'Cambo', Times, serif;
+    color: white;
+    background-color: black;
+}
+
+.NBA td#Celtics{
+    font-family: 'Cambo', Times, serif;
+    color: white;
+    background-color: #007a33;
+}
+
+.NBA td#Hornets{
+    font-family: 'Cambo', Times, serif;
+    color: #211747;
+    background-color: #00788c;
+}
+
+.NBA td#Bulls{
+    font-family: 'Cambo', Times, serif;
+    color: black;
+    background-color: #ba0c2f;
+}
+
+.NBA td#Cavaliers{
+    font-family: 'Cambo', Times, serif;
+    color: #041e42;
+    background-color: #6f263d;
+}
+
+.NBA td#Mavericks{
+    font-family: 'Cambo', Times, serif;
+    color: #0c2340;
+    background-color: #0050b5;
+}
+
+.NBA td#Nuggets{
+    font-family: 'Cambo', Times, serif;
+    color: #862633;
+    background-color: #0c2340;
+}
+
+.NBA td#Pistons{
+    font-family: 'Cambo', Times, serif;
+    color: #c8102e;
+    background-color: #1d4289;
+}
+
+.NBA td#Warriors{
+    font-family: 'Cambo', Times, serif;
+    color: #ffc72c;
+    background-color: #1d4289;
+}
+
+.NBA td#Rockets{
+    font-family: 'Cambo', Times, serif;
+    color: black;
+    background-color: #ba0c2f;
+}
+
+.NBA td#Pacers{
+    font-family: 'Cambo', Times, serif;
+    color: #ffc72c;
+    background-color: #041e42;
+}
+
+.NBA td#Clippers{
+    font-family: 'Cambo', Times, serif;
+    color: #c8102e;
+    background-color: black;
+}
+
+.NBA td#Lakers{
+    font-family: 'Cambo', Times, serif;
+    color: #ffc72c;
+    background-color: #582c83;
+}
+
+.NBA td#Grizzlies{
+    font-family: 'Cambo', Times, serif;
+    color: #7d9cc0;
+    background-color: #0c2340;
+}
+
+.NBA td#Heat{
+    font-family: 'Cambo', Times, serif;
+    color: black;
+    background-color: #862633;
+}
+
+.NBA td#Bucks{
+    font-family: 'Cambo', Times, serif;
+    color: #ddcba4;
+    background-color: #2c5234;
+}
+
+.NBA td#Timberwolves{
+    font-family: 'Cambo', Times, serif;
+    color: #0c2340;
+    background-color: #236192;
+}
+
+.NBA td#Pelicans{
+    font-family: 'Cambo', Times, serif;
+    color: #b9975b;
+    background-color: #0c2340;
+}
+
+.NBA td#Knicks{
+    font-family: 'Cambo', Times, serif;
+    color: #ff6720;
+    background-color: #003da5;
+}
+
+.NBA td#Thunder{
+    font-family: 'Cambo', Times, serif;
+    color: #f9423a;
+    background-color: #0072ce;
+}
+
+.NBA td#Magic{
+    font-family: 'Cambo', Times, serif;
+    color: black;
+    background-color: #0057b7;
+}
+
+.NBA td#Sixers{
+    font-family: 'Cambo', Times, serif;
+    color: white;
+    background-color: #003da5;
+}
+
+.NBA td#Suns{
+    font-family: 'Cambo', Times, serif;
+    color: #cb6015;
+    background-color: #211747;
+}
+
+.NBA td#TrailBlazers{
+    font-family: 'Cambo', Times, serif;
+    color: #c8102e;
+    background-color: black;
+}
+
+.NBA td#Kings{
+    font-family: 'Cambo', Times, serif;
+    color: #5b6770;
+    background-color: #582c83;
+}
+
+.NBA td#Spurs{
+    font-family: 'Cambo', Times, serif;
+    color: black;
+    background-color: #8d9093;
+}
+
+.NBA td#SuperSonics{
+    font-family: 'Cambo', Times, serif;
+    color: #FFCD00;
+    background-color: #00843D;
+}
+
+.NBA td#Raptors{
+    font-family: 'Cambo', Times, serif;
+    color: black;
+    background-color: #ba0c2f;
+}
+
+.NBA td#Jazz{
+    font-family: 'Cambo', Times, serif;
+    color: #ffa400;
+    background-color: #0c2340;
+}
+
+.NBA td#Wizards{
+    font-family: 'Cambo', Times, serif;
+    color: #0c2340;
+    background-color: #c8102e;
+}
+
+.MLB td#Diamondbacks{
+    color: black;
+    background-color: #A6192E;
+}
+
+.MLB td#Braves{
+    color: white;
+    background-color: #0C2340;
+}
+
+.MLB td#Orioles{
+    color: black;
+    background-color: #FC4C02;
+}
+
+.MLB td#RedSox{
+    color: #C8102E;
+    background-color: #0C2340;
+}
+
+.MLB td#Cubs{
+    color: #C8102E;
+    background-color: #002F6C;
+}
+
+.MLB td#Reds{
+    color: white;
+    background-color: #BA0C2F;
+}
+
+.MLB td#Indians{
+    color: #0C2340;
+    background-color: #D50032;
+}
+
+.MLB td#Rockies{
+    color: #8D9093;
+    background-color: #330072;
+}
+
+.MLB td#WhiteSox{
+    color: white;
+    background-color: #27251F;
+}
+
+.MLB td#Tigers{
+    color: #FA4616;
+    background-color: #0C2340;
+}
+
+.MLB td#Astros{
+    color: #041E42;
+    background-color: #CF4520;
+}
+
+.MLB td#Royals{
+    color: white;
+    background-color: #002D72;
+}
+
+.MLB td#Angels{
+    color: #0C2340;
+    background-color: #BA0C2F;
+}
+
+.MLB td#Dodgers{
+    color: white;
+    background-color: #002F6C;
+}
+
+.MLB td#Marlins{
+    color: #00A3E0;
+    background-color: black;
+}
+
+.MLB td#Brewers{
+    color: #FFC72C;
+    background-color: #13294B;
+}
+
+.MLB td#Twins{
+    color: #BA0C2F;
+    background-color: #0C2340;
+}
+
+.MLB td#Mets{
+    color: #FC4C02;
+    background-color: #002D72;
+}
+
+.MLB td#Yankees{
+    color: white;
+    background-color: #0C2340;
+}
+
+.MLB td#Athletics{
+    color: white;
+    background-color: #024638;
+}
+
+.MLB td#Phillies{
+    color: white;
+    background-color: #BA0C2F;
+}
+
+.MLB td#Pirates{
+    color: #FFC72C;
+    background-color: black;
+}
+
+.MLB td#Padres{
+    color: #FFC72C;
+    background-color: #3E342F;
+}
+
+.MLB td#Mariners{
+    color: #00685E;
+    background-color: #0C2340;
+}
+
+.MLB td#Giants{
+    color: #FA4616;
+    background-color: black;
+}
+
+.MLB td#Cardinals{
+    color: white;
+    background-color: #BA0C2F;
+}
+
+.MLB td#Rays{
+    color: #69B3E7;
+    background-color: #041E42;
+}
+
+.MLB td#Rangers{
+    color: white;
+    background-color: #002D72;
+}
+
+.MLB td#BlueJays{
+    color: white;
+    background-color: #003DA5;
+}
+
+.MLB td#Nationals{
+    color: white;
+    background-color: #BA0C2F;
+}
+
+.NHL td#Ducks{
+    color: black;
+    background-color: #fc4c02;
+}
+
+.NHL td#Coyotes{
+    color: black;
+    background-color: #6F263D;
+}
+
+.NHL td#Bruins{
+    color: #ffb81c;
+    background-color: black;
+}
+
+.NHL td#Sabres{
+    color: #ffb81c;
+    background-color: #003087;
+}
+
+.NHL td#Hurricanes{
+    color: black;
+    background-color: #c8102e;
+}
+
+.NHL td#BlueJackets{
+    color: #a3aaad;
+    background-color: #041e42;
+}
+
+.NHL td#Flames{
+    color: black;
+    background-color: #c8102e;
+}
+
+.NHL td#Blackhawks{
+    color: black;
+    background-color: #c8102e;
+}
+
+.NHL td#Avalanche{
+    color: #236192;
+    background-color: #6f263d;
+}
+
+.NHL td#Stars{
+    color: black;
+    background-color: #00843d;
+}
+
+.NHL td#RedWings{
+    color: white;
+    background-color: #c8102e;
+}
+
+.NHL td#Oilers{
+    color: #041e42;
+    background-color: #fc4c02;
+}
+
+.NHL td#Panthers{
+    color: #041e42;
+    background-color: #c8102e;
+}
+
+.NHL td#Kings{
+    color: #a2aaad;
+    background-color: black;
+}
+
+.NHL td#Wild{
+    color: #a6192e;
+    background-color: #154734;
+}
+
+.NHL td#Canadiens{
+    color: #001e62;
+    background-color: #a6192e;
+}
+
+.NHL td#Devils{
+    color: black;
+    background-color: #c8102e;
+}
+
+.NHL td#Predators{
+    color: #041e42;
+    background-color: #ffb81c;
+}
+
+.NHL td#Islanders{
+    color: #fc4c02;
+    background-color: #003087;
+}
+
+.NHL td#Rangers{
+    color: #c8102e;
+    background-color: #0032a0;
+}
+
+.NHL td#Senators{
+    color: #c8102e;
+    background-color: black;
+}
+
+.NHL td#Flyers{
+    color: black;
+    background-color: #fa4616;
+}
+
+.NHL td#Penguins{
+    color: #ffb81c;
+    background-color: black;
+}
+
+.NHL td#Sharks{
+    color: black;
+    background-color: #006271;
+}
+
+.NHL td#Blues{
+    color: #ffb81c;
+    background-color: #003087;
+}
+
+.NHL td#Lightning{
+    color: white;
+    background-color: #00205b;
+}
+
+.NHL td#MapleLeafs{
+    color: white;
+    background-color: #00205b;
+}
+
+.NHL td#Canucks{
+    color: #00843d;
+    background-color: #00205b;
+}
+
+.NHL td#GoldenKnights{
+    color: #b9975b;
+    background-color: #333f48;
+}
+
+.NHL td#Jets{
+    color: #004c97;
+    background-color: #041e42;
+}
+
+.NHL td#Capitals{
+    color: #041e42;
+    background-color: #c8102e;
+}

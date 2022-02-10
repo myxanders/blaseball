@@ -1,0 +1,212 @@
+[
+    {
+        "tsho": "ARZ",
+        "team": "Diamondbacks",
+        "W": 52,
+        "L": 110,
+        "PCT": ".321"
+    },
+    {
+        "tsho": "ATL",
+        "team": "Braves",
+        "W": 88,
+        "L": 73,
+        "PCT": ".547"
+    },
+    {
+        "tsho": "BAL",
+        "team": "Orioles",
+        "W": 52,
+        "L": 110,
+        "PCT": ".321"
+    },
+    {
+        "tsho": "BOS",
+        "team": "Red Sox",
+        "W": 92,
+        "L": 70,
+        "PCT": ".568"
+    },
+    {
+        "tsho": "CHC",
+        "team": "Cubs",
+        "W": 71,
+        "L": 91,
+        "PCT": ".438"
+    },
+    {
+        "tsho": "CIN",
+        "team": "Reds",
+        "W": 83,
+        "L": 79,
+        "PCT": ".512"
+    },
+    {
+        "tsho": "CLE",
+        "team": "Indians",
+        "W": 80,
+        "L": 82,
+        "PCT": ".494"
+    },
+    {
+        "tsho": "COL",
+        "team": "Rockies",
+        "W": 74,
+        "L": 87,
+        "PCT": ".460"
+    },
+    {
+        "tsho": "CWS",
+        "team": "White Sox",
+        "W": 93,
+        "L": 69,
+        "PCT": ".574"
+    },
+    {
+        "tsho": "DET",
+        "team": "Tigers",
+        "W": 77,
+        "L": 85,
+        "PCT": ".475"
+    },
+    {
+        "tsho": "HOU",
+        "team": "Astros",
+        "W": 95,
+        "L": 67,
+        "PCT": ".586"
+    },
+    {
+        "tsho": "KC",
+        "team": "Royals",
+        "W": 74,
+        "L": 88,
+        "PCT": ".457"
+    },
+    {
+        "tsho": "LAA",
+        "team": "Angels",
+        "W": 77,
+        "L": 85,
+        "PCT": ".475"
+    },
+    {
+        "tsho": "LAD",
+        "team": "Dodgers",
+        "W": 106,
+        "L": 56,
+        "PCT": ".654"
+    },
+    {
+        "tsho": "MIA",
+        "team": "Marlins",
+        "W": 67,
+        "L": 95,
+        "PCT": ".414"
+    },
+    {
+        "tsho": "MIL",
+        "team": "Brewers",
+        "W": 95,
+        "L": 67,
+        "PCT": ".586"
+    },
+    {
+        "tsho": "MIN",
+        "team": "Twins",
+        "W": 73,
+        "L": 89,
+        "PCT": ".451"
+    },
+    {
+        "tsho": "NYM",
+        "team": "Mets",
+        "W": 77,
+        "L": 85,
+        "PCT": ".475"
+    },
+    {
+        "tsho": "NYY",
+        "team": "Yankees",
+        "W": 92,
+        "L": 70,
+        "PCT": ".568"
+    },
+    {
+        "tsho": "OAK",
+        "team": "Athletics",
+        "W": 86,
+        "L": 76,
+        "PCT": ".531"
+    },
+    {
+        "tsho": "PHI",
+        "team": "Phillies",
+        "W": 82,
+        "L": 80,
+        "PCT": ".506"
+    },
+    {
+        "tsho": "PIT",
+        "team": "Pirates",
+        "W": 61,
+        "L": 101,
+        "PCT": ".377"
+    },
+    {
+        "tsho": "SD",
+        "team": "Padres",
+        "W": 79,
+        "L": 83,
+        "PCT": ".488"
+    },
+    {
+        "tsho": "SEA",
+        "team": "Mariners",
+        "W": 90,
+        "L": 72,
+        "PCT": ".556"
+    },
+    {
+        "tsho": "SF",
+        "team": "Giants",
+        "W": 107,
+        "L": 55,
+        "PCT": ".660"
+    },
+    {
+        "tsho": "STL",
+        "team": "Cardinals",
+        "W": 90,
+        "L": 72,
+        "PCT": ".556"
+    },
+    {
+        "tsho": "TB",
+        "team": "Rays",
+        "W": 100,
+        "L": 62,
+        "PCT": ".617"
+    },
+    {
+        "tsho": "TEX",
+        "team": "Rangers",
+        "W": 60,
+        "L": 102,
+        "PCT": ".370"
+    },
+    {
+        "tsho": "TOR",
+        "team": "Blue Jays",
+        "W": 91,
+        "L": 71,
+        "PCT": ".562"
+    },
+    {
+        "tsho": "WAS",
+        "team": "Nationals",
+        "W": 65,
+        "L": 97,
+        "PCT": ".401"
+    }
+]

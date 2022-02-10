@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Mitchell Xanders' Website</title>
+    <!-- Bootstrap core CSS -->
+    <link href="../../css/bootstrap.css" rel="stylesheet">
+    <link href="../../css/jquery.bracket.min.css" rel="stylesheet">
+    <link href="../almanacstyle.css" rel="stylesheet">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../favicon-16x16.png">
+    <link rel="manifest" href="../../site.webmanifest">
+    <link rel="mask-icon" href="../../safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+</head>
+<style>
+    #bracket {
+        overflow: hidden;
+    }
+    #playoffbracket td {
+        border: 2px solid whitesmoke;
+    }
+
+    #playoffbracket th {
+        text-align: center;
+        color: whitesmoke;
+    }
+
+    td#empty {
+        border: none;
+        background-color: none;
+        color: none;
+    }
+    #westseed {
+        float: left;
+    }
+    #westscore {
+        float: right;
+        font-weight: bold;
+    }
+
+    #eastseed {
+        float: right;
+    }
+    #eastscore {
+        float: left;
+        font-weight: bold;
+    }  
+    #champs {
+        text-align: center;
+        font-weight: bold;
+        background-color: darkgoldenrod;
+        color: black;
+    }
+    
+</style>
+
+<body class="NBA">
+    <div class="container-fluid">
+        <h1 class="h1 text-center py-4"><b>NBA Playoff Bracket</b></h1>
+        <div class="table-responsive" id="bracket">
+            <table class="table" id="playoffbracket">
+                <thead>
+                    <tr>
+                        <th>First Round</th>
+                        <th>Second Round</th>
+                        <th>Conference Finals</th>
+                        <th></th>
+                        <th>NBA Finals</th>
+                        <th></th>
+                        <th>Conference Finals</th>
+                        <th>Second Round</th>
+                        <th>First Round</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td id="Warriors" class="text-center"><span id="westseed" class="font-italic">1</span>Warriors<span id="westscore">4</span></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="champs">NBA CHAMPIONS:</td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="Bucks" class="text-center"><span id="eastseed" class="font-italic">1</span>Bucks<span id="eastscore">4</span></td>
+                    </tr>
+                    <tr>
+                        <td id="Clippers" class="text-center"><span id="westseed" class="font-italic">8</span>Clippers<span id="westscore">2</span></td>
+                        <td id="Warriors" class="text-center"><span id="westseed" class="font-italic">1</span>Warriors<span id="westscore">4</span></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="Raptors" class="text-center">Raptors</td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="Bucks" class="text-center"><span id="eastseed" class="font-italic">1</span>Bucks<span id="eastscore">4</span></td>
+                        <td id="Pistons" class="text-center"><span id="eastseed" class="font-italic">8</span>Pistons<span id="eastscore">0</span></td>
+                    </tr> 
+                    <tr>
+                        <td id="Rockets" class="text-center"><span id="westseed" class="font-italic">4</span>Rockets<span id="westscore">4</span></td> 
+                        <td id="Rockets" class="text-center"><span id="westseed" class="font-italic">4</span>Rockets<span id="westscore">2</span></td> 
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="Celtics" class="text-center"><span id="eastseed" class="font-italic">4</span>Celtics<span id="eastscore">1</span></td>              
+                        <td id="Celtics" class="text-center"><span id="eastseed" class="font-italic">4</span>Celtics<span id="eastscore">4</span></td>              
+                    </tr>                 
+                    <tr>
+                        <td id="Jazz" class="text-center"><span id="westseed" class="font-italic">5</span>Jazz<span id="westscore">1</span></td>
+                        <td id="empty"></td>
+                        <td id="Warriors" class="text-center"><span id="westseed" class="font-italic">1</span>Warriors<span id="westscore">4</span></td>
+                        <td id="empty"></td>
+                        <td id="Warriors" class="text-center"><span id="westseed" class="font-italic">1</span>Warriors<span id="westscore">2</span></td>
+                        <td id="empty"></td>
+                        <td id="Bucks" class="text-center"><span id="eastseed" class="font-italic">1</span>Bucks<span id="eastscore">2</span></td>
+                        <td id="empty"></td>
+                        <td id="Pacers" class="text-center"><span id="eastseed" class="font-italic">5</span>Pacers<span id="eastscore">1</span></td>
+                    </tr>
+                    <tr>
+                        <td id="TrailBlazers" class="text-center"><span id="westseed" class="font-italic">3</span>Trail Blazers<span id="westscore">4</span></td>
+                        <td id="empty"></td>
+                        <td id="TrailBlazers" class="text-center"><span id="westseed" class="font-italic">3</span>Trail Blazers<span id="westscore">0</span></td>
+                        <td id="empty"></td>
+                        <td id="Raptors" class="text-center"><span id="westseed" class="font-italic">2</span>Raptors<span id="westscore">4</span></td>
+                        <td id="empty"></td>
+                        <td id="Raptors" class="text-center"><span id="eastseed" class="font-italic">2</span>Raptors<span id="eastscore">4</span></td>
+                        <td id="empty"></td>
+                        <td id="Sixers" class="text-center"><span id="eastseed" class="font-italic">3</span>76ers<span id="eastscore">4</span></td>
+                    </tr>
+                    <tr>
+                        <td id="Thunder" class="text-center"><span id="westseed" class="font-italic">6</span>Thunder<span id="westscore">1</span></td>
+                        <td id="Nuggets" class="text-center"><span id="westseed" class="font-italic">2</span>Nuggets<span id="westscore">3</span></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="Raptors" class="text-center"><span id="eastseed" class="font-italic">2</span>Raptors<span id="eastscore">4</span></td>
+                        <td id="Nets" class="text-center"><span id="eastseed" class="font-italic">6</span>Nets<span id="eastscore">1</span></td>
+                    </tr>  
+                    <tr>
+                        <td id="Nuggets" class="text-center"><span id="westseed" class="font-italic">2</span>Nuggets<span id="westscore">4</span></td>
+                        <td id="TrailBlazers" class="text-center"><span id="westseed" class="font-italic">3</span>Trail Blazers<span id="westscore">4</span></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="Sixers" class="text-center"><span id="eastseed" class="font-italic">3</span>76ers<span id="eastscore">3</span></td>
+                        <td id="Raptors" class="text-center"><span id="eastseed" class="font-italic">2</span>Raptors<span id="eastscore">4</span></td>
+                    </tr>
+                    <tr>
+                        <td id="Spurs" class="text-center"><span id="westseed" class="font-italic">7</span>Spurs<span id="westscore">3</span></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="Magic" class="text-center"><span id="eastseed" class="font-italic">7</span>Magic<span id="eastscore">1</span></td>
+                    </tr>                                                                                                                                          
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <footer>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src="../../js/bootstrap.js"></script>
+        <script src="../../js/jquery.bracket.min.js"></script>
+    </footer>
+</body>
+
+</html>

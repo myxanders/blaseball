@@ -1,0 +1,1871 @@
+[
+    {
+        "week": 1,
+        "homescore": "13",
+        "hometeam": "Steelers",
+        "awayteam": "Titans",
+        "awayscore": "10"
+    },
+    {
+        "week": 1,
+        "homescore": "7",
+        "hometeam": "Bengals",
+        "awayteam": "Broncos",
+        "awayscore": "12"
+    },
+    {
+        "week": 1,
+        "homescore": "14",
+        "hometeam": "Colts",
+        "awayteam": "Jaguars",
+        "awayscore": "12"
+    },
+    {
+        "week": 1,
+        "homescore": "38",
+        "hometeam": "Ravens",
+        "awayteam": "Chiefs",
+        "awayscore": "24"
+    },
+    {
+        "week": 1,
+        "homescore": "20",
+        "hometeam": "Browns",
+        "awayteam": "Vikings",
+        "awayscore": "34"
+    },
+    {
+        "week": 1,
+        "homescore": "21",
+        "hometeam": "Buccaneers",
+        "awayteam": "Cowboys",
+        "awayscore": "34"
+    },
+    {
+        "week": 1,
+        "homescore": "45",
+        "hometeam": "Saints",
+        "awayteam": "Lions",
+        "awayscore": "27"
+    },
+    {
+        "week": 1,
+        "homescore": "7",
+        "hometeam": "Texans",
+        "awayteam": "Jets",
+        "awayscore": "24"
+    },
+    {
+        "week": 1,
+        "homescore": "10",
+        "hometeam": "Panthers",
+        "awayteam": "Eagles",
+        "awayscore": "38"
+    },
+    {
+        "week": 1,
+        "homescore": "19",
+        "hometeam": "Falcons",
+        "awayteam": "Dolphins",
+        "awayscore": "7"
+    },
+    {
+        "week": 1,
+        "homescore": "16",
+        "hometeam": "Cardinals",
+        "awayteam": "Niners",
+        "awayscore": "20"
+    },
+    {
+        "week": 1,
+        "homescore": "23",
+        "hometeam": "Giants",
+        "awayteam": "Commanders",
+        "awayscore": "17"
+    },
+    {
+        "week": 1,
+        "homescore": "28",
+        "hometeam": "Seahawks",
+        "awayteam": "Rams",
+        "awayscore": "0"
+    },
+    {
+        "week": 1,
+        "homescore": "21",
+        "hometeam": "Packers",
+        "awayteam": "Bears",
+        "awayscore": "15"
+    },
+    {
+        "week": 1,
+        "homescore": "25",
+        "hometeam": "Patriots",
+        "awayteam": "Bills",
+        "awayscore": "24"
+    },
+    {
+        "week": 1,
+        "homescore": "20",
+        "hometeam": "Raiders",
+        "awayteam": "Chargers",
+        "awayscore": "24"
+    },
+    {
+        "week": 2,
+        "homescore": "10",
+        "hometeam": "Chiefs",
+        "awayteam": "Raiders",
+        "awayscore": "13"
+    },
+    {
+        "week": 2,
+        "homescore": "28",
+        "hometeam": "Falcons",
+        "awayteam": "Panthers",
+        "awayscore": "20"
+    },
+    {
+        "week": 2,
+        "homescore": "24",
+        "hometeam": "Packers",
+        "awayteam": "Bengals",
+        "awayscore": "31"
+    },
+    {
+        "week": 2,
+        "homescore": "16",
+        "hometeam": "Jets",
+        "awayteam": "Patriots",
+        "awayscore": "9"
+    },
+    {
+        "week": 2,
+        "homescore": "9",
+        "hometeam": "Commanders",
+        "awayteam": "Rams",
+        "awayscore": "7"
+    },
+    {
+        "week": 2,
+        "homescore": "17",
+        "hometeam": "Jaguars",
+        "awayteam": "Cardinals",
+        "awayscore": "31"
+    },
+    {
+        "week": 2,
+        "homescore": "13",
+        "hometeam": "Lions",
+        "awayteam": "Vikings",
+        "awayscore": "27"
+    },
+    {
+        "week": 2,
+        "homescore": "31",
+        "hometeam": "Titans",
+        "awayteam": "Texans",
+        "awayscore": "34"
+    },
+    {
+        "week": 2,
+        "homescore": "22",
+        "hometeam": "Eagles",
+        "awayteam": "Saints",
+        "awayscore": "48"
+    },
+    {
+        "week": 2,
+        "homescore": "33",
+        "hometeam": "Bills",
+        "awayteam": "Buccaneers",
+        "awayscore": "20"
+    },
+    {
+        "week": 2,
+        "homescore": "23",
+        "hometeam": "Niners",
+        "awayteam": "Seahawks",
+        "awayscore": "10"
+    },
+    {
+        "week": 2,
+        "homescore": "17",
+        "hometeam": "Bears",
+        "awayteam": "Steelers",
+        "awayscore": "14"
+    },
+    {
+        "week": 2,
+        "homescore": "27",
+        "hometeam": "Broncos",
+        "awayteam": "Browns",
+        "awayscore": "6"
+    },
+    {
+        "week": 2,
+        "homescore": "26",
+        "hometeam": "Chargers",
+        "awayteam": "Ravens",
+        "awayscore": "31"
+    },
+    {
+        "week": 2,
+        "homescore": "31",
+        "hometeam": "Cowboys",
+        "awayteam": "Giants",
+        "awayscore": "33"
+    },
+    {
+        "week": 2,
+        "homescore": "23",
+        "hometeam": "Dolphins",
+        "awayteam": "Colts",
+        "awayscore": "27"
+    },
+    {
+        "week": 3,
+        "homescore": "17",
+        "hometeam": "Rams",
+        "awayteam": "Packers",
+        "awayscore": "36"
+    },
+    {
+        "week": 3,
+        "homescore": "0",
+        "hometeam": "Buccaneers",
+        "awayteam": "Giants",
+        "awayscore": "24"
+    },
+    {
+        "week": 3,
+        "homescore": "26",
+        "hometeam": "Patriots",
+        "awayteam": "Falcons",
+        "awayscore": "10"
+    },
+    {
+        "week": 3,
+        "homescore": "34",
+        "hometeam": "Ravens",
+        "awayteam": "Browns",
+        "awayscore": "3"
+    },
+    {
+        "week": 3,
+        "homescore": "19",
+        "hometeam": "Lions",
+        "awayteam": "Commanders",
+        "awayscore": "14"
+    },
+    {
+        "week": 3,
+        "homescore": "34",
+        "hometeam": "Eagles",
+        "awayteam": "Chiefs",
+        "awayscore": "14"
+    },
+    {
+        "week": 3,
+        "homescore": "24",
+        "hometeam": "Texans",
+        "awayteam": "Jaguars",
+        "awayscore": "31"
+    },
+    {
+        "week": 3,
+        "homescore": "27",
+        "hometeam": "Vikings",
+        "awayteam": "Niners",
+        "awayscore": "24"
+    },
+    {
+        "week": 3,
+        "homescore": "24",
+        "hometeam": "Jets",
+        "awayteam": "Titans",
+        "awayscore": "17"
+    },
+    {
+        "week": 3,
+        "homescore": "7",
+        "hometeam": "Bills",
+        "awayteam": "Saints",
+        "awayscore": "27"
+    },
+    {
+        "week": 3,
+        "homescore": "19",
+        "hometeam": "Seahawks",
+        "awayteam": "Bears",
+        "awayscore": "25"
+    },
+    {
+        "week": 3,
+        "homescore": "23",
+        "hometeam": "Bengals",
+        "awayteam": "Steelers",
+        "awayscore": "20"
+    },
+    {
+        "week": 3,
+        "homescore": "3",
+        "hometeam": "Raiders",
+        "awayteam": "Broncos",
+        "awayscore": "23"
+    },
+    {
+        "week": 3,
+        "homescore": "23",
+        "hometeam": "Chargers",
+        "awayteam": "Dolphins",
+        "awayscore": "13"
+    },
+    {
+        "week": 3,
+        "homescore": "10",
+        "hometeam": "Cardinals",
+        "awayteam": "Colts",
+        "awayscore": "31"
+    },
+    {
+        "week": 3,
+        "homescore": "21",
+        "hometeam": "Cowboys",
+        "awayteam": "Panthers",
+        "awayscore": "7"
+    },
+    {
+        "week": 4,
+        "homescore": "16",
+        "hometeam": "Chiefs",
+        "awayteam": "Giants",
+        "awayscore": "27"
+    },
+    {
+        "week": 4,
+        "homescore": "16",
+        "hometeam": "Commanders",
+        "awayteam": "Buccaneers",
+        "awayscore": "13"
+    },
+    {
+        "week": 4,
+        "homescore": "48",
+        "hometeam": "Bears",
+        "awayteam": "Lions",
+        "awayscore": "24"
+    },
+    {
+        "week": 4,
+        "homescore": "29",
+        "hometeam": "Texans",
+        "awayteam": "Raiders",
+        "awayscore": "6"
+    },
+    {
+        "week": 4,
+        "homescore": "27",
+        "hometeam": "Patriots",
+        "awayteam": "Ravens",
+        "awayscore": "21"
+    },
+    {
+        "week": 4,
+        "homescore": "20",
+        "hometeam": "Browns",
+        "awayteam": "Bengals",
+        "awayscore": "23"
+    },
+    {
+        "week": 4,
+        "homescore": "34",
+        "hometeam": "Colts",
+        "awayteam": "Seahawks",
+        "awayscore": "17"
+    },
+    {
+        "week": 4,
+        "homescore": "37",
+        "hometeam": "Jaguars",
+        "awayteam": "Titans",
+        "awayscore": "17"
+    },
+    {
+        "week": 4,
+        "homescore": "38",
+        "hometeam": "Dolphins",
+        "awayteam": "Bills",
+        "awayscore": "10"
+    },
+    {
+        "week": 4,
+        "homescore": "24",
+        "hometeam": "Saints",
+        "awayteam": "Jets",
+        "awayscore": "10"
+    },
+    {
+        "week": 4,
+        "homescore": "17",
+        "hometeam": "Broncos",
+        "awayteam": "Cowboys",
+        "awayscore": "10"
+    },
+    {
+        "week": 4,
+        "homescore": "35",
+        "hometeam": "Niners",
+        "awayteam": "Rams",
+        "awayscore": "0"
+    },
+    {
+        "week": 4,
+        "homescore": "38",
+        "hometeam": "Steelers",
+        "awayteam": "Chargers",
+        "awayscore": "28"
+    },
+    {
+        "week": 4,
+        "homescore": "30",
+        "hometeam": "Vikings",
+        "awayteam": "Packers",
+        "awayscore": "23"
+    },
+    {
+        "week": 5,
+        "homescore": "20",
+        "hometeam": "Chiefs",
+        "awayteam": "Cowboys",
+        "awayscore": "26"
+    },
+    {
+        "week": 5,
+        "homescore": "10",
+        "hometeam": "Rams",
+        "awayteam": "Vikings",
+        "awayscore": "38"
+    },
+    {
+        "week": 5,
+        "homescore": "3",
+        "hometeam": "Bills",
+        "awayteam": "Browns",
+        "awayscore": "6"
+    },
+    {
+        "week": 5,
+        "homescore": "33",
+        "hometeam": "Eagles",
+        "awayteam": "Buccaneers",
+        "awayscore": "14"
+    },
+    {
+        "week": 5,
+        "homescore": "14",
+        "hometeam": "Ravens",
+        "awayteam": "Bengals",
+        "awayscore": "17"
+    },
+    {
+        "week": 5,
+        "homescore": "20",
+        "hometeam": "Lions",
+        "awayteam": "Steelers",
+        "awayscore": "28"
+    },
+    {
+        "week": 5,
+        "homescore": "44",
+        "hometeam": "Giants",
+        "awayteam": "Raiders",
+        "awayscore": "7"
+    },
+    {
+        "week": 5,
+        "homescore": "20",
+        "hometeam": "Panthers",
+        "awayteam": "Commanders",
+        "awayscore": "17"
+    },
+    {
+        "week": 5,
+        "homescore": "10",
+        "hometeam": "Niners",
+        "awayteam": "Falcons",
+        "awayscore": "45"
+    },
+    {
+        "week": 5,
+        "homescore": "28",
+        "hometeam": "Cardinals",
+        "awayteam": "Texans",
+        "awayscore": "21"
+    },
+    {
+        "week": 5,
+        "homescore": "20",
+        "hometeam": "Broncos",
+        "awayteam": "Patriots",
+        "awayscore": "17"
+    },
+    {
+        "week": 5,
+        "homescore": "41",
+        "hometeam": "Seahawks",
+        "awayteam": "Jaguars",
+        "awayscore": "0"
+    },
+    {
+        "week": 5,
+        "homescore": "9",
+        "hometeam": "Titans",
+        "awayteam": "Colts",
+        "awayscore": "31"
+    },
+    {
+        "week": 5,
+        "homescore": "31",
+        "hometeam": "Dolphins",
+        "awayteam": "Jets",
+        "awayscore": "27"
+    },
+    {
+        "week": 6,
+        "homescore": "21",
+        "hometeam": "Buccaneers",
+        "awayteam": "Panthers",
+        "awayscore": "28"
+    },
+    {
+        "week": 6,
+        "homescore": "27",
+        "hometeam": "Steelers",
+        "awayteam": "Browns",
+        "awayscore": "14"
+    },
+    {
+        "week": 6,
+        "homescore": "17",
+        "hometeam": "Bengals",
+        "awayteam": "Texans",
+        "awayscore": "28"
+    },
+    {
+        "week": 6,
+        "homescore": "26",
+        "hometeam": "Packers",
+        "awayteam": "Lions",
+        "awayscore": "0"
+    },
+    {
+        "week": 6,
+        "homescore": "48",
+        "hometeam": "Saints",
+        "awayteam": "Giants",
+        "awayscore": "27"
+    },
+    {
+        "week": 6,
+        "homescore": "23",
+        "hometeam": "Jaguars",
+        "awayteam": "Rams",
+        "awayscore": "20"
+    },
+    {
+        "week": 6,
+        "homescore": "6",
+        "hometeam": "Commanders",
+        "awayteam": "Chiefs",
+        "awayscore": "14"
+    },
+    {
+        "week": 6,
+        "homescore": "33",
+        "hometeam": "Vikings",
+        "awayteam": "Ravens",
+        "awayscore": "31"
+    },
+    {
+        "week": 6,
+        "homescore": "3",
+        "hometeam": "Seahawks",
+        "awayteam": "Cardinals",
+        "awayscore": "27"
+    },
+    {
+        "week": 6,
+        "homescore": "13",
+        "hometeam": "Raiders",
+        "awayteam": "Eagles",
+        "awayscore": "9"
+    },
+    {
+        "week": 6,
+        "homescore": "13",
+        "hometeam": "Jets",
+        "awayteam": "Bills",
+        "awayscore": "16"
+    },
+    {
+        "week": 6,
+        "homescore": "59",
+        "hometeam": "Patriots",
+        "awayteam": "Titans",
+        "awayscore": "0"
+    },
+    {
+        "week": 6,
+        "homescore": "21",
+        "hometeam": "Falcons",
+        "awayteam": "Bears",
+        "awayscore": "14"
+    },
+    {
+        "week": 6,
+        "homescore": "23",
+        "hometeam": "Chargers",
+        "awayteam": "Broncos",
+        "awayscore": "34"
+    },
+    {
+        "week": 7,
+        "homescore": "6",
+        "hometeam": "Rams",
+        "awayteam": "Colts",
+        "awayscore": "42"
+    },
+    {
+        "week": 7,
+        "homescore": "7",
+        "hometeam": "Chiefs",
+        "awayteam": "Chargers",
+        "awayscore": "37"
+    },
+    {
+        "week": 7,
+        "homescore": "3",
+        "hometeam": "Browns",
+        "awayteam": "Packers",
+        "awayscore": "31"
+    },
+    {
+        "week": 7,
+        "homescore": "27",
+        "hometeam": "Steelers",
+        "awayteam": "Vikings",
+        "awayscore": "17"
+    },
+    {
+        "week": 7,
+        "homescore": "24",
+        "hometeam": "Texans",
+        "awayteam": "Niners",
+        "awayscore": "21"
+    },
+    {
+        "week": 7,
+        "homescore": "7",
+        "hometeam": "Buccaneers",
+        "awayteam": "Patriots",
+        "awayscore": "35"
+    },
+    {
+        "week": 7,
+        "homescore": "9",
+        "hometeam": "Panthers",
+        "awayteam": "Bills",
+        "awayscore": "20"
+    },
+    {
+        "week": 7,
+        "homescore": "0",
+        "hometeam": "Raiders",
+        "awayteam": "Jets",
+        "awayscore": "38"
+    },
+    {
+        "week": 7,
+        "homescore": "37",
+        "hometeam": "Cowboys",
+        "awayteam": "Falcons",
+        "awayscore": "21"
+    },
+    {
+        "week": 7,
+        "homescore": "34",
+        "hometeam": "Dolphins",
+        "awayteam": "Saints",
+        "awayscore": "46"
+    },
+    {
+        "week": 7,
+        "homescore": "45",
+        "hometeam": "Bengals",
+        "awayteam": "Bears",
+        "awayscore": "10"
+    },
+    {
+        "week": 7,
+        "homescore": "17",
+        "hometeam": "Giants",
+        "awayteam": "Cardinals",
+        "awayscore": "24"
+    },
+    {
+        "week": 7,
+        "homescore": "17",
+        "hometeam": "Commanders",
+        "awayteam": "Eagles",
+        "awayscore": "27"
+    },
+    {
+        "week": 8,
+        "homescore": "30",
+        "hometeam": "Bears",
+        "awayteam": "Browns",
+        "awayscore": "6"
+    },
+    {
+        "week": 8,
+        "homescore": "30",
+        "hometeam": "Ravens",
+        "awayteam": "Broncos",
+        "awayscore": "7"
+    },
+    {
+        "week": 8,
+        "homescore": "25",
+        "hometeam": "Jets",
+        "awayteam": "Dolphins",
+        "awayscore": "30"
+    },
+    {
+        "week": 8,
+        "homescore": "10",
+        "hometeam": "Bills",
+        "awayteam": "Texans",
+        "awayscore": "31"
+    },
+    {
+        "week": 8,
+        "homescore": "18",
+        "hometeam": "Colts",
+        "awayteam": "Niners",
+        "awayscore": "14"
+    },
+    {
+        "week": 8,
+        "homescore": "38",
+        "hometeam": "Cowboys",
+        "awayteam": "Seahawks",
+        "awayscore": "17"
+    },
+    {
+        "week": 8,
+        "homescore": "10",
+        "hometeam": "Lions",
+        "awayteam": "Rams",
+        "awayscore": "17"
+    },
+    {
+        "week": 8,
+        "homescore": "40",
+        "hometeam": "Eagles",
+        "awayteam": "Giants",
+        "awayscore": "17"
+    },
+    {
+        "week": 8,
+        "homescore": "30",
+        "hometeam": "Titans",
+        "awayteam": "Jaguars",
+        "awayscore": "13"
+    },
+    {
+        "week": 8,
+        "homescore": "24",
+        "hometeam": "Chargers",
+        "awayteam": "Raiders",
+        "awayscore": "16"
+    },
+    {
+        "week": 8,
+        "homescore": "21",
+        "hometeam": "Cardinals",
+        "awayteam": "Panthers",
+        "awayscore": "34"
+    },
+    {
+        "week": 8,
+        "homescore": "26",
+        "hometeam": "Packers",
+        "awayteam": "Vikings",
+        "awayscore": "38"
+    },
+    {
+        "week": 8,
+        "homescore": "35",
+        "hometeam": "Saints",
+        "awayteam": "Falcons",
+        "awayscore": "27"
+    },
+    {
+        "week": 9,
+        "homescore": "17",
+        "hometeam": "Bengals",
+        "awayteam": "Ravens",
+        "awayscore": "7"
+    },
+    {
+        "week": 9,
+        "homescore": "20",
+        "hometeam": "Colts",
+        "awayteam": "Texans",
+        "awayscore": "17"
+    },
+    {
+        "week": 9,
+        "homescore": "27",
+        "hometeam": "Patriots",
+        "awayteam": "Dolphins",
+        "awayscore": "17"
+    },
+    {
+        "week": 9,
+        "homescore": "31",
+        "hometeam": "Falcons",
+        "awayteam": "Commanders",
+        "awayscore": "17"
+    },
+    {
+        "week": 9,
+        "homescore": "21",
+        "hometeam": "Bears",
+        "awayteam": "Cardinals",
+        "awayscore": "41"
+    },
+    {
+        "week": 9,
+        "homescore": "38",
+        "hometeam": "Buccaneers",
+        "awayteam": "Packers",
+        "awayscore": "28"
+    },
+    {
+        "week": 9,
+        "homescore": "24",
+        "hometeam": "Jaguars",
+        "awayteam": "Chiefs",
+        "awayscore": "21"
+    },
+    {
+        "week": 9,
+        "homescore": "30",
+        "hometeam": "Saints",
+        "awayteam": "Panthers",
+        "awayscore": "20"
+    },
+    {
+        "week": 9,
+        "homescore": "32",
+        "hometeam": "Seahawks",
+        "awayteam": "Lions",
+        "awayscore": "20"
+    },
+    {
+        "week": 9,
+        "homescore": "27",
+        "hometeam": "Niners",
+        "awayteam": "Titans",
+        "awayscore": "34"
+    },
+    {
+        "week": 9,
+        "homescore": "20",
+        "hometeam": "Giants",
+        "awayteam": "Chargers",
+        "awayscore": "21"
+    },
+    {
+        "week": 9,
+        "homescore": "16",
+        "hometeam": "Eagles",
+        "awayteam": "Cowboys",
+        "awayscore": "20"
+    },
+    {
+        "week": 9,
+        "homescore": "10",
+        "hometeam": "Broncos",
+        "awayteam": "Steelers",
+        "awayscore": "28"
+    },
+    {
+        "week": 10,
+        "homescore": "10",
+        "hometeam": "Niners",
+        "awayteam": "Bears",
+        "awayscore": "6"
+    },
+    {
+        "week": 10,
+        "homescore": "23",
+        "hometeam": "Rams",
+        "awayteam": "Saints",
+        "awayscore": "28"
+    },
+    {
+        "week": 10,
+        "homescore": "41",
+        "hometeam": "Titans",
+        "awayteam": "Bills",
+        "awayscore": "17"
+    },
+    {
+        "week": 10,
+        "homescore": "12",
+        "hometeam": "Steelers",
+        "awayteam": "Bengals",
+        "awayscore": "18"
+    },
+    {
+        "week": 10,
+        "homescore": "27",
+        "hometeam": "Commanders",
+        "awayteam": "Broncos",
+        "awayscore": "17"
+    },
+    {
+        "week": 10,
+        "homescore": "22",
+        "hometeam": "Jets",
+        "awayteam": "Jaguars",
+        "awayscore": "24"
+    },
+    {
+        "week": 10,
+        "homescore": "28",
+        "hometeam": "Panthers",
+        "awayteam": "Falcons",
+        "awayscore": "19"
+    },
+    {
+        "week": 10,
+        "homescore": "25",
+        "hometeam": "Dolphins",
+        "awayteam": "Buccaneers",
+        "awayscore": "23"
+    },
+    {
+        "week": 10,
+        "homescore": "27",
+        "hometeam": "Vikings",
+        "awayteam": "Lions",
+        "awayscore": "10"
+    },
+    {
+        "week": 10,
+        "homescore": "10",
+        "hometeam": "Raiders",
+        "awayteam": "Chiefs",
+        "awayscore": "16"
+    },
+    {
+        "week": 10,
+        "homescore": "31",
+        "hometeam": "Cardinals",
+        "awayteam": "Seahawks",
+        "awayscore": "20"
+    },
+    {
+        "week": 10,
+        "homescore": "17",
+        "hometeam": "Packers",
+        "awayteam": "Cowboys",
+        "awayscore": "7"
+    },
+    {
+        "week": 10,
+        "homescore": "31",
+        "hometeam": "Chargers",
+        "awayteam": "Eagles",
+        "awayscore": "23"
+    },
+    {
+        "week": 10,
+        "homescore": "35",
+        "hometeam": "Colts",
+        "awayteam": "Patriots",
+        "awayscore": "34"
+    },
+    {
+        "week": 10,
+        "homescore": "0",
+        "hometeam": "Browns",
+        "awayteam": "Ravens",
+        "awayscore": "16"
+    },
+    {
+        "week": 11,
+        "homescore": "17",
+        "hometeam": "Panthers",
+        "awayteam": "Dolphins",
+        "awayscore": "24"
+    },
+    {
+        "week": 11,
+        "homescore": "27",
+        "hometeam": "Chiefs",
+        "awayteam": "Steelers",
+        "awayscore": "24"
+    },
+    {
+        "week": 11,
+        "homescore": "7",
+        "hometeam": "Buccaneers",
+        "awayteam": "Saints",
+        "awayscore": "38"
+    },
+    {
+        "week": 11,
+        "homescore": "38",
+        "hometeam": "Lions",
+        "awayteam": "Browns",
+        "awayscore": "37"
+    },
+    {
+        "week": 11,
+        "homescore": "15",
+        "hometeam": "Ravens",
+        "awayteam": "Colts",
+        "awayscore": "17"
+    },
+    {
+        "week": 11,
+        "homescore": "30",
+        "hometeam": "Packers",
+        "awayteam": "Niners",
+        "awayscore": "24"
+    },
+    {
+        "week": 11,
+        "homescore": "34",
+        "hometeam": "Giants",
+        "awayteam": "Falcons",
+        "awayscore": "31"
+    },
+    {
+        "week": 11,
+        "homescore": "18",
+        "hometeam": "Jaguars",
+        "awayteam": "Bills",
+        "awayscore": "15"
+    },
+    {
+        "week": 11,
+        "homescore": "7",
+        "hometeam": "Cowboys",
+        "awayteam": "Commanders",
+        "awayscore": "6"
+    },
+    {
+        "week": 11,
+        "homescore": "35",
+        "hometeam": "Vikings",
+        "awayteam": "Seahawks",
+        "awayscore": "9"
+    },
+    {
+        "week": 11,
+        "homescore": "13",
+        "hometeam": "Rams",
+        "awayteam": "Cardinals",
+        "awayscore": "21"
+    },
+    {
+        "week": 11,
+        "homescore": "20",
+        "hometeam": "Raiders",
+        "awayteam": "Bengals",
+        "awayscore": "17"
+    },
+    {
+        "week": 11,
+        "homescore": "3",
+        "hometeam": "Broncos",
+        "awayteam": "Chargers",
+        "awayscore": "32"
+    },
+    {
+        "week": 11,
+        "homescore": "31",
+        "hometeam": "Patriots",
+        "awayteam": "Jets",
+        "awayscore": "14"
+    },
+    {
+        "week": 11,
+        "homescore": "20",
+        "hometeam": "Bears",
+        "awayteam": "Eagles",
+        "awayscore": "24"
+    },
+    {
+        "week": 11,
+        "homescore": "17",
+        "hometeam": "Texans",
+        "awayteam": "Titans",
+        "awayscore": "20"
+    },
+    {
+        "week": 12,
+        "homescore": "12",
+        "hometeam": "Lions",
+        "awayteam": "Packers",
+        "awayscore": "34"
+    },
+    {
+        "week": 12,
+        "homescore": "24",
+        "hometeam": "Cowboys",
+        "awayteam": "Raiders",
+        "awayscore": "7"
+    },
+    {
+        "week": 12,
+        "homescore": "26",
+        "hometeam": "Broncos",
+        "awayteam": "Giants",
+        "awayscore": "6"
+    },
+    {
+        "week": 12,
+        "homescore": "17",
+        "hometeam": "Rams",
+        "awayteam": "Seahawks",
+        "awayscore": "27"
+    },
+    {
+        "week": 12,
+        "homescore": "31",
+        "hometeam": "Bills",
+        "awayteam": "Dolphins",
+        "awayscore": "14"
+    },
+    {
+        "week": 12,
+        "homescore": "17",
+        "hometeam": "Jets",
+        "awayteam": "Panthers",
+        "awayscore": "6"
+    },
+    {
+        "week": 12,
+        "homescore": "16",
+        "hometeam": "Bengals",
+        "awayteam": "Browns",
+        "awayscore": "7"
+    },
+    {
+        "week": 12,
+        "homescore": "27",
+        "hometeam": "Texans",
+        "awayteam": "Colts",
+        "awayscore": "35"
+    },
+    {
+        "week": 12,
+        "homescore": "20",
+        "hometeam": "Falcons",
+        "awayteam": "Buccaneers",
+        "awayscore": "17"
+    },
+    {
+        "week": 12,
+        "homescore": "27",
+        "hometeam": "Eagles",
+        "awayteam": "Commanders",
+        "awayscore": "24"
+    },
+    {
+        "week": 12,
+        "homescore": "20",
+        "hometeam": "Niners",
+        "awayteam": "Jaguars",
+        "awayscore": "3"
+    },
+    {
+        "week": 12,
+        "homescore": "43",
+        "hometeam": "Chargers",
+        "awayteam": "Chiefs",
+        "awayscore": "14"
+    },
+    {
+        "week": 12,
+        "homescore": "36",
+        "hometeam": "Vikings",
+        "awayteam": "Bears",
+        "awayscore": "10"
+    },
+    {
+        "week": 12,
+        "homescore": "20",
+        "hometeam": "Titans",
+        "awayteam": "Cardinals",
+        "awayscore": "17"
+    },
+    {
+        "week": 12,
+        "homescore": "20",
+        "hometeam": "Ravens",
+        "awayteam": "Steelers",
+        "awayscore": "17"
+    },
+    {
+        "week": 12,
+        "homescore": "38",
+        "hometeam": "Saints",
+        "awayteam": "Patriots",
+        "awayscore": "17"
+    },
+    {
+        "week": 13,
+        "homescore": "13",
+        "hometeam": "Bills",
+        "awayteam": "Jets",
+        "awayscore": "19"
+    },
+    {
+        "week": 13,
+        "homescore": "13",
+        "hometeam": "Chiefs",
+        "awayteam": "Broncos",
+        "awayscore": "44"
+    },
+    {
+        "week": 13,
+        "homescore": "17",
+        "hometeam": "Bears",
+        "awayteam": "Rams",
+        "awayscore": "9"
+    },
+    {
+        "week": 13,
+        "homescore": "23",
+        "hometeam": "Bengals",
+        "awayteam": "Lions",
+        "awayscore": "13"
+    },
+    {
+        "week": 13,
+        "homescore": "22",
+        "hometeam": "Dolphins",
+        "awayteam": "Patriots",
+        "awayscore": "21"
+    },
+    {
+        "week": 13,
+        "homescore": "24",
+        "hometeam": "Steelers",
+        "awayteam": "Raiders",
+        "awayscore": "27"
+    },
+    {
+        "week": 13,
+        "homescore": "7",
+        "hometeam": "Falcons",
+        "awayteam": "Eagles",
+        "awayscore": "34"
+    },
+    {
+        "week": 13,
+        "homescore": "16",
+        "hometeam": "Panthers",
+        "awayteam": "Buccaneers",
+        "awayscore": "6"
+    },
+    {
+        "week": 13,
+        "homescore": "27",
+        "hometeam": "Colts",
+        "awayteam": "Titans",
+        "awayscore": "17"
+    },
+    {
+        "week": 13,
+        "homescore": "23",
+        "hometeam": "Jaguars",
+        "awayteam": "Texans",
+        "awayscore": "18"
+    },
+    {
+        "week": 13,
+        "homescore": "30",
+        "hometeam": "Commanders",
+        "awayteam": "Saints",
+        "awayscore": "33"
+    },
+    {
+        "week": 13,
+        "homescore": "23",
+        "hometeam": "Browns",
+        "awayteam": "Chargers",
+        "awayscore": "30"
+    },
+    {
+        "week": 13,
+        "homescore": "31",
+        "hometeam": "Giants",
+        "awayteam": "Cowboys",
+        "awayscore": "24"
+    },
+    {
+        "week": 13,
+        "homescore": "20",
+        "hometeam": "Seahawks",
+        "awayteam": "Niners",
+        "awayscore": "17"
+    },
+    {
+        "week": 13,
+        "homescore": "30",
+        "hometeam": "Cardinals",
+        "awayteam": "Vikings",
+        "awayscore": "17"
+    },
+    {
+        "week": 13,
+        "homescore": "27",
+        "hometeam": "Packers",
+        "awayteam": "Ravens",
+        "awayscore": "14"
+    },
+    {
+        "week": 14,
+        "homescore": "13",
+        "hometeam": "Browns",
+        "awayteam": "Steelers",
+        "awayscore": "6"
+    },
+    {
+        "week": 14,
+        "homescore": "10",
+        "hometeam": "Chiefs",
+        "awayteam": "Bills",
+        "awayscore": "16"
+    },
+    {
+        "week": 14,
+        "homescore": "3",
+        "hometeam": "Buccaneers",
+        "awayteam": "Jets",
+        "awayscore": "26"
+    },
+    {
+        "week": 14,
+        "homescore": "23",
+        "hometeam": "Falcons",
+        "awayteam": "Saints",
+        "awayscore": "26"
+    },
+    {
+        "week": 14,
+        "homescore": "20",
+        "hometeam": "Patriots",
+        "awayteam": "Panthers",
+        "awayscore": "10"
+    },
+    {
+        "week": 14,
+        "homescore": "14",
+        "hometeam": "Bears",
+        "awayteam": "Packers",
+        "awayscore": "21"
+    },
+    {
+        "week": 14,
+        "homescore": "28",
+        "hometeam": "Colts",
+        "awayteam": "Broncos",
+        "awayscore": "16"
+    },
+    {
+        "week": 14,
+        "homescore": "48",
+        "hometeam": "Ravens",
+        "awayteam": "Lions",
+        "awayscore": "3"
+    },
+    {
+        "week": 14,
+        "homescore": "34",
+        "hometeam": "Texans",
+        "awayteam": "Seahawks",
+        "awayscore": "7"
+    },
+    {
+        "week": 14,
+        "homescore": "10",
+        "hometeam": "Jaguars",
+        "awayteam": "Dolphins",
+        "awayscore": "14"
+    },
+    {
+        "week": 14,
+        "homescore": "30",
+        "hometeam": "Vikings",
+        "awayteam": "Bengals",
+        "awayscore": "10"
+    },
+    {
+        "week": 14,
+        "homescore": "47",
+        "hometeam": "Titans",
+        "awayteam": "Rams",
+        "awayscore": "7"
+    },
+    {
+        "week": 14,
+        "homescore": "13",
+        "hometeam": "Raiders",
+        "awayteam": "Commanders",
+        "awayscore": "34"
+    },
+    {
+        "week": 14,
+        "homescore": "17",
+        "hometeam": "Cowboys",
+        "awayteam": "Chargers",
+        "awayscore": "20"
+    },
+    {
+        "week": 14,
+        "homescore": "38",
+        "hometeam": "Giants",
+        "awayteam": "Eagles",
+        "awayscore": "45"
+    },
+    {
+        "week": 14,
+        "homescore": "24",
+        "hometeam": "Niners",
+        "awayteam": "Cardinals",
+        "awayscore": "9"
+    },
+    {
+        "week": 15,
+        "homescore": "31",
+        "hometeam": "Jaguars",
+        "awayteam": "Colts",
+        "awayscore": "35"
+    },
+    {
+        "week": 15,
+        "homescore": "17",
+        "hometeam": "Saints",
+        "awayteam": "Cowboys",
+        "awayscore": "24"
+    },
+    {
+        "week": 15,
+        "homescore": "34",
+        "hometeam": "Chiefs",
+        "awayteam": "Browns",
+        "awayscore": "41"
+    },
+    {
+        "week": 15,
+        "homescore": "13",
+        "hometeam": "Rams",
+        "awayteam": "Texans",
+        "awayscore": "16"
+    },
+    {
+        "week": 15,
+        "homescore": "10",
+        "hometeam": "Bills",
+        "awayteam": "Patriots",
+        "awayscore": "17"
+    },
+    {
+        "week": 15,
+        "homescore": "24",
+        "hometeam": "Lions",
+        "awayteam": "Cardinals",
+        "awayscore": "31"
+    },
+    {
+        "week": 15,
+        "homescore": "27",
+        "hometeam": "Titans",
+        "awayteam": "Dolphins",
+        "awayscore": "24"
+    },
+    {
+        "week": 15,
+        "homescore": "7",
+        "hometeam": "Jets",
+        "awayteam": "Falcons",
+        "awayscore": "10"
+    },
+    {
+        "week": 15,
+        "homescore": "27",
+        "hometeam": "Chargers",
+        "awayteam": "Bengals",
+        "awayscore": "24"
+    },
+    {
+        "week": 15,
+        "homescore": "19",
+        "hometeam": "Broncos",
+        "awayteam": "Raiders",
+        "awayscore": "20"
+    },
+    {
+        "week": 15,
+        "homescore": "31",
+        "hometeam": "Ravens",
+        "awayteam": "Bears",
+        "awayscore": "7"
+    },
+    {
+        "week": 15,
+        "homescore": "37",
+        "hometeam": "Steelers",
+        "awayteam": "Packers",
+        "awayscore": "36"
+    },
+    {
+        "week": 15,
+        "homescore": "27",
+        "hometeam": "Eagles",
+        "awayteam": "Niners",
+        "awayscore": "13"
+    },
+    {
+        "week": 15,
+        "homescore": "7",
+        "hometeam": "Seahawks",
+        "awayteam": "Buccaneers",
+        "awayscore": "24"
+    },
+    {
+        "week": 15,
+        "homescore": "26",
+        "hometeam": "Panthers",
+        "awayteam": "Vikings",
+        "awayscore": "7"
+    },
+    {
+        "week": 15,
+        "homescore": "12",
+        "hometeam": "Commanders",
+        "awayteam": "Giants",
+        "awayscore": "45"
+    },
+    {
+        "week": 16,
+        "homescore": "17",
+        "hometeam": "Titans",
+        "awayteam": "Chargers",
+        "awayscore": "42"
+    },
+    {
+        "week": 16,
+        "homescore": "23",
+        "hometeam": "Browns",
+        "awayteam": "Raiders",
+        "awayscore": "9"
+    },
+    {
+        "week": 16,
+        "homescore": "31",
+        "hometeam": "Falcons",
+        "awayteam": "Bills",
+        "awayscore": "3"
+    },
+    {
+        "week": 16,
+        "homescore": "48",
+        "hometeam": "Packers",
+        "awayteam": "Seahawks",
+        "awayscore": "10"
+    },
+    {
+        "week": 16,
+        "homescore": "20",
+        "hometeam": "Dolphins",
+        "awayteam": "Texans",
+        "awayscore": "27"
+    },
+    {
+        "week": 16,
+        "homescore": "35",
+        "hometeam": "Patriots",
+        "awayteam": "Jaguars",
+        "awayscore": "7"
+    },
+    {
+        "week": 16,
+        "homescore": "23",
+        "hometeam": "Steelers",
+        "awayteam": "Ravens",
+        "awayscore": "20"
+    },
+    {
+        "week": 16,
+        "homescore": "9",
+        "hometeam": "Giants",
+        "awayteam": "Panthers",
+        "awayscore": "41"
+    },
+    {
+        "week": 16,
+        "homescore": "17",
+        "hometeam": "Bengals",
+        "awayteam": "Chiefs",
+        "awayscore": "10"
+    },
+    {
+        "week": 16,
+        "homescore": "17",
+        "hometeam": "Saints",
+        "awayteam": "Buccaneers",
+        "awayscore": "20"
+    },
+    {
+        "week": 16,
+        "homescore": "20",
+        "hometeam": "Niners",
+        "awayteam": "Lions",
+        "awayscore": "6"
+    },
+    {
+        "week": 16,
+        "homescore": "31",
+        "hometeam": "Cardinals",
+        "awayteam": "Rams",
+        "awayscore": "10"
+    },
+    {
+        "week": 16,
+        "homescore": "15",
+        "hometeam": "Colts",
+        "awayteam": "Jets",
+        "awayscore": "29"
+    },
+    {
+        "week": 16,
+        "homescore": "30",
+        "hometeam": "Eagles",
+        "awayteam": "Broncos",
+        "awayscore": "27"
+    },
+    {
+        "week": 16,
+        "homescore": "0",
+        "hometeam": "Commanders",
+        "awayteam": "Cowboys",
+        "awayscore": "17"
+    },
+    {
+        "week": 16,
+        "homescore": "36",
+        "hometeam": "Bears",
+        "awayteam": "Vikings",
+        "awayscore": "30"
+    },
+    {
+        "week": 17,
+        "homescore": "6",
+        "hometeam": "Rams",
+        "awayteam": "Niners",
+        "awayscore": "28"
+    },
+    {
+        "week": 17,
+        "homescore": "30",
+        "hometeam": "Bills",
+        "awayteam": "Colts",
+        "awayscore": "7"
+    },
+    {
+        "week": 17,
+        "homescore": "23",
+        "hometeam": "Browns",
+        "awayteam": "Jaguars",
+        "awayscore": "17"
+    },
+    {
+        "week": 17,
+        "homescore": "34",
+        "hometeam": "Texans",
+        "awayteam": "Patriots",
+        "awayscore": "27"
+    },
+    {
+        "week": 17,
+        "homescore": "24",
+        "hometeam": "Dolphins",
+        "awayteam": "Steelers",
+        "awayscore": "30"
+    },
+    {
+        "week": 17,
+        "homescore": "10",
+        "hometeam": "Buccaneers",
+        "awayteam": "Falcons",
+        "awayscore": "20"
+    },
+    {
+        "week": 17,
+        "homescore": "23",
+        "hometeam": "Lions",
+        "awayteam": "Bears",
+        "awayscore": "37"
+    },
+    {
+        "week": 17,
+        "homescore": "23",
+        "hometeam": "Panthers",
+        "awayteam": "Saints",
+        "awayscore": "10"
+    },
+    {
+        "week": 17,
+        "homescore": "44",
+        "hometeam": "Vikings",
+        "awayteam": "Giants",
+        "awayscore": "7"
+    },
+    {
+        "week": 17,
+        "homescore": "7",
+        "hometeam": "Cardinals",
+        "awayteam": "Packers",
+        "awayscore": "33"
+    },
+    {
+        "week": 17,
+        "homescore": "24",
+        "hometeam": "Cowboys",
+        "awayteam": "Eagles",
+        "awayscore": "0"
+    },
+    {
+        "week": 17,
+        "homescore": "24",
+        "hometeam": "Broncos",
+        "awayteam": "Chiefs",
+        "awayscore": "44"
+    },
+    {
+        "week": 17,
+        "homescore": "13",
+        "hometeam": "Raiders",
+        "awayteam": "Ravens",
+        "awayscore": "21"
+    },
+    {
+        "week": 17,
+        "homescore": "23",
+        "hometeam": "Chargers",
+        "awayteam": "Commanders",
+        "awayscore": "20"
+    },
+    {
+        "week": 17,
+        "homescore": "13",
+        "hometeam": "Seahawks",
+        "awayteam": "Titans",
+        "awayscore": "17"
+    },
+    {
+        "week": 17,
+        "homescore": "37",
+        "hometeam": "Jets",
+        "awayteam": "Bengals",
+        "awayscore": "0"
+    },
+    {
+        "week": 18,
+        "homescore": "14",
+        "hometeam": "Bengals",
+        "awayteam": "Jets",
+        "awayscore": "24"
+    },
+    {
+        "week": 18,
+        "homescore": "34",
+        "hometeam": "Cowboys",
+        "awayteam": "Eagles",
+        "awayscore": "14"
+    },
+    {
+        "week": 18,
+        "homescore": "14",
+        "hometeam": "Patriots",
+        "awayteam": "Ravens",
+        "awayscore": "33"
+    },
+    {
+        "week": 18,
+        "homescore": "51",
+        "hometeam": "Cardinals",
+        "awayteam": "Packers",
+        "awayscore": "45"
+    },
+    {
+        "week": 19,
+        "homescore": "45",
+        "hometeam": "Saints",
+        "awayteam": "Cardinals",
+        "awayscore": "14"
+    },
+    {
+        "week": 19,
+        "homescore": "20",
+        "hometeam": "Colts",
+        "awayteam": "Ravens",
+        "awayscore": "3"
+    },
+    {
+        "week": 19,
+        "homescore": "34",
+        "hometeam": "Vikings",
+        "awayteam": "Cowboys",
+        "awayscore": "3"
+    },
+    {
+        "week": 19,
+        "homescore": "14",
+        "hometeam": "Chargers",
+        "awayteam": "Jets",
+        "awayscore": "17"
+    },
+    {
+        "week": 20,
+        "homescore": "30",
+        "hometeam": "Colts",
+        "awayteam": "Jets",
+        "awayscore": "17"
+    },
+    {
+        "week": 20,
+        "homescore": "31",
+        "hometeam": "Saints",
+        "awayteam": "Vikings",
+        "awayscore": "28"
+    },
+    {
+        "week": 21,
+        "homescore": "17",
+        "hometeam": "Colts",
+        "awayteam": "Saints",
+        "awayscore": "31"
+    }
+]

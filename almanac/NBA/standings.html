@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Mitchell Xanders' Website</title>
+    <!-- Bootstrap core CSS -->
+    <link href="../../css/bootstrap.css" rel="stylesheet">`
+    <link href="../almanacstyle.css" rel="stylesheet">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../favicon-16x16.png">
+    <link rel="manifest" href="../../site.webmanifest">
+    <link rel="mask-icon" href="../../safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="nba.js"></script>
+    <script type="text/javascript">
+        var standings = null;
+        $.ajax({
+            'async': false,
+            'global': false,
+            'url': "standings.json",
+            'dataType': "json",
+            'success': function (data) {
+                standings = data;
+            }
+        });
+    </script>
+</head>
+<style>
+    #east,
+    #west {
+        background-color: whitesmoke;
+    }
+
+    .WC th {
+        background-color: firebrick;
+        color: white;
+    }
+
+    .EC th {
+        background-color: royalblue;
+        color: white;
+    }
+
+    .AFC tr, .NFC tr {
+        background-color: white;
+    }
+
+    #westconference tr:nth-child(n+2):nth-child(-n+9), #eastconference tr:nth-child(n+2):nth-child(-n+9){
+        background-color: rgba(0,255,0,0.2);
+    }    
+
+    .btn {
+        background-color: black;
+        color: white;
+    }
+    .btn:hover{
+        background-color: white;
+        color: black;
+    }    
+</style>
+
+<body class="NBA">
+    <div class="container">
+        <h1 class="h1 py-3" align="center"><b>NBA Standings</b></h1>
+        <div class="row w-100 d-flex">
+            <div class="col"><button class="btn w-100" onclick="openTab('west')">Western Conference</button></div>
+            <div class="col"><button class="btn w-100" onclick="openTab('east')">Eastern Conference</button></div>
+        </div>
+        <div class="row pt-4">
+            <div class="container" id="west" style="display: block">
+                <p class="font-weight-bold py-3 h3 text-center">Western Conference Standings</p>
+                <table class="WC table" id="westconference">
+                    <thead>
+                        <tr>
+                            <th class="col-4">Team</th>
+                            <th>Record</th>
+                            <th>Pct.</th>
+                            <th>GB</th>
+                        </tr>
+                    </thead>
+                </table>
+                <script type="text/javascript">
+                    var tbl = document.getElementById('westconference');
+                    fillConfTable(tbl, 'West');</script>
+            </div>
+            <div class="container" id="east" style="display: none">
+                <p class="font-weight-bold py-3 h3 text-center">Eastern Conference Standings</p>
+                <table class="EC table" id="eastconference">
+                    <thead>
+                        <tr>
+                            <th class="col-4">Team</th>
+                            <th>Record</th>
+                            <th>Pct.</th>
+                            <th>GB</th>
+                        </tr>
+                    </thead>
+                </table>
+                <script type="text/javascript">
+                    var tbl = document.getElementById('eastconference');
+                    fillConfTable(tbl, 'East');</script>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src=",,/../../../js/bootstrap.js"></script>
+    </footer>
+</body>
+
+</html>

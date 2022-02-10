@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Mitchell Xanders' Website</title>
+    <!-- Bootstrap core CSS -->
+    <link href="../../css/bootstrap.css" rel="stylesheet">`
+    <link href="../almanacstyle.css" rel="stylesheet">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../favicon-16x16.png">
+    <link rel="manifest" href="../../site.webmanifest">
+    <link rel="mask-icon" href="../../safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+</head>
+<style>
+    a.card-title:hover {
+        color: maroon;
+        text-decoration: none;
+    }
+
+    .list-group-item.active {
+        background-color: black;
+        border-color: black;
+    }
+</style>
+
+<body class="NBA">
+    <div class="container mt-lg-5">
+        <h1 class="display-3 text-center">NBA</h1>
+        <hr style="background: #cccccc">
+        <div class="row">
+            <div class="col-4">
+                <div class="list-group" id="list-tab" role="tablist">
+                    <a class="list-group-item list-group-item-action active" id="list-standings-list" data-toggle="list"
+                        href="#list-standings" role="tab" aria-controls="profile">Standings</a>
+                    <a class="list-group-item list-group-item-action" id="list-playoffs-list" data-toggle="list"
+                        href="#list-playoffs" role="tab" aria-controls="messages">Playoffs</a>
+                </div>
+            </div>
+            <div class="col-8 rounded text-center">
+                <div class="tab-content h-100" id="nav-tabContent">
+                    <div class="tab-pane fade show active h-100" id="list-standings" role="tabpanel"
+                        aria-labelledby="list-standings-list">
+                        <div class="card h-100">
+                            <div class="card-body">
+                                <a class="h3 card-title text-uppercase font-weight-bold"
+                                    href="standings.html">Standings</a>
+                                <hr style="background: black; width: 50%;">
+                                <p class="card-text">NBA standings, broken down by conference</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade h-100" id="list-playoffs" role="tabpanel"
+                        aria-labelledby="list-playoffs-list">
+                        <div class="card h-100">
+                            <div class="card-body">
+                                <a class="h3 card-title text-uppercase font-weight-bold"
+                                    href="playoffs.html">Playoffs</a>
+                                <hr style="background: black; width: 50%;">
+                                <p class="card-text">Full NBA playoff bracket</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src=",,/../../../js/bootstrap.js"></script>
+    </footer>
+</body>
+
+</html>

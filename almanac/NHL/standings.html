@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Mitchell Xanders' Website</title>
+    <!-- Bootstrap core CSS -->
+    <link href="../../css/bootstrap.css" rel="stylesheet">
+    <link href="../almanacstyle.css" rel="stylesheet">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../favicon-16x16.png">
+    <link rel="manifest" href="../../site.webmanifest">
+    <link rel="mask-icon" href="../../safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="nhl.js"></script>
+</head>
+<script type="text/javascript">
+    $.ajax({
+        'async': false,
+        'global': false,
+        'url': "standings.json",
+        'dataType': "json",
+        'success': function (data) {
+            standings = data;
+        }
+    });
+</script>
+<style>
+    #western,
+    #eastern, #westplayoffs, #eastplayoffs {
+        background-color: whitesmoke;
+        color: black;
+    }
+
+    .AFC th {
+        background-color: firebrick;
+        color: white;
+    }
+
+    .NFC th {
+        background-color: midnightblue;
+        color: white;
+    }
+
+    .AFC tr, .NFC tr {
+        background-color: white;
+    }
+
+    #atlantic tr:nth-child(n+2):nth-child(-n+4), #central tr:nth-child(n+2):nth-child(-n+4), #metro tr:nth-child(n+2):nth-child(-n+4), #pacific tr:nth-child(n+2):nth-child(-n+4){
+        background-color: rgba(0,255,0,0.2);
+    }
+
+    #westwc tr:nth-child(n+2):nth-child(-n+3), #eastwc tr:nth-child(n+2):nth-child(-n+3){
+        background-color: rgba(0,0,255,0.2);
+    }
+
+    p {
+        color: black !important;
+    }
+
+    .btn {
+        background-color: black;
+        color: white;
+    }
+
+    .btn:hover {
+        background-color: deepskyblue;
+        color: black;
+    }
+</style>
+
+<body class="NHL">
+    <div class="container">
+        <h1 class="h1 py-3" align="center"><b>NHL Standings</b></h1>
+        <div class="row w-100 d-flex">
+            <div class="col"><button class="btn w-100" onclick="openTab('western')">Western Conference</button></div>
+            <div class="col"><button class="btn w-100" onclick="openTab('eastern')">Eastern Conference</button></div>
+            <div class="col"><button class="btn w-100" onclick="openTab('westplayoffs')">Western Playoffs</button></div>
+            <div class="col"><button class="btn w-100" onclick="openTab('eastplayoffs')">Eastern Playoffs</button></div>
+        </div>
+        <div class="row pt-4">
+            <div class="container" id="western" style="display: block">
+                <p class="font-weight-bold py-3 h3 text-center">Western Conference Standings</p>
+                <table class="NFC table" id="central">
+                    <thead>
+                        <tr>
+                            <th class="col-3">Central</th>
+                            <th>Record</th>
+                            <th>Pts</th>
+                            <th>ROW</th>
+                            <th>GF</th>
+                            <th>GA</th>
+                            <th>GD</th>
+                            <th>PT %</th>
+                            <th>GR</th>
+                        </tr>
+                    </thead>
+                </table>
+                <script type="text/javascript">
+                    divTableAgg('central', 'Central');</script>
+                <table class="NFC table" id="pacific">
+                    <thead>
+                        <tr>
+                            <th class="col-3">Pacific</th>
+                            <th>Record</th>
+                            <th>Pts</th>
+                            <th>ROW</th>
+                            <th>GF</th>
+                            <th>GA</th>
+                            <th>GD</th>
+                            <th>PT %</th>
+                            <th>GR</th>
+                        </tr>
+                    </thead>
+                </table>
+                <script type="text/javascript">
+                    divTableAgg('pacific', 'Pacific');</script>
+            </div>
+            <div class="container" id="eastern" style="display: none">
+                <p class="font-weight-bold py-3 h3 text-center">Eastern Conference Standings</p>
+                <table class="AFC table" id="atlantic">
+                    <thead>
+                        <tr>
+                            <th class="col-3">Atlantic</th>
+                            <th>Record</th>
+                            <th>Pts</th>
+                            <th>ROW</th>
+                            <th>GF</th>
+                            <th>GA</th>
+                            <th>GD</th>
+                            <th>PT %</th>
+                            <th>GR</th>
+                        </tr>
+                    </thead>
+                </table>
+                <script type="text/javascript">
+                    divTableAgg('atlantic', 'Atlantic');</script>
+                <table class="AFC table" id="metro">
+                    <thead>
+                        <tr>
+                            <th class="col-3">Metropolitan</th>
+                            <th>Record</th>
+                            <th>Pts</th>
+                            <th>ROW</th>
+                            <th>GF</th>
+                            <th>GA</th>
+                            <th>GD</th>
+                            <th>PT %</th>
+                            <th>GR</th>
+                        </tr>
+                    </thead>
+                </table>
+                <script type="text/javascript">
+                    divTableAgg('metro', 'Metropolitan');</script>
+            </div>
+            <div class="container" id="westplayoffs" style="display: none">
+                <p class="font-weight-bold py-3 h3 text-center">Western Conference Playoff Picture</p>
+                <table class="NFC table" id="cenleaders">
+                    <thead>
+                        <tr>
+                            <th class="col-3">Central</th>
+                            <th>Record</th>
+                            <th>Pts</th>
+                            <th>ROW</th>
+                            <th>GF</th>
+                            <th>GA</th>
+                            <th>GD</th>
+                            <th>PT %</th>
+                            <th>GR</th>
+                        </tr>
+                    </thead>
+                </table>
+                <table class="NFC table" id="pacleaders">
+                    <thead>
+                        <tr>
+                            <th class="col-3">Pacific</th>
+                            <th>Record</th>
+                            <th>Pts</th>
+                            <th>ROW</th>
+                            <th>GF</th>
+                            <th>GA</th>
+                            <th>GD</th>
+                            <th>PT %</th>
+                            <th>GR</th>
+                        </tr>
+                    </thead>
+                </table>
+                <table class="NFC table" id="westwc">
+                    <thead>
+                        <tr>
+                            <th class="col-3">Wild Cards</th>
+                            <th>Record</th>
+                            <th>Pts</th>
+                            <th>ROW</th>
+                            <th>GF</th>
+                            <th>GA</th>
+                            <th>GD</th>
+                            <th>PT %</th>
+                            <th>GR</th>
+                        </tr>
+                    </thead>
+                </table>                
+                <script type="text/javascript">confTableAgg('cenleaders', 'pacleaders', 'westwc', 'West', west_lead, west_wc);</script>
+            </div>
+            <div class="container" id="eastplayoffs" style="display: none">
+                <p class="font-weight-bold py-3 h3 text-center">Eastern Conference Playoff Picture</p>
+                <table class="AFC table" id="atlleaders">
+                    <thead>
+                        <tr>
+                            <th class="col-3">Atlantic</th>
+                            <th>Record</th>
+                            <th>Pts</th>
+                            <th>ROW</th>
+                            <th>GF</th>
+                            <th>GA</th>
+                            <th>GD</th>
+                            <th>PT %</th>
+                            <th>GR</th>
+                        </tr>
+                    </thead>
+                </table>
+                <table class="AFC table" id="metleaders">
+                    <thead>
+                        <tr>
+                            <th class="col-3">Metropolitan</th>
+                            <th>Record</th>
+                            <th>Pts</th>
+                            <th>ROW</th>
+                            <th>GF</th>
+                            <th>GA</th>
+                            <th>GD</th>
+                            <th>PT %</th>
+                            <th>GR</th>
+                        </tr>
+                    </thead>
+                </table>
+                <table class="AFC table" id="eastwc">
+                    <thead>
+                        <tr>
+                            <th class="col-3">Wild Cards</th>
+                            <th>Record</th>
+                            <th>Pts</th>
+                            <th>ROW</th>
+                            <th>GF</th>
+                            <th>GA</th>
+                            <th>GD</th>
+                            <th>PT %</th>
+                            <th>GR</th>
+                        </tr>
+                    </thead>
+                </table>                
+                <script type="text/javascript">confTableAgg('atlleaders', 'metleaders', 'eastwc', 'East', east_lead, east_wc);</script>
+            </div>            
+        </div>
+    </div>
+    </div>
+</body>
+
+</html>

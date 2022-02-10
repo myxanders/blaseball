@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Mitchell Xanders' Website</title>
+    <!-- Bootstrap core CSS -->
+    <link href="../../css/bootstrap.css" rel="stylesheet">`
+    <link href="../almanacstyle.css" rel="stylesheet">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../favicon-16x16.png">
+    <link rel="manifest" href="../../site.webmanifest">
+    <link rel="mask-icon" href="../../safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+</head>
+<style>
+    a.card-title#list-prem:hover {
+        color: aqua;
+        text-decoration: none;
+    }
+
+    .list-group-item.active#list-prem-list {
+        background-color: purple;
+        border-color: purple;
+    }
+
+    #list-prem {
+        color: purple;
+    }
+
+    a.card-title#list-champ:hover {
+        color: black;
+        text-decoration: none;
+    }
+
+    .list-group-item.active#list-champ-list {
+        background-color: goldenrod;
+        border-color: goldenrod;
+    }
+
+    #list-champ {
+        color: goldenrod;
+    }
+
+    a.card-title#list-leagueone:hover {
+        color: black;
+        text-decoration: none;
+    }
+
+    .list-group-item.active#list-leagueone-list {
+        background-color: darkgrey;
+        border-color: darkgrey;
+    }
+
+    #list-leagueone {
+        color: darkgrey;
+    }
+
+    a.card-title#list-leaguetwo:hover {
+        color: black;
+        text-decoration: none;
+    }
+
+    .list-group-item.active#list-leaguetwo-list {
+        background-color: red;
+        border-color: red;
+    }
+
+    #list-leaguetwo {
+        color: red;
+    }
+</style>
+
+<body class="EFL">
+    <div class="container mt-lg-5">
+        <h1 class="display-3 text-center font-weight-bold">EFL</h1>
+        <hr style="background: #cccccc">
+        <div class="row">
+            <div class="col-4">
+                <div class="list-group" id="list-tab" role="tablist">
+                    <a class="list-group-item list-group-item-action active" id="list-prem-list" data-toggle="list"
+                        href="#list-prem" role="tab" aria-controls="home">Premier League</a>
+                    <a class="list-group-item list-group-item-action" id="list-champ-list" data-toggle="list"
+                        href="#list-champ" role="tab" aria-controls="profile">Championship</a>
+                    <a class="list-group-item list-group-item-action" id="list-leagueone-list" data-toggle="list"
+                        href="#list-leagueone" role="tab" aria-controls="messages">League One</a>
+                    <a class="list-group-item list-group-item-action" id="list-leaguetwo-list" data-toggle="list"
+                        href="#list-leaguetwo" role="tab" aria-controls="messages">League Two</a>
+                </div>
+            </div>
+            <div class="col-8 rounded text-center">
+                <div class="tab-content h-100" id="nav-tabContent">
+                    <div class="tab-pane fade show active h-100" id="list-prem" role="tabpanel"
+                        aria-labelledby="list-prem-list">
+                        <div class="card h-100">
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col align-middle">
+                                        <a class="h3 card-title text-uppercase font-weight-bold" id="list-prem"
+                                            href="prem.html">Fixtures</a>
+                                        <hr style="background: purple; width: 50%;">
+                                        <p class="card-text">Full Premier League schedule</p>
+                                    </div>
+                                    <div class="col align-middle">
+                                        <a class="h3 card-title text-uppercase font-weight-bold" id="list-prem"
+                                            href="prem.html">Table</a>
+                                        <hr style="background: purple; width: 50%;">
+                                        <p class="card-text">Premier League table</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade h-100" id="list-champ" role="tabpanel" aria-labelledby="list-champ-list">
+                        <div class="card h-100">
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col align-middle">
+                                        <a class="h3 card-title text-uppercase font-weight-bold" id="list-champ"
+                                            href="prem.html">Fixtures</a>
+                                        <hr style="background: goldenrod; width: 50%;">
+                                        <p class="card-text">Full EFL Championship schedule</p>
+                                    </div>
+                                    <div class="col align-middle">
+                                        <a class="h3 card-title text-uppercase font-weight-bold" id="list-champ"
+                                            href="prem.html">Table</a>
+                                        <hr style="background: goldenrod; width: 50%;">
+                                        <p class="card-text">EFL Championship table</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade h-100" id="list-leagueone" role="tabpanel"
+                        aria-labelledby="list-leagueone-list">
+                        <div class="card h-100">
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col align-middle">
+                                        <a class="h3 card-title text-uppercase font-weight-bold" id="list-leagueone"
+                                            href="prem.html">Fixtures</a>
+                                        <hr style="background: darkgrey; width: 50%;">
+                                        <p class="card-text">Full League One schedule</p>
+                                    </div>
+                                    <div class="col align-middle">
+                                        <a class="h3 card-title text-uppercase font-weight-bold" id="list-leagueone"
+                                            href="prem.html">Table</a>
+                                        <hr style="background: darkgrey; width: 50%;">
+                                        <p class="card-text">League One table</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade h-100" id="list-leaguetwo" role="tabpanel"
+                        aria-labelledby="list-leaguetwo-list">
+                        <div class="card h-100">
+                            <div class="card-body">
+                                <div class="row">
+                                    <div class="col align-middle">
+                                        <a class="h3 card-title text-uppercase font-weight-bold" id="list-leaguetwo"
+                                            href="prem.html">Fixtures</a>
+                                        <hr style="background: red; width: 50%;">
+                                        <p class="card-text">Full League Two schedule</p>
+                                    </div>
+                                    <div class="col align-middle">
+                                        <a class="h3 card-title text-uppercase font-weight-bold" id="list-leaguetwo"
+                                            href="prem.html">Table</a>
+                                        <hr style="background: crimson; width: 50%;">
+                                        <p class="card-text">League Two table</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src=",,/../../../js/bootstrap.js"></script>
+    </footer>
+</body>
+
+</html>

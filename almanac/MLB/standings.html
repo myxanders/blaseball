@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Mitchell Xanders' Website</title>
+    <!-- Bootstrap core CSS -->
+    <link href="../../css/bootstrap.css" rel="stylesheet">
+    <link href="../almanacstyle.css" rel="stylesheet">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../favicon-16x16.png">
+    <link rel="manifest" href="../../site.webmanifest">
+    <link rel="mask-icon" href="../../safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="mlb.js"></script>
+</head>
+<script type="text/javascript">
+    $.ajax({
+        'async': false,
+        'global': false,
+        'url': "standings.json",
+        'dataType': "json",
+        'success': function (data) {
+            standings = data;
+        }
+    });
+</script>
+<style>
+    #american,
+    #national, #playoffs {
+        background-color: whitesmoke;
+        color: black;
+    }
+
+    .AFC th {
+        background-color: red;
+        color: white;
+    }
+
+    .NFC th {
+        background-color: navy;
+        color: white;
+    }
+
+    .AFC tr, .NFC tr {
+        background-color: white;
+    }
+
+    #alplayoffs tr:nth-child(n+2):nth-child(-n+4), #nlplayoffs tr:nth-child(n+2):nth-child(-n+4){
+        background-color: rgba(0,255,0,0.2);
+    }
+
+    #alplayoffs tr:nth-child(n+5):nth-child(-n+6), #nlplayoffs tr:nth-child(n+5):nth-child(-n+6){
+        background-color: rgba(0,0,255,0.2);
+    }
+
+    p {
+        color: black !important;
+    }
+
+    .btn {
+        background-color: white;
+        color: red;
+    }
+
+    .btn:hover {
+        background-color: crimson;
+        color: black;
+    }
+</style>
+
+<body class="MLB">
+    <div class="container">
+        <h1 class="h1 py-3" align="center"><b>MLB Standings</b></h1>
+        <div class="row w-100 d-flex">
+            <div class="col"><button class="btn w-100" onclick="openTab('american')">American League</button></div>
+            <div class="col"><button class="btn w-100" onclick="openTab('national')">National League</button></div>
+            <div class="col"><button class="btn w-100" onclick="openTab('playoffs')">Playoffs</button></div>
+        </div>
+        <div class="row pt-4">
+            <div class="container" id="american" style="display: block">
+                <p class="font-weight-bold py-3 h3 text-center">American League Standings</p>
+                <table class="AFC table" id="aleast">
+                    <thead>
+                        <tr>
+                            <th class="col-3">East</th>
+                            <th>Record</th>
+                            <th>Pct.</th>
+                            <th>GB</th>
+                            <th>E#</th>
+                        </tr>
+                    </thead>
+                </table>
+                <script type="text/javascript">
+                    divTableAgg(al, 'East', 'aleast');</script>
+                <table class="AFC table" id="alcentral">
+                    <thead>
+                        <tr>
+                            <th class="col-3">Central</th>
+                            <th>Record</th>
+                            <th>Pct.</th>
+                            <th>GB</th>
+                            <th>E#</th>
+                        </tr>
+                    </thead>
+                </table>
+                <script type="text/javascript">
+                    divTableAgg(al, 'Central', 'alcentral');</script>
+                <table class="AFC table" id="alwest">
+                    <thead>
+                        <tr>
+                            <th class="col-3">West</th>
+                            <th>Record</th>
+                            <th>Pct.</th>
+                            <th>GB</th>
+                            <th>E#</th>
+                        </tr>
+                    </thead>
+                </table>
+                <script type="text/javascript">
+                    divTableAgg(al, 'West', 'alwest');</script>
+            </div>
+            <div class="container" id="national" style="display: none">
+                <p class="font-weight-bold py-3 h3 text-center">National League Standings</p>
+                <table class="NFC table" id="nleast">
+                    <thead>
+                        <tr>
+                            <th class="col-3">East</th>
+                            <th>Record</th>
+                            <th>Pct.</th>
+                            <th>GB</th>
+                            <th>E#</th>
+                        </tr>
+                    </thead>
+                </table>
+                <script type="text/javascript">
+                    divTableAgg(nl, 'East', 'nleast');</script>
+                <table class="NFC table" id="nlcentral">
+                    <thead>
+                        <tr>
+                            <th class="col-3">Central</th>
+                            <th>Record</th>
+                            <th>Pct.</th>
+                            <th>GB</th>
+                            <th>E#</th>
+                        </tr>
+                    </thead>
+                </table>
+                <script type="text/javascript">
+                    divTableAgg(nl, 'Central', 'nlcentral');</script>
+                <table class="NFC table" id="nlwest">
+                    <thead>
+                        <tr>
+                            <th class="col-3">West</th>
+                            <th>Record</th>
+                            <th>Pct.</th>
+                            <th>GB</th>
+                            <th>E#</th>
+                        </tr>
+                    </thead>
+                </table>
+                <script type="text/javascript">
+                    divTableAgg(nl, 'West', 'nlwest');</script>
+            </div>
+            <div class="container" id="playoffs" style="display: none">
+                <p class="font-weight-bold py-3 h3 text-center">Playoff Picture</p>
+                <p class="font-weight-bold py-3 h5 text-center">American League</p>
+                <table class="AFC table" id="alplayoffs">
+                    <thead>
+                        <tr>
+                            <th class="col-3">West</th>
+                            <th>Record</th>
+                            <th>Pct.</th>
+                            <th>GB</th>
+                            <th>E#</th>
+                        </tr>
+                    </thead>
+                </table>
+                <script type="text/javascript">confTableAgg('al', 'alplayoffs');</script>
+                <p class="font-weight-bold py-3 h5 text-center">National League</p>
+                <table class="NFC table" id="nlplayoffs">
+                    <thead>
+                        <tr>
+                            <th class="col-3">West</th>
+                            <th>Record</th>
+                            <th>Pct.</th>
+                            <th>GB</th>
+                            <th>E#</th>
+                        </tr>
+                    </thead>
+                </table>
+                <script type="text/javascript">confTableAgg('nl', 'nlplayoffs');</script>
+            </div>
+        </div>
+    </div>
+    </div>
+</body>
+
+</html>

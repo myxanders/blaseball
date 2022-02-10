@@ -1,0 +1,272 @@
+[
+    {
+        "team": "76ers",
+        "W": 51,
+        "L": 31,
+        "PCT": 0.622,
+        "GB": 9.0,
+        "conf": "East",
+        "tb": 0
+    },
+    {
+        "team": "Bucks",
+        "W": 60,
+        "L": 22,
+        "PCT": 0.732,
+        "GB": 0.0,
+        "conf": "East",
+        "tb": 0
+    },
+    {
+        "team": "Bulls",
+        "W": 22,
+        "L": 60,
+        "PCT": 0.268,
+        "GB": 38.0,
+        "conf": "East",
+        "tb": 0
+    },
+    {
+        "team": "Cavaliers",
+        "W": 19,
+        "L": 63,
+        "PCT": 0.232,
+        "GB": 41.0,
+        "conf": "East",
+        "tb": 0
+    },
+    {
+        "team": "Celtics",
+        "W": 49,
+        "L": 33,
+        "PCT": 0.598,
+        "GB": 11.0,
+        "conf": "East",
+        "tb": 0
+    },
+    {
+        "team": "Clippers",
+        "W": 48,
+        "L": 34,
+        "PCT": 0.585,
+        "GB": 9.0,
+        "conf": "West",
+        "tb": 0
+    },
+    {
+        "team": "Grizzlies",
+        "W": 33,
+        "L": 49,
+        "PCT": 0.402,
+        "GB": 24.0,
+        "conf": "West",
+        "tb": 0
+    },
+    {
+        "team": "Hawks",
+        "W": 29,
+        "L": 53,
+        "PCT": 0.354,
+        "GB": 31.0,
+        "conf": "East",
+        "tb": 0
+    },
+    {
+        "team": "Heat",
+        "W": 39,
+        "L": 43,
+        "PCT": 0.476,
+        "GB": 21.0,
+        "conf": "East",
+        "tb": 0
+    },
+    {
+        "team": "Hornets",
+        "W": 39,
+        "L": 43,
+        "PCT": 0.476,
+        "GB": 21.0,
+        "conf": "East",
+        "tb": 0
+    },
+    {
+        "team": "Jazz",
+        "W": 50,
+        "L": 32,
+        "PCT": 0.61,
+        "GB": 7.0,
+        "conf": "West",
+        "tb": 0
+    },
+    {
+        "team": "Kings",
+        "W": 39,
+        "L": 43,
+        "PCT": 0.476,
+        "GB": 18.0,
+        "conf": "West",
+        "tb": 0
+    },
+    {
+        "team": "Knicks",
+        "W": 17,
+        "L": 65,
+        "PCT": 0.207,
+        "GB": 43.0,
+        "conf": "East",
+        "tb": 0
+    },
+    {
+        "team": "Lakers",
+        "W": 37,
+        "L": 45,
+        "PCT": 0.451,
+        "GB": 20.0,
+        "conf": "West",
+        "tb": 0
+    },
+    {
+        "team": "Magic",
+        "W": 42,
+        "L": 40,
+        "PCT": 0.512,
+        "GB": 18.0,
+        "conf": "East",
+        "tb": 0
+    },
+    {
+        "team": "Mavericks",
+        "W": 33,
+        "L": 49,
+        "PCT": 0.402,
+        "GB": 24.0,
+        "conf": "West",
+        "tb": 0
+    },
+    {
+        "team": "Nets",
+        "W": 42,
+        "L": 40,
+        "PCT": 0.512,
+        "GB": 18.0,
+        "conf": "East",
+        "tb": 1
+    },
+    {
+        "team": "Nuggets",
+        "W": 54,
+        "L": 28,
+        "PCT": 0.659,
+        "GB": 3.0,
+        "conf": "West",
+        "tb": 0
+    },
+    {
+        "team": "Pacers",
+        "W": 48,
+        "L": 34,
+        "PCT": 0.585,
+        "GB": 12.0,
+        "conf": "East",
+        "tb": 0
+    },
+    {
+        "team": "Pelicans",
+        "W": 33,
+        "L": 49,
+        "PCT": 0.402,
+        "GB": 24.0,
+        "conf": "West",
+        "tb": 0
+    },
+    {
+        "team": "Pistons",
+        "W": 41,
+        "L": 41,
+        "PCT": 0.5,
+        "GB": 19.0,
+        "conf": "East",
+        "tb": 0
+    },
+    {
+        "team": "Raptors",
+        "W": 58,
+        "L": 24,
+        "PCT": 0.707,
+        "GB": 2.0,
+        "conf": "East",
+        "tb": 0
+    },
+    {
+        "team": "Rockets",
+        "W": 53,
+        "L": 29,
+        "PCT": 0.646,
+        "GB": 4.0,
+        "conf": "West",
+        "tb": 0
+    },
+    {
+        "team": "Spurs",
+        "W": 48,
+        "L": 34,
+        "PCT": 0.585,
+        "GB": 9.0,
+        "conf": "West",
+        "tb": 1
+    },
+    {
+        "team": "Suns",
+        "W": 19,
+        "L": 63,
+        "PCT": 0.232,
+        "GB": 38.0,
+        "conf": "West",
+        "tb": 0
+    },
+    {
+        "team": "Thunder",
+        "W": 49,
+        "L": 33,
+        "PCT": 0.598,
+        "GB": 8.0,
+        "conf": "West",
+        "tb": 0
+    },
+    {
+        "team": "Timberwolves",
+        "W": 36,
+        "L": 46,
+        "PCT": 0.439,
+        "GB": 21.0,
+        "conf": "West",
+        "tb": 0
+    },
+    {
+        "team": "Trail Blazers",
+        "W": 53,
+        "L": 29,
+        "PCT": 0.646,
+        "GB": 4.0,
+        "conf": "West",
+        "tb": 0
+    },
+    {
+        "team": "Warriors",
+        "W": 57,
+        "L": 25,
+        "PCT": 0.695,
+        "GB": 0.0,
+        "conf": "West",
+        "tb": 0
+    },
+    {
+        "team": "Wizards",
+        "W": 32,
+        "L": 50,
+        "PCT": 0.39,
+        "GB": 28.0,
+        "conf": "East",
+        "tb": 0
+    }
+]
