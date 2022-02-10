@@ -18,10 +18,19 @@
     <meta name="theme-color" content="#ffffff">
 </head>
 <style>
-    #bracket {
-        overflow: hidden;
-        overflow-x: scroll;
+
+    #bracket::-webkit-scrollbar {
+        display: none;
     }
+
+    /* Hide scrollbar for IE, Edge and Firefox */
+    #bracket {
+        -ms-overflow-style: none;
+        /* IE and Edge */
+        scrollbar-width: none;
+        /* Firefox */
+    }
+
     #playoffbracket td {
         border: 2px solid whitesmoke;
     }
@@ -36,9 +45,11 @@
         background-color: none;
         color: none;
     }
+
     #afcseed {
         float: left;
     }
+
     #afcscore {
         float: right;
         font-weight: bold;
@@ -47,17 +58,22 @@
     #nfcseed {
         float: right;
     }
+
     #nfcscore {
         float: left;
         font-weight: bold;
-    }  
+    }
+
     #champs {
         text-align: center;
         font-weight: bold;
         background-color: darkgoldenrod;
         color: black;
     }
-    
+
+    .col {
+        max-width: 14%;
+    }
 </style>
 
 <body class="NFL">
@@ -67,20 +83,21 @@
             <table class="table" id="playoffbracket">
                 <thead>
                     <tr>
-                        <th class="col-3">Wild Card Weekend</th>
-                        <th class="col-3">Divisional Round</th>
-                        <th class="col-3">Conference Championship</th>
+                        <th class="col">Wild Card Weekend</th>
+                        <th class="col">Divisional Round</th>
+                        <th class="col">Conference Championship</th>
                         <th></th>
-                        <th class="col-3">Super Bowl</th>
+                        <th class="col">Super Bowl</th>
                         <th></th>
-                        <th class="col-3">Conference Championship</th>
-                        <th class="col-3">Divisional Round</th>
-                        <th class="col-3">Wild Card Weekend</th>
+                        <th class="col">Conference Championship</th>
+                        <th class="col">Divisional Round</th>
+                        <th class="col">Wild Card Weekend</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td id="Patriots" class="text-center"><span id="afcseed">3</span>Patriots<span id="afcscore">14</span></td>
+                        <td id="Patriots" class="text-center"><span id="afcseed">3</span>Patriots<span
+                                id="afcscore">14</span></td>
                         <td id="empty"></td>
                         <td id="empty"></td>
                         <td id="empty"></td>
@@ -88,10 +105,12 @@
                         <td id="empty"></td>
                         <td id="empty"></td>
                         <td id="empty"></td>
-                        <td id="Cowboys" class="text-center"><span id="nfcseed">3</span>Cowboys<span id="nfcscore">34</span></td>
+                        <td id="Cowboys" class="text-center"><span id="nfcseed">3</span>Cowboys<span
+                                id="nfcscore">34</span></td>
                     </tr>
                     <tr>
-                        <td id="Ravens" class="text-center"><span id="afcseed">6</span>Ravens<span id="afcscore">33</span></td>
+                        <td id="Ravens" class="text-center"><span id="afcseed">6</span>Ravens<span
+                                id="afcscore">33</span></td>
                         <td id="empty"></td>
                         <td id="empty"></td>
                         <td id="empty"></td>
@@ -99,87 +118,92 @@
                         <td id="empty"></td>
                         <td id="empty"></td>
                         <td id="empty"></td>
-                        <td id="Eagles" class="text-center"><span id="nfcseed">6</span>Eagles<span id="nfcscore">14</span></td>
-                    </tr> 
+                        <td id="Eagles" class="text-center"><span id="nfcseed">6</span>Eagles<span
+                                id="nfcscore">14</span></td>
+                    </tr>
                     <tr>
                         <td id="empty"></td>
-                        <td id="Colts" class="text-center"><span id="afcseed">1</span>Colts<span id="afcscore">20</span></td>
+                        <td id="Colts" class="text-center"><span id="afcseed">1</span>Colts<span id="afcscore">20</span>
+                        </td>
                         <td id="empty"></td>
                         <td id="empty"></td>
                         <td id="Saints" class="text-center">Saints</td>
                         <td id="empty"></td>
                         <td id="empty"></td>
-                        <td id="Saints" class="text-center"><span id="nfcseed">1</span>Saints<span id="nfcscore">45</span></td>
+                        <td id="Saints" class="text-center"><span id="nfcseed">1</span>Saints<span
+                                id="nfcscore">45</span></td>
                         <td id="empty"></td>
-                    </tr>                   
-                    <tr>
-                        <td id="empty"></td>
-                        <td id="Ravens" class="text-center"><span id="afcseed">6</span>Ravens<span id="afcscore">3</span></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="Cardinals" class="text-center"><span id="nfcseed">4</span>Cardinals<span id="nfcscore">14</span></td>
-                        <td id="empty"></td>
-                    </tr>  
-                    <tr>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="Colts" class="text-center"><span id="afcseed">1</span>Colts<span id="afcscore">30</span></td>
-                        <td id="empty"></td>
-                        <td id="Colts" class="text-center"><span id="afcseed">1</span>Colts<span id="afcscore">17</span></td>
-                        <td id="empty"></td>
-                        <td id="Saints" class="text-center"><span id="nfcseed">1</span>Saints<span id="nfcscore">31</span></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                    </tr> 
-                    <tr>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="Jets" class="text-center"><span id="afcseed">5</span>Jets<span id="afcscore">17</span></td>
-                        <td id="empty"></td>
-                        <td id="Saints" class="text-center"><span id="afcseed">1</span>Saints<span id="afcscore">31</span></td>
-                        <td id="empty"></td>
-                        <td id="Vikings" class="text-center"><span id="nfcseed">2</span>Vikings<span id="nfcscore">28</span></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                    </tr>  
-                    <tr>
-                        <td id="empty"></td>
-                        <td id="Chargers" class="text-center"><span id="afcseed">2</span>Chargers<span id="afcscore">14</span></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="Vikings" class="text-center"><span id="nfcseed">2</span>Vikings<span id="nfcscore">34</span></td>
-                        <td id="empty"></td>
-                    </tr>                   
-                    <tr>
-                        <td id="empty"></td>
-                        <td id="Jets" class="text-center"><span id="afcseed">5</span>Jets<span id="afcscore">17</span></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="Cowboys" class="text-center"><span id="nfcseed">3</span>Cowboys<span id="nfcscore">3</span></td>
-                        <td id="empty"></td>
-                    </tr>  
-                    <tr>
-                        <td id="Bengals" class="text-center"><span id="afcseed">4</span>Bengals<span id="afcscore">14</span></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="Cardinals" class="text-center"><span id="nfcseed">4</span>Cardinals<span id="nfcscore">51</span></td>
                     </tr>
                     <tr>
-                        <td id="Jets" class="text-center"><span id="afcseed">5</span>Jets<span id="afcscore">24</span></td>
+                        <td id="empty"></td>
+                        <td id="Ravens" class="text-center"><span id="afcseed">6</span>Ravens<span
+                                id="afcscore">3</span></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="Cardinals" class="text-center"><span id="nfcseed">4</span>Cardinals<span
+                                id="nfcscore">14</span></td>
+                        <td id="empty"></td>
+                    </tr>
+                    <tr>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="Colts" class="text-center"><span id="afcseed">1</span>Colts<span id="afcscore">30</span>
+                        </td>
+                        <td id="empty"></td>
+                        <td id="Colts" class="text-center"><span id="afcseed">1</span>Colts<span id="afcscore">17</span>
+                        </td>
+                        <td id="empty"></td>
+                        <td id="Saints" class="text-center"><span id="nfcseed">1</span>Saints<span
+                                id="nfcscore">31</span></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                    </tr>
+                    <tr>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="Jets" class="text-center"><span id="afcseed">5</span>Jets<span id="afcscore">17</span>
+                        </td>
+                        <td id="empty"></td>
+                        <td id="Saints" class="text-center"><span id="afcseed">1</span>Saints<span
+                                id="afcscore">31</span></td>
+                        <td id="empty"></td>
+                        <td id="Vikings" class="text-center"><span id="nfcseed">2</span>Vikings<span
+                                id="nfcscore">28</span></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                    </tr>
+                    <tr>
+                        <td id="empty"></td>
+                        <td id="Chargers" class="text-center"><span id="afcseed">2</span>Chargers<span
+                                id="afcscore">14</span></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="Vikings" class="text-center"><span id="nfcseed">2</span>Vikings<span
+                                id="nfcscore">34</span></td>
+                        <td id="empty"></td>
+                    </tr>
+                    <tr>
+                        <td id="empty"></td>
+                        <td id="Jets" class="text-center"><span id="afcseed">5</span>Jets<span id="afcscore">17</span>
+                        </td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="Cowboys" class="text-center"><span id="nfcseed">3</span>Cowboys<span
+                                id="nfcscore">3</span></td>
+                        <td id="empty"></td>
+                    </tr>
+                    <tr>
+                        <td id="Bengals" class="text-center"><span id="afcseed">4</span>Bengals<span
+                                id="afcscore">14</span></td>
                         <td id="empty"></td>
                         <td id="empty"></td>
                         <td id="empty"></td>
@@ -187,8 +211,22 @@
                         <td id="empty"></td>
                         <td id="empty"></td>
                         <td id="empty"></td>
-                        <td id="Packers" class="text-center"><span id="nfcseed">5</span>Packers<span id="nfcscore">45</span></td>
-                    </tr>                                                                                                                                          
+                        <td id="Cardinals" class="text-center"><span id="nfcseed">4</span>Cardinals<span
+                                id="nfcscore">51</span></td>
+                    </tr>
+                    <tr>
+                        <td id="Jets" class="text-center"><span id="afcseed">5</span>Jets<span id="afcscore">24</span>
+                        </td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="Packers" class="text-center"><span id="nfcseed">5</span>Packers<span
+                                id="nfcscore">45</span></td>
+                    </tr>
                 </tbody>
             </table>
         </div>
