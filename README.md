@@ -6,4 +6,4 @@ Included in the is repo are demos of:
 
 - Advanced Blaseball Stats
 
-- (SOON) Sports Almanac
+- Sports Almanac
