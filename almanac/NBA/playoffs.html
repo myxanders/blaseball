@@ -18,8 +18,16 @@
     <meta name="theme-color" content="#ffffff">
 </head>
 <style>
+    #bracket::-webkit-scrollbar {
+        display: none;
+    }
+
+    /* Hide scrollbar for IE, Edge and Firefox */
     #bracket {
-        overflow: hidden;
+        -ms-overflow-style: none;
+        /* IE and Edge */
+        scrollbar-width: none;
+        /* Firefox */
     }
     #playoffbracket td {
         border: 2px solid whitesmoke;
@@ -56,6 +64,10 @@
         background-color: darkgoldenrod;
         color: black;
     }
+
+    .col {
+        max-width: 14%;
+    }
     
 </style>
 
@@ -66,15 +78,15 @@
             <table class="table" id="playoffbracket">
                 <thead>
                     <tr>
-                        <th>First Round</th>
-                        <th>Second Round</th>
-                        <th>Conference Finals</th>
+                        <th class="col">First Round</th>
+                        <th class="col">Second Round</th>
+                        <th class="col">Conference Finals</th>
                         <th></th>
-                        <th>NBA Finals</th>
+                        <th class="col">NBA Finals</th>
                         <th></th>
-                        <th>Conference Finals</th>
-                        <th>Second Round</th>
-                        <th>First Round</th>
+                        <th class="col">Conference Finals</th>
+                        <th class="col">Second Round</th>
+                        <th class="col">First Round</th>
                     </tr>
                 </thead>
                 <tbody>

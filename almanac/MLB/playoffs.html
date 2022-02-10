@@ -18,6 +18,18 @@
     <meta name="theme-color" content="#ffffff">
 </head>
 <style>
+
+#bracket::-webkit-scrollbar {
+        display: none;
+    }
+
+    /* Hide scrollbar for IE, Edge and Firefox */
+    #bracket {
+        -ms-overflow-style: none;
+        /* IE and Edge */
+        scrollbar-width: none;
+        /* Firefox */
+    }    
     #bracket {
         overflow: hidden;
     }
@@ -56,6 +68,10 @@
         background-color: darkgoldenrod;
         color: black;
     }
+
+    .col {
+        max-width: 14%;
+    }
     
 </style>
 
@@ -66,15 +82,15 @@
             <table class="table" id="playoffbracket">
                 <thead>
                     <tr>
-                        <th>Wild Card</th>
-                        <th>Divisional Series</th>
-                        <th>Championship Series</th>
+                        <th class="col">Wild Card</th>
+                        <th class="col">Divisional Series</th>
+                        <th class="col">Championship Series</th>
                         <th></th>
-                        <th>World Series</th>
+                        <th class="col">World Series</th>
                         <th></th>
-                        <th>Championship Series</th>
-                        <th>Divisional Series</th>
-                        <th>Wild Card</th>
+                        <th class="col">Championship Series</th>
+                        <th class="col">Divisional Series</th>
+                        <th class="col">Wild Card</th>
                     </tr>
                 </thead>
                 <tbody>

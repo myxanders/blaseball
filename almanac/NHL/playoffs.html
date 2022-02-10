@@ -18,9 +18,22 @@
     <meta name="theme-color" content="#ffffff">
 </head>
 <style>
+    #bracket::-webkit-scrollbar {
+        display: none;
+    }
+
+    /* Hide scrollbar for IE, Edge and Firefox */
+    #bracket {
+        -ms-overflow-style: none;
+        /* IE and Edge */
+        scrollbar-width: none;
+        /* Firefox */
+    }
+
     #bracket {
         overflow: hidden;
     }
+
     #playoffbracket td {
         border: 2px solid whitesmoke;
     }
@@ -35,9 +48,11 @@
         background-color: none;
         color: none;
     }
+
     #westseed {
         float: left;
     }
+
     #westscore {
         float: right;
         font-weight: bold;
@@ -46,17 +61,22 @@
     #eastseed {
         float: right;
     }
+
     #eastscore {
         float: left;
         font-weight: bold;
-    }  
+    }
+
     #champs {
         text-align: center;
         font-weight: bold;
         background-color: darkgoldenrod;
         color: black;
     }
-    
+
+    .col {
+        max-width: 14%;
+    }
 </style>
 
 <body class="NHL">
@@ -66,20 +86,21 @@
             <table class="table" id="playoffbracket">
                 <thead>
                     <tr>
-                        <th>First Round</th>
-                        <th>Second Round</th>
-                        <th>Conference Finals</th>
+                        <th class="col">First Round</th>
+                        <th class="col">Second Round</th>
+                        <th class="col">Conference Finals</th>
                         <th></th>
-                        <th>Stanley Cup Finals</th>
+                        <th class="col">Stanley Cup Finals</th>
                         <th></th>
-                        <th>Conference Finals</th>
-                        <th>Second Round</th>
-                        <th>First Round</th>
+                        <th class="col">Conference Finals</th>
+                        <th class="col">Second Round</th>
+                        <th class="col">First Round</th>
                     </tr>
                 </thead>
                 <tbody>
                     <tr>
-                        <td id="Predators" class="text-center"><span id="westseed" class="font-italic">C1</span>Predators<span id="westscore">4</span></td>
+                        <td id="Predators" class="text-center"><span id="westseed"
+                                class="font-italic">C1</span>Predators<span id="westscore">4</span></td>
                         <td id="empty"></td>
                         <td id="empty"></td>
                         <td id="empty"></td>
@@ -87,76 +108,104 @@
                         <td id="empty"></td>
                         <td id="empty"></td>
                         <td id="empty"></td>
-                        <td id="Lightning" class="text-center"><span id="eastseed" class="font-italic">A1</span>Lightning<span id="eastscore">4</span></td>
+                        <td id="Lightning" class="text-center"><span id="eastseed"
+                                class="font-italic">A1</span>Lightning<span id="eastscore">4</span></td>
                     </tr>
                     <tr>
-                        <td id="Avalanche" class="text-center"><span id="westseed" class="font-italic">WC</span>Avalanche<span id="westscore">2</span></td>
-                        <td id="Predators" class="text-center"><span id="westseed" class="font-italic">C1</span>Predators<span id="westscore">3</span></td>
+                        <td id="Avalanche" class="text-center"><span id="westseed"
+                                class="font-italic">WC</span>Avalanche<span id="westscore">2</span></td>
+                        <td id="Predators" class="text-center"><span id="westseed"
+                                class="font-italic">C1</span>Predators<span id="westscore">3</span></td>
                         <td id="empty"></td>
                         <td id="empty"></td>
                         <td id="Capitals" class="text-center">Capitals</td>
                         <td id="empty"></td>
                         <td id="empty"></td>
-                        <td id="Lightning" class="text-center"><span id="eastseed" class="font-italic">A1</span>Lightning<span id="eastscore">4</span></td>
-                        <td id="Devils" class="text-center"><span id="eastseed" class="font-italic">WC</span>Devils<span id="eastscore">1</span></td>
-                    </tr> 
-                    <tr>
-                        <td id="Jets" class="text-center"><span id="westseed" class="font-italic">C2</span>Jets<span id="westscore">4</span></td> 
-                        <td id="Jets" class="text-center"><span id="westseed" class="font-italic">C2</span>Jets<span id="westscore">4</span></td> 
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="Bruins" class="text-center"><span id="eastseed" class="font-italic">A2</span>Bruins<span id="eastscore">1</span></td>              
-                        <td id="Bruins" class="text-center"><span id="eastseed" class="font-italic">A2</span>Bruins<span id="eastscore">4</span></td>              
-                    </tr>                 
-                    <tr>
-                        <td id="MapleLeafs" class="text-center"><span id="westseed" class="font-italic">A3</span>Maple Leafs<span id="westscore">3</span></td>
-                        <td id="empty"></td>
-                        <td id="Jets" class="text-center"><span id="westseed" class="font-italic">C2</span>Jets<span id="westscore">1</span></td> 
-                        <td id="empty"></td>
-                        <td id="GoldenKnights" class="text-center"><span id="westseed" class="font-italic">P1</span>Golden Knights<span id="westscore">1</span></td>
-                        <td id="empty"></td>
-                        <td id="Lightning" class="text-center"><span id="eastseed" class="font-italic">A1</span>Lightning<span id="eastscore">3</span></td>
-                        <td id="empty"></td>
-                        <td id="Wild" class="text-center"><span id="eastseed" class="font-italic">C3</span>Wild<span id="eastscore">1</span></td>
+                        <td id="Lightning" class="text-center"><span id="eastseed"
+                                class="font-italic">A1</span>Lightning<span id="eastscore">4</span></td>
+                        <td id="Devils" class="text-center"><span id="eastseed" class="font-italic">WC</span>Devils<span
+                                id="eastscore">1</span></td>
                     </tr>
                     <tr>
-                        <td id="GoldenKnights" class="text-center"><span id="westseed" class="font-italic">P1</span>Golden Knights<span id="westscore">4</span></td>
+                        <td id="Jets" class="text-center"><span id="westseed" class="font-italic">C2</span>Jets<span
+                                id="westscore">4</span></td>
+                        <td id="Jets" class="text-center"><span id="westseed" class="font-italic">C2</span>Jets<span
+                                id="westscore">4</span></td>
                         <td id="empty"></td>
-                        <td id="GoldenKnights" class="text-center"><span id="westseed" class="font-italic">P1</span>Golden Knights<span id="westscore">4</span></td>
                         <td id="empty"></td>
-                        <td id="Capitals" class="text-center"><span id="westseed" class="font-italic">M1</span>Capitals<span id="westscore">4</span></td>
                         <td id="empty"></td>
-                        <td id="Capitals" class="text-center"><span id="eastseed" class="font-italic">M1</span>Capitals<span id="eastscore">4</span></td>
                         <td id="empty"></td>
-                        <td id="Capitals" class="text-center"><span id="eastseed" class="font-italic">M1</span>Capitals<span id="eastscore">4</span></td>
+                        <td id="empty"></td>
+                        <td id="Bruins" class="text-center"><span id="eastseed" class="font-italic">A2</span>Bruins<span
+                                id="eastscore">1</span></td>
+                        <td id="Bruins" class="text-center"><span id="eastseed" class="font-italic">A2</span>Bruins<span
+                                id="eastscore">4</span></td>
                     </tr>
                     <tr>
-                        <td id="Kings" class="text-center"><span id="westseed" class="font-italic">WC</span>Kings<span id="westscore">0</span></td>
-                        <td id="GoldenKnights" class="text-center"><span id="westseed" class="font-italic">P1</span>Golden Knights<span id="westscore">4</span></td>
+                        <td id="MapleLeafs" class="text-center"><span id="westseed" class="font-italic">A3</span>Maple
+                            Leafs<span id="westscore">3</span></td>
                         <td id="empty"></td>
+                        <td id="Jets" class="text-center"><span id="westseed" class="font-italic">C2</span>Jets<span
+                                id="westscore">1</span></td>
                         <td id="empty"></td>
+                        <td id="GoldenKnights" class="text-center"><span id="westseed"
+                                class="font-italic">P1</span>Golden Knights<span id="westscore">1</span></td>
                         <td id="empty"></td>
+                        <td id="Lightning" class="text-center"><span id="eastseed"
+                                class="font-italic">A1</span>Lightning<span id="eastscore">3</span></td>
                         <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="Capitals" class="text-center"><span id="eastseed" class="font-italic">M1</span>Capitals<span id="eastscore">4</span></td>
-                        <td id="BlueJackets" class="text-center"><span id="eastseed" class="font-italic">WC</span>Blue Jackets<span id="eastscore">2</span></td>
-                    </tr>  
-                    <tr>
-                        <td id="Ducks" class="text-center"><span id="westseed" class="font-italic">P2</span>Ducks<span id="westscore">0</span></td>
-                        <td id="Sharks" class="text-center"><span id="westseed" class="font-italic">P3</span>Sharks<span id="westscore">4</span></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="empty"></td>
-                        <td id="Penguins" class="text-center"><span id="eastseed" class="font-italic">M2</span>Penguins<span id="eastscore">2</span></td>
-                        <td id="Penguins" class="text-center"><span id="eastseed" class="font-italic">M2</span>Penguins<span id="eastscore">4</span></td>
+                        <td id="Wild" class="text-center"><span id="eastseed" class="font-italic">C3</span>Wild<span
+                                id="eastscore">1</span></td>
                     </tr>
                     <tr>
-                        <td id="Sharks" class="text-center"><span id="westseed" class="font-italic">P3</span>Sharks<span id="westscore">4</span></td>
+                        <td id="GoldenKnights" class="text-center"><span id="westseed"
+                                class="font-italic">P1</span>Golden Knights<span id="westscore">4</span></td>
+                        <td id="empty"></td>
+                        <td id="GoldenKnights" class="text-center"><span id="westseed"
+                                class="font-italic">P1</span>Golden Knights<span id="westscore">4</span></td>
+                        <td id="empty"></td>
+                        <td id="Capitals" class="text-center"><span id="westseed"
+                                class="font-italic">M1</span>Capitals<span id="westscore">4</span></td>
+                        <td id="empty"></td>
+                        <td id="Capitals" class="text-center"><span id="eastseed"
+                                class="font-italic">M1</span>Capitals<span id="eastscore">4</span></td>
+                        <td id="empty"></td>
+                        <td id="Capitals" class="text-center"><span id="eastseed"
+                                class="font-italic">M1</span>Capitals<span id="eastscore">4</span></td>
+                    </tr>
+                    <tr>
+                        <td id="Kings" class="text-center"><span id="westseed" class="font-italic">WC</span>Kings<span
+                                id="westscore">0</span></td>
+                        <td id="GoldenKnights" class="text-center"><span id="westseed"
+                                class="font-italic">P1</span>Golden Knights<span id="westscore">4</span></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="Capitals" class="text-center"><span id="eastseed"
+                                class="font-italic">M1</span>Capitals<span id="eastscore">4</span></td>
+                        <td id="BlueJackets" class="text-center"><span id="eastseed" class="font-italic">WC</span>Blue
+                            Jackets<span id="eastscore">2</span></td>
+                    </tr>
+                    <tr>
+                        <td id="Ducks" class="text-center"><span id="westseed" class="font-italic">P2</span>Ducks<span
+                                id="westscore">0</span></td>
+                        <td id="Sharks" class="text-center"><span id="westseed" class="font-italic">P3</span>Sharks<span
+                                id="westscore">4</span></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="Penguins" class="text-center"><span id="eastseed"
+                                class="font-italic">M2</span>Penguins<span id="eastscore">2</span></td>
+                        <td id="Penguins" class="text-center"><span id="eastseed"
+                                class="font-italic">M2</span>Penguins<span id="eastscore">4</span></td>
+                    </tr>
+                    <tr>
+                        <td id="Sharks" class="text-center"><span id="westseed" class="font-italic">P3</span>Sharks<span
+                                id="westscore">4</span></td>
                         <td id="empty"></td>
                         <td id="empty"></td>
                         <td id="empty"></td>
@@ -164,8 +213,9 @@
                         <td id="empty"></td>
                         <td id="empty"></td>
                         <td id="empty"></td>
-                        <td id="Flyers" class="text-center"><span id="eastseed" class="font-italic">M3</span>Flyers<span id="eastscore">2</span></td>
-                    </tr>                                                                                                                                          
+                        <td id="Flyers" class="text-center"><span id="eastseed" class="font-italic">M3</span>Flyers<span
+                                id="eastscore">2</span></td>
+                    </tr>
                 </tbody>
             </table>
         </div>
