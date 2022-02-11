@@ -73,6 +73,18 @@
         background-color: white;
         color: black;
     }
+
+    .container {
+        overflow-x: scroll;
+        -ms-overflow-style: none;
+        /* IE and Edge */
+        scrollbar-width: none;
+        /* Firefox */        
+    }
+
+    .container::-webkit-scrollbar {
+        display: none;
+    }
 </style>
 
 <body class="NFL">
@@ -155,7 +167,7 @@
                     var dtbl = document.getElementById('afcwest');
                     fillDivTable(dtbl, 'AFC', 'West');</script>                
             </div>
-            <div class="container" id="NFC" style="display: none">
+            <div class="container-fl" id="NFC" style="display: none">
                 <p class="font-weight-bold py-3 h3 text-center">NFC Standings</p>
                 <table class="NFC table" id="nfcnorth">
                     <thead>
