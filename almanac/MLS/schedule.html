@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Mitchell Xanders' Website</title>
+    <!-- Bootstrap core CSS -->
+    <link href="../../css/bootstrap.css" rel="stylesheet">
+    <link href="../almanacstyle.css" rel="stylesheet">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../favicon-16x16.png">
+    <link rel="manifest" href="../../site.webmanifest">
+    <link rel="mask-icon" href="../../safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="mls.js"></script>
+</head>
+<script type="text/javascript">
+    $.ajax({
+        'async': false,
+        'global': false,
+        'url': "weeklySched.json",
+        'dataType': "json",
+        'success': function (data) {
+            sched = data;
+        }
+    });
+</script>
+<style>
+    #schedule {
+        background-color: white;
+        text-align: center;
+    }
+
+    #schedule th {
+        background-color: darkgoldenrod;
+        color: white
+    }
+
+    #schedule td {
+        color: black;
+    }
+
+    #wknum {
+        color: white;
+    }
+</style>
+
+<body class="MLS" onload="start()">
+    <div class="container">
+        <h1 class="h1 py-3" align="center"><b>MLS Schedule</b></h1>
+        <div class="row">
+            <div class="col"></div>
+            <div class="col">
+                <select class="form-control" id="week" name="week" onchange="updateWeek()">
+                    <option value="1" selected>Week 1</option>
+                    <option value="2">Week 2</option>
+                    <option value="3">Week 3</option>
+                    <option value="4">Week 4</option>
+                    <option value="5">Week 5</option>
+                    <option value="6">Week 6</option>
+                    <option value="7">Week 7</option>
+                    <option value="8">Week 8</option>
+                    <option value="9">Week 9</option>
+                    <option value="10">Week 10</option>
+                    <option value="11">Week 11</option>
+                    <option value="12">Week 12</option>
+                    <option value="13">Week 13</option>
+                    <option value="14">Week 14</option>
+                    <option value="15">Week 15</option>
+                    <option value="16">Week 16</option>
+                    <option value="17">Week 17</option>
+                    <option value="18">Week 18</option>
+                    <option value="19">Week 19</option>
+                    <option value="20">Week 20</option>
+                    <option value="21">Week 21</option>
+                    <option value="22">Week 22</option>
+                    <option value="23">Week 23</option>
+                    <option value="24">Week 24</option>
+                    <option value="25">Week 25</option>
+                    <option value="26">Week 26</option>
+                    <option value="27">Week 27</option>
+                    <option value="28">Week 28</option>
+                    <option value="29">Week 29</option>
+                    <option value="30">Week 30</option>  
+                    <option value="31">Week 31</option>
+                    <option value="32">Week 32</option>
+                    <option value="33">Round One</option>
+                    <option value="34">Conference Semifinals</option>
+                    <option value="35">Conference Finals</option>
+                    <option value="36">MLS Cup</option>
+                </select>
+            </div>
+            <div class="col"></div>
+        </div>
+        <div class="row pt-4">
+            <div class="table-responsive">
+                <table class="MLS table" id="schedule">
+                    <thead>
+                        <tr>
+                            <th class="col-2">Score</th>
+                            <th class="col-3">Home</th>
+                            <th class="col-1" id="wk_head">Week 1</th>
+                            <th class="col-3">Away</th>
+                            <th class="col-2">Score</th>
+                        </tr>
+                    </thead>
+                </table>
+            </div>
+        </div>
+    </div>
+    </div>
+</body>
+
+</html>

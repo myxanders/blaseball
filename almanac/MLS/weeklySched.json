@@ -1,0 +1,2949 @@
+[
+    {
+        "wk": 1,
+        "homescore": "1",
+        "home": "PHI",
+        "away": "TOR",
+        "awayscore": "3"
+    },
+    {
+        "wk": 1,
+        "homescore": "2",
+        "home": "OSC",
+        "away": "NYC",
+        "awayscore": "2"
+    },
+    {
+        "wk": 1,
+        "homescore": "1",
+        "home": "DAL",
+        "away": "NE",
+        "awayscore": "1"
+    },
+    {
+        "wk": 1,
+        "homescore": "1",
+        "home": "CLB",
+        "away": "NY",
+        "awayscore": "1"
+    },
+    {
+        "wk": 1,
+        "homescore": "2",
+        "home": "VAN",
+        "away": "MIN",
+        "awayscore": "3"
+    },
+    {
+        "wk": 1,
+        "homescore": "3",
+        "home": "COL",
+        "away": "POR",
+        "awayscore": "3"
+    },
+    {
+        "wk": 1,
+        "homescore": "1",
+        "home": "HOU",
+        "away": "RSL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 1,
+        "homescore": "2",
+        "home": "LAG",
+        "away": "CHI",
+        "awayscore": "1"
+    },
+    {
+        "wk": 1,
+        "homescore": "4",
+        "home": "SEA",
+        "away": "CIN",
+        "awayscore": "1"
+    },
+    {
+        "wk": 1,
+        "homescore": "1",
+        "home": "SJ",
+        "away": "MTL",
+        "awayscore": "2"
+    },
+    {
+        "wk": 1,
+        "homescore": "2",
+        "home": "DC",
+        "away": "ATL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 1,
+        "homescore": "2",
+        "home": "LFC",
+        "away": "SKC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 2,
+        "homescore": "1",
+        "home": "CHI",
+        "away": "OSC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 2,
+        "homescore": "0",
+        "home": "NE",
+        "away": "CLB",
+        "awayscore": "2"
+    },
+    {
+        "wk": 2,
+        "homescore": "2",
+        "home": "DAL",
+        "away": "LAG",
+        "awayscore": "0"
+    },
+    {
+        "wk": 2,
+        "homescore": "2",
+        "home": "HOU",
+        "away": "MTL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 2,
+        "homescore": "1",
+        "home": "RSL",
+        "away": "VAN",
+        "awayscore": "0"
+    },
+    {
+        "wk": 2,
+        "homescore": "0",
+        "home": "SJ",
+        "away": "MIN",
+        "awayscore": "3"
+    },
+    {
+        "wk": 2,
+        "homescore": "2",
+        "home": "SEA",
+        "away": "COL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 2,
+        "homescore": "2",
+        "home": "SKC",
+        "away": "PHI",
+        "awayscore": "0"
+    },
+    {
+        "wk": 2,
+        "homescore": "0",
+        "home": "NYC",
+        "away": "DC",
+        "awayscore": "0"
+    },
+    {
+        "wk": 2,
+        "homescore": "1",
+        "home": "ATL",
+        "away": "CIN",
+        "awayscore": "1"
+    },
+    {
+        "wk": 2,
+        "homescore": "4",
+        "home": "LFC",
+        "away": "POR",
+        "awayscore": "1"
+    },
+    {
+        "wk": 3,
+        "homescore": "2",
+        "home": "CHI",
+        "away": "SEA",
+        "awayscore": "4"
+    },
+    {
+        "wk": 3,
+        "homescore": "1",
+        "home": "CLB",
+        "away": "DAL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 3,
+        "homescore": "3",
+        "home": "HOU",
+        "away": "VAN",
+        "awayscore": "2"
+    },
+    {
+        "wk": 3,
+        "homescore": "4",
+        "home": "NY",
+        "away": "SJ",
+        "awayscore": "1"
+    },
+    {
+        "wk": 3,
+        "homescore": "1",
+        "home": "OSC",
+        "away": "MTL",
+        "awayscore": "3"
+    },
+    {
+        "wk": 3,
+        "homescore": "5",
+        "home": "DC",
+        "away": "RSL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 3,
+        "homescore": "3",
+        "home": "LAG",
+        "away": "MIN",
+        "awayscore": "2"
+    },
+    {
+        "wk": 3,
+        "homescore": "2",
+        "home": "NYC",
+        "away": "LFC",
+        "awayscore": "2"
+    },
+    {
+        "wk": 3,
+        "homescore": "3",
+        "home": "CIN",
+        "away": "POR",
+        "awayscore": "0"
+    },
+    {
+        "wk": 3,
+        "homescore": "1",
+        "home": "ATL",
+        "away": "PHI",
+        "awayscore": "1"
+    },
+    {
+        "wk": 3,
+        "homescore": "3",
+        "home": "TOR",
+        "away": "NE",
+        "awayscore": "2"
+    },
+    {
+        "wk": 3,
+        "homescore": "1",
+        "home": "COL",
+        "away": "SKC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 4,
+        "homescore": "2",
+        "home": "DAL",
+        "away": "COL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 4,
+        "homescore": "3",
+        "home": "PHI",
+        "away": "CLB",
+        "awayscore": "0"
+    },
+    {
+        "wk": 4,
+        "homescore": "0",
+        "home": "NY",
+        "away": "OSC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 4,
+        "homescore": "2",
+        "home": "LFC",
+        "away": "RSL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 4,
+        "homescore": "0",
+        "home": "NE",
+        "away": "CIN",
+        "awayscore": "2"
+    },
+    {
+        "wk": 4,
+        "homescore": "4",
+        "home": "TOR",
+        "away": "NYC",
+        "awayscore": "0"
+    },
+    {
+        "wk": 5,
+        "homescore": "1",
+        "home": "CHI",
+        "away": "NY",
+        "awayscore": "0"
+    },
+    {
+        "wk": 5,
+        "homescore": "2",
+        "home": "NE",
+        "away": "MIN",
+        "awayscore": "1"
+    },
+    {
+        "wk": 5,
+        "homescore": "7",
+        "home": "SKC",
+        "away": "MTL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 5,
+        "homescore": "0",
+        "home": "SJ",
+        "away": "LFC",
+        "awayscore": "5"
+    },
+    {
+        "wk": 5,
+        "homescore": "2",
+        "home": "CLB",
+        "away": "ATL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 5,
+        "homescore": "0",
+        "home": "CIN",
+        "away": "PHI",
+        "awayscore": "2"
+    },
+    {
+        "wk": 5,
+        "homescore": "1",
+        "home": "COL",
+        "away": "HOU",
+        "awayscore": "4"
+    },
+    {
+        "wk": 5,
+        "homescore": "2",
+        "home": "RSL",
+        "away": "DAL",
+        "awayscore": "4"
+    },
+    {
+        "wk": 5,
+        "homescore": "0",
+        "home": "VAN",
+        "away": "SEA",
+        "awayscore": "0"
+    },
+    {
+        "wk": 5,
+        "homescore": "1",
+        "home": "OSC",
+        "away": "DC",
+        "awayscore": "2"
+    },
+    {
+        "wk": 5,
+        "homescore": "2",
+        "home": "LAG",
+        "away": "POR",
+        "awayscore": "1"
+    },
+    {
+        "wk": 5,
+        "homescore": "0",
+        "home": "VAN",
+        "away": "LAG",
+        "awayscore": "2"
+    },
+    {
+        "wk": 6,
+        "homescore": "0",
+        "home": "NYC",
+        "away": "MTL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 6,
+        "homescore": "0",
+        "home": "DC",
+        "away": "LFC",
+        "awayscore": "4"
+    },
+    {
+        "wk": 6,
+        "homescore": "2",
+        "home": "TOR",
+        "away": "CHI",
+        "awayscore": "2"
+    },
+    {
+        "wk": 6,
+        "homescore": "1",
+        "home": "NY",
+        "away": "MIN",
+        "awayscore": "2"
+    },
+    {
+        "wk": 6,
+        "homescore": "2",
+        "home": "PHI",
+        "away": "DAL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 6,
+        "homescore": "4",
+        "home": "OSC",
+        "away": "COL",
+        "awayscore": "3"
+    },
+    {
+        "wk": 6,
+        "homescore": "1",
+        "home": "CLB",
+        "away": "NE",
+        "awayscore": "0"
+    },
+    {
+        "wk": 6,
+        "homescore": "3",
+        "home": "SJ",
+        "away": "POR",
+        "awayscore": "0"
+    },
+    {
+        "wk": 6,
+        "homescore": "1",
+        "home": "SEA",
+        "away": "RSL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 6,
+        "homescore": "1",
+        "home": "CIN",
+        "away": "SKC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 6,
+        "homescore": "0",
+        "home": "DC",
+        "away": "MTL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 6,
+        "homescore": "1",
+        "home": "CHI",
+        "away": "VAN",
+        "awayscore": "1"
+    },
+    {
+        "wk": 7,
+        "homescore": "1",
+        "home": "MTL",
+        "away": "CLB",
+        "awayscore": "0"
+    },
+    {
+        "wk": 7,
+        "homescore": "2",
+        "home": "HOU",
+        "away": "SJ",
+        "awayscore": "1"
+    },
+    {
+        "wk": 7,
+        "homescore": "3",
+        "home": "SEA",
+        "away": "TOR",
+        "awayscore": "2"
+    },
+    {
+        "wk": 7,
+        "homescore": "3",
+        "home": "MIN",
+        "away": "NYC",
+        "awayscore": "3"
+    },
+    {
+        "wk": 7,
+        "homescore": "0",
+        "home": "NE",
+        "away": "ATL",
+        "awayscore": "2"
+    },
+    {
+        "wk": 7,
+        "homescore": "2",
+        "home": "DAL",
+        "away": "POR",
+        "awayscore": "1"
+    },
+    {
+        "wk": 7,
+        "homescore": "2",
+        "home": "COL",
+        "away": "DC",
+        "awayscore": "3"
+    },
+    {
+        "wk": 7,
+        "homescore": "2",
+        "home": "RSL",
+        "away": "OSC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 7,
+        "homescore": "2",
+        "home": "LAG",
+        "away": "PHI",
+        "awayscore": "0"
+    },
+    {
+        "wk": 7,
+        "homescore": "2",
+        "home": "LFC",
+        "away": "CIN",
+        "awayscore": "0"
+    },
+    {
+        "wk": 7,
+        "homescore": "2",
+        "home": "SKC",
+        "away": "NY",
+        "awayscore": "2"
+    },
+    {
+        "wk": 7,
+        "homescore": "1",
+        "home": "VAN",
+        "away": "LFC",
+        "awayscore": "0"
+    },
+    {
+        "wk": 7,
+        "homescore": "0",
+        "home": "CIN",
+        "away": "RSL",
+        "awayscore": "3"
+    },
+    {
+        "wk": 7,
+        "homescore": "4",
+        "home": "TOR",
+        "away": "MIN",
+        "awayscore": "3"
+    },
+    {
+        "wk": 7,
+        "homescore": "2",
+        "home": "LAG",
+        "away": "HOU",
+        "awayscore": "1"
+    },
+    {
+        "wk": 8,
+        "homescore": "4",
+        "home": "CHI",
+        "away": "COL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 8,
+        "homescore": "3",
+        "home": "PHI",
+        "away": "MTL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 8,
+        "homescore": "1",
+        "home": "OSC",
+        "away": "VAN",
+        "awayscore": "0"
+    },
+    {
+        "wk": 8,
+        "homescore": "1",
+        "home": "ATL",
+        "away": "DAL",
+        "awayscore": "2"
+    },
+    {
+        "wk": 8,
+        "homescore": "1",
+        "home": "NE",
+        "away": "NY",
+        "awayscore": "0"
+    },
+    {
+        "wk": 8,
+        "homescore": "1",
+        "home": "CLB",
+        "away": "POR",
+        "awayscore": "3"
+    },
+    {
+        "wk": 8,
+        "homescore": "4",
+        "home": "SJ",
+        "away": "SKC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 8,
+        "homescore": "0",
+        "home": "DC",
+        "away": "NYC",
+        "awayscore": "2"
+    },
+    {
+        "wk": 8,
+        "homescore": "4",
+        "home": "LFC",
+        "away": "SEA",
+        "awayscore": "1"
+    },
+    {
+        "wk": 8,
+        "homescore": "1",
+        "home": "NYC",
+        "away": "CHI",
+        "awayscore": "0"
+    },
+    {
+        "wk": 8,
+        "homescore": "0",
+        "home": "CLB",
+        "away": "DC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 8,
+        "homescore": "0",
+        "home": "NE",
+        "away": "MTL",
+        "awayscore": "3"
+    },
+    {
+        "wk": 8,
+        "homescore": "0",
+        "home": "MIN",
+        "away": "LAG",
+        "awayscore": "0"
+    },
+    {
+        "wk": 8,
+        "homescore": "2",
+        "home": "SEA",
+        "away": "SJ",
+        "awayscore": "2"
+    },
+    {
+        "wk": 9,
+        "homescore": "1",
+        "home": "NYC",
+        "away": "OSC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 9,
+        "homescore": "1",
+        "home": "TOR",
+        "away": "POR",
+        "awayscore": "2"
+    },
+    {
+        "wk": 9,
+        "homescore": "0",
+        "home": "DAL",
+        "away": "SJ",
+        "awayscore": "0"
+    },
+    {
+        "wk": 9,
+        "homescore": "1",
+        "home": "VAN",
+        "away": "PHI",
+        "awayscore": "1"
+    },
+    {
+        "wk": 9,
+        "homescore": "1",
+        "home": "ATL",
+        "away": "COL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 9,
+        "homescore": "1",
+        "home": "NY",
+        "away": "CIN",
+        "awayscore": "0"
+    },
+    {
+        "wk": 9,
+        "homescore": "2",
+        "home": "HOU",
+        "away": "CLB",
+        "awayscore": "0"
+    },
+    {
+        "wk": 9,
+        "homescore": "4",
+        "home": "SKC",
+        "away": "NE",
+        "awayscore": "4"
+    },
+    {
+        "wk": 9,
+        "homescore": "1",
+        "home": "MTL",
+        "away": "CHI",
+        "awayscore": "0"
+    },
+    {
+        "wk": 9,
+        "homescore": "1",
+        "home": "MIN",
+        "away": "DC",
+        "awayscore": "0"
+    },
+    {
+        "wk": 9,
+        "homescore": "1",
+        "home": "SEA",
+        "away": "LFC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 9,
+        "homescore": "2",
+        "home": "LAG",
+        "away": "RSL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 9,
+        "homescore": "2",
+        "home": "PHI",
+        "away": "CIN",
+        "awayscore": "0"
+    },
+    {
+        "wk": 9,
+        "homescore": "2",
+        "home": "COL",
+        "away": "VAN",
+        "awayscore": "3"
+    },
+    {
+        "wk": 10,
+        "homescore": "3",
+        "home": "NY",
+        "away": "LAG",
+        "awayscore": "2"
+    },
+    {
+        "wk": 10,
+        "homescore": "2",
+        "home": "HOU",
+        "away": "DAL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 10,
+        "homescore": "0",
+        "home": "OSC",
+        "away": "TOR",
+        "awayscore": "2"
+    },
+    {
+        "wk": 10,
+        "homescore": "0",
+        "home": "MTL",
+        "away": "NYC",
+        "awayscore": "2"
+    },
+    {
+        "wk": 10,
+        "homescore": "6",
+        "home": "PHI",
+        "away": "NE",
+        "awayscore": "1"
+    },
+    {
+        "wk": 10,
+        "homescore": "1",
+        "home": "MIN",
+        "away": "SEA",
+        "awayscore": "1"
+    },
+    {
+        "wk": 10,
+        "homescore": "3",
+        "home": "DC",
+        "away": "CLB",
+        "awayscore": "1"
+    },
+    {
+        "wk": 10,
+        "homescore": "1",
+        "home": "RSL",
+        "away": "POR",
+        "awayscore": "2"
+    },
+    {
+        "wk": 10,
+        "homescore": "1",
+        "home": "SJ",
+        "away": "CIN",
+        "awayscore": "0"
+    },
+    {
+        "wk": 10,
+        "homescore": "0",
+        "home": "LFC",
+        "away": "CHI",
+        "awayscore": "0"
+    },
+    {
+        "wk": 10,
+        "homescore": "0",
+        "home": "SKC",
+        "away": "ATL",
+        "awayscore": "3"
+    },
+    {
+        "wk": 10,
+        "homescore": "2",
+        "home": "ATL",
+        "away": "TOR",
+        "awayscore": "0"
+    },
+    {
+        "wk": 10,
+        "homescore": "3",
+        "home": "CLB",
+        "away": "LAG",
+        "awayscore": "1"
+    },
+    {
+        "wk": 10,
+        "homescore": "5",
+        "home": "CHI",
+        "away": "NE",
+        "awayscore": "0"
+    },
+    {
+        "wk": 10,
+        "homescore": "1",
+        "home": "NY",
+        "away": "MTL",
+        "awayscore": "2"
+    },
+    {
+        "wk": 10,
+        "homescore": "1",
+        "home": "VAN",
+        "away": "POR",
+        "awayscore": "0"
+    },
+    {
+        "wk": 11,
+        "homescore": "2",
+        "home": "CIN",
+        "away": "MTL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 11,
+        "homescore": "1",
+        "home": "DAL",
+        "away": "NY",
+        "awayscore": "3"
+    },
+    {
+        "wk": 11,
+        "homescore": "1",
+        "home": "TOR",
+        "away": "PHI",
+        "awayscore": "2"
+    },
+    {
+        "wk": 11,
+        "homescore": "0",
+        "home": "LAG",
+        "away": "NYC",
+        "awayscore": "2"
+    },
+    {
+        "wk": 11,
+        "homescore": "0",
+        "home": "CLB",
+        "away": "LFC",
+        "awayscore": "3"
+    },
+    {
+        "wk": 11,
+        "homescore": "3",
+        "home": "NE",
+        "away": "SJ",
+        "awayscore": "1"
+    },
+    {
+        "wk": 11,
+        "homescore": "2",
+        "home": "CHI",
+        "away": "MIN",
+        "awayscore": "0"
+    },
+    {
+        "wk": 11,
+        "homescore": "2",
+        "home": "COL",
+        "away": "RSL",
+        "awayscore": "3"
+    },
+    {
+        "wk": 11,
+        "homescore": "1",
+        "home": "SEA",
+        "away": "HOU",
+        "awayscore": "0"
+    },
+    {
+        "wk": 11,
+        "homescore": "1",
+        "home": "ATL",
+        "away": "OSC",
+        "awayscore": "0"
+    },
+    {
+        "wk": 11,
+        "homescore": "1",
+        "home": "DC",
+        "away": "SKC",
+        "awayscore": "0"
+    },
+    {
+        "wk": 11,
+        "homescore": "0",
+        "home": "TOR",
+        "away": "DC",
+        "awayscore": "0"
+    },
+    {
+        "wk": 11,
+        "homescore": "1",
+        "home": "HOU",
+        "away": "POR",
+        "awayscore": "1"
+    },
+    {
+        "wk": 11,
+        "homescore": "0",
+        "home": "VAN",
+        "away": "ATL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 11,
+        "homescore": "2",
+        "home": "SEA",
+        "away": "OSC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 11,
+        "homescore": "2",
+        "home": "LFC",
+        "away": "DAL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 12,
+        "homescore": "0",
+        "home": "MTL",
+        "away": "NE",
+        "awayscore": "0"
+    },
+    {
+        "wk": 12,
+        "homescore": "3",
+        "home": "RSL",
+        "away": "TOR",
+        "awayscore": "0"
+    },
+    {
+        "wk": 12,
+        "homescore": "4",
+        "home": "SJ",
+        "away": "CHI",
+        "awayscore": "1"
+    },
+    {
+        "wk": 12,
+        "homescore": "0",
+        "home": "PHI",
+        "away": "SEA",
+        "awayscore": "0"
+    },
+    {
+        "wk": 12,
+        "homescore": "1",
+        "home": "MIN",
+        "away": "CLB",
+        "awayscore": "0"
+    },
+    {
+        "wk": 12,
+        "homescore": "2",
+        "home": "HOU",
+        "away": "DC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 12,
+        "homescore": "1",
+        "home": "SKC",
+        "away": "VAN",
+        "awayscore": "1"
+    },
+    {
+        "wk": 12,
+        "homescore": "5",
+        "home": "OSC",
+        "away": "CIN",
+        "awayscore": "1"
+    },
+    {
+        "wk": 12,
+        "homescore": "1",
+        "home": "NY",
+        "away": "ATL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 12,
+        "homescore": "1",
+        "home": "DAL",
+        "away": "LFC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 12,
+        "homescore": "0",
+        "home": "LAG",
+        "away": "COL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 12,
+        "homescore": "2",
+        "home": "NY",
+        "away": "VAN",
+        "awayscore": "2"
+    },
+    {
+        "wk": 12,
+        "homescore": "0",
+        "home": "OSC",
+        "away": "LAG",
+        "awayscore": "1"
+    },
+    {
+        "wk": 12,
+        "homescore": "2",
+        "home": "RSL",
+        "away": "ATL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 12,
+        "homescore": "4",
+        "home": "LFC",
+        "away": "MTL",
+        "awayscore": "2"
+    },
+    {
+        "wk": 13,
+        "homescore": "1",
+        "home": "CHI",
+        "away": "NYC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 13,
+        "homescore": "2",
+        "home": "VAN",
+        "away": "DAL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 13,
+        "homescore": "0",
+        "home": "CIN",
+        "away": "NY",
+        "awayscore": "2"
+    },
+    {
+        "wk": 13,
+        "homescore": "1",
+        "home": "NE",
+        "away": "DC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 13,
+        "homescore": "1",
+        "home": "PHI",
+        "away": "POR",
+        "awayscore": "3"
+    },
+    {
+        "wk": 13,
+        "homescore": "1",
+        "home": "MIN",
+        "away": "HOU",
+        "awayscore": "0"
+    },
+    {
+        "wk": 13,
+        "homescore": "3",
+        "home": "COL",
+        "away": "CLB",
+        "awayscore": "2"
+    },
+    {
+        "wk": 13,
+        "homescore": "3",
+        "home": "SKC",
+        "away": "SEA",
+        "awayscore": "2"
+    },
+    {
+        "wk": 13,
+        "homescore": "1",
+        "home": "TOR",
+        "away": "SJ",
+        "awayscore": "2"
+    },
+    {
+        "wk": 13,
+        "homescore": "3",
+        "home": "ATL",
+        "away": "MIN",
+        "awayscore": "0"
+    },
+    {
+        "wk": 13,
+        "homescore": "2",
+        "home": "MTL",
+        "away": "RSL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 13,
+        "homescore": "3",
+        "home": "DC",
+        "away": "CHI",
+        "awayscore": "3"
+    },
+    {
+        "wk": 13,
+        "homescore": "0",
+        "home": "SKC",
+        "away": "LAG",
+        "awayscore": "2"
+    },
+    {
+        "wk": 13,
+        "homescore": "1",
+        "home": "PHI",
+        "away": "COL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 13,
+        "homescore": "1",
+        "home": "VAN",
+        "away": "TOR",
+        "awayscore": "1"
+    },
+    {
+        "wk": 14,
+        "homescore": "0",
+        "home": "MTL",
+        "away": "OSC",
+        "awayscore": "3"
+    },
+    {
+        "wk": 14,
+        "homescore": "2",
+        "home": "ATL",
+        "away": "CHI",
+        "awayscore": "0"
+    },
+    {
+        "wk": 14,
+        "homescore": "4",
+        "home": "NY",
+        "away": "RSL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 14,
+        "homescore": "2",
+        "home": "CLB",
+        "away": "NYC",
+        "awayscore": "2"
+    },
+    {
+        "wk": 14,
+        "homescore": "2",
+        "home": "DAL",
+        "away": "SEA",
+        "awayscore": "1"
+    },
+    {
+        "wk": 14,
+        "homescore": "1",
+        "home": "DC",
+        "away": "SJ",
+        "awayscore": "1"
+    },
+    {
+        "wk": 14,
+        "homescore": "3",
+        "home": "COL",
+        "away": "CIN",
+        "awayscore": "1"
+    },
+    {
+        "wk": 14,
+        "homescore": "1",
+        "home": "HOU",
+        "away": "SKC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 14,
+        "homescore": "2",
+        "home": "POR",
+        "away": "LFC",
+        "awayscore": "3"
+    },
+    {
+        "wk": 14,
+        "homescore": "2",
+        "home": "MIN",
+        "away": "PHI",
+        "awayscore": "3"
+    },
+    {
+        "wk": 14,
+        "homescore": "1",
+        "home": "LAG",
+        "away": "NE",
+        "awayscore": "2"
+    },
+    {
+        "wk": 14,
+        "homescore": "2",
+        "home": "MTL",
+        "away": "SEA",
+        "awayscore": "1"
+    },
+    {
+        "wk": 14,
+        "homescore": "5",
+        "home": "NYC",
+        "away": "CIN",
+        "awayscore": "2"
+    },
+    {
+        "wk": 14,
+        "homescore": "2",
+        "home": "TOR",
+        "away": "SKC",
+        "awayscore": "2"
+    },
+    {
+        "wk": 15,
+        "homescore": "2",
+        "home": "SJ",
+        "away": "DAL",
+        "awayscore": "2"
+    },
+    {
+        "wk": 15,
+        "homescore": "3",
+        "home": "PHI",
+        "away": "NY",
+        "awayscore": "2"
+    },
+    {
+        "wk": 15,
+        "homescore": "1",
+        "home": "COL",
+        "away": "MIN",
+        "awayscore": "0"
+    },
+    {
+        "wk": 17,
+        "homescore": "0",
+        "home": "CIN",
+        "away": "LAG",
+        "awayscore": "2"
+    },
+    {
+        "wk": 17,
+        "homescore": "1",
+        "home": "CHI",
+        "away": "RSL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 17,
+        "homescore": "3",
+        "home": "DAL",
+        "away": "TOR",
+        "awayscore": "0"
+    },
+    {
+        "wk": 17,
+        "homescore": "2",
+        "home": "VAN",
+        "away": "COL",
+        "awayscore": "2"
+    },
+    {
+        "wk": 17,
+        "homescore": "4",
+        "home": "POR",
+        "away": "HOU",
+        "awayscore": "0"
+    },
+    {
+        "wk": 17,
+        "homescore": "0",
+        "home": "CLB",
+        "away": "SKC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 17,
+        "homescore": "1",
+        "home": "NE",
+        "away": "PHI",
+        "awayscore": "1"
+    },
+    {
+        "wk": 17,
+        "homescore": "2",
+        "home": "MTL",
+        "away": "POR",
+        "awayscore": "1"
+    },
+    {
+        "wk": 17,
+        "homescore": "3",
+        "home": "TOR",
+        "away": "ATL",
+        "awayscore": "2"
+    },
+    {
+        "wk": 17,
+        "homescore": "1",
+        "home": "DC",
+        "away": "OSC",
+        "awayscore": "0"
+    },
+    {
+        "wk": 17,
+        "homescore": "2",
+        "home": "DAL",
+        "away": "VAN",
+        "awayscore": "2"
+    },
+    {
+        "wk": 17,
+        "homescore": "2",
+        "home": "SJ",
+        "away": "HOU",
+        "awayscore": "0"
+    },
+    {
+        "wk": 17,
+        "homescore": "3",
+        "home": "NY",
+        "away": "CHI",
+        "awayscore": "1"
+    },
+    {
+        "wk": 17,
+        "homescore": "1",
+        "home": "COL",
+        "away": "LFC",
+        "awayscore": "0"
+    },
+    {
+        "wk": 18,
+        "homescore": "7",
+        "home": "MIN",
+        "away": "CIN",
+        "awayscore": "1"
+    },
+    {
+        "wk": 18,
+        "homescore": "2",
+        "home": "ATL",
+        "away": "MTL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 18,
+        "homescore": "4",
+        "home": "NYC",
+        "away": "PHI",
+        "awayscore": "2"
+    },
+    {
+        "wk": 18,
+        "homescore": "0",
+        "home": "CLB",
+        "away": "OSC",
+        "awayscore": "2"
+    },
+    {
+        "wk": 18,
+        "homescore": "2",
+        "home": "NE",
+        "away": "HOU",
+        "awayscore": "1"
+    },
+    {
+        "wk": 18,
+        "homescore": "1",
+        "home": "DC",
+        "away": "TOR",
+        "awayscore": "1"
+    },
+    {
+        "wk": 18,
+        "homescore": "1",
+        "home": "SEA",
+        "away": "VAN",
+        "awayscore": "0"
+    },
+    {
+        "wk": 18,
+        "homescore": "3",
+        "home": "SJ",
+        "away": "LAG",
+        "awayscore": "0"
+    },
+    {
+        "wk": 18,
+        "homescore": "2",
+        "home": "RSL",
+        "away": "SKC",
+        "awayscore": "0"
+    },
+    {
+        "wk": 18,
+        "homescore": "1",
+        "home": "POR",
+        "away": "DAL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 18,
+        "homescore": "3",
+        "home": "NYC",
+        "away": "SEA",
+        "awayscore": "0"
+    },
+    {
+        "wk": 18,
+        "homescore": "1",
+        "home": "OSC",
+        "away": "PHI",
+        "awayscore": "3"
+    },
+    {
+        "wk": 18,
+        "homescore": "3",
+        "home": "MIN",
+        "away": "SJ",
+        "awayscore": "1"
+    },
+    {
+        "wk": 18,
+        "homescore": "5",
+        "home": "CHI",
+        "away": "ATL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 18,
+        "homescore": "1",
+        "home": "SKC",
+        "away": "LFC",
+        "awayscore": "5"
+    },
+    {
+        "wk": 18,
+        "homescore": "4",
+        "home": "HOU",
+        "away": "NY",
+        "awayscore": "0"
+    },
+    {
+        "wk": 18,
+        "homescore": "1",
+        "home": "RSL",
+        "away": "CLB",
+        "awayscore": "0"
+    },
+    {
+        "wk": 18,
+        "homescore": "1",
+        "home": "COL",
+        "away": "NE",
+        "awayscore": "2"
+    },
+    {
+        "wk": 18,
+        "homescore": "2",
+        "home": "DAL",
+        "away": "DC",
+        "awayscore": "0"
+    },
+    {
+        "wk": 18,
+        "homescore": "2",
+        "home": "LAG",
+        "away": "TOR",
+        "awayscore": "0"
+    },
+    {
+        "wk": 19,
+        "homescore": "2",
+        "home": "MTL",
+        "away": "MIN",
+        "awayscore": "3"
+    },
+    {
+        "wk": 19,
+        "homescore": "3",
+        "home": "CIN",
+        "away": "HOU",
+        "awayscore": "2"
+    },
+    {
+        "wk": 19,
+        "homescore": "1",
+        "home": "CLB",
+        "away": "SEA",
+        "awayscore": "2"
+    },
+    {
+        "wk": 19,
+        "homescore": "1",
+        "home": "SKC",
+        "away": "CHI",
+        "awayscore": "0"
+    },
+    {
+        "wk": 19,
+        "homescore": "1",
+        "home": "SJ",
+        "away": "RSL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 19,
+        "homescore": "6",
+        "home": "LFC",
+        "away": "VAN",
+        "awayscore": "1"
+    },
+    {
+        "wk": 19,
+        "homescore": "3",
+        "home": "ATL",
+        "away": "NY",
+        "awayscore": "3"
+    },
+    {
+        "wk": 19,
+        "homescore": "2",
+        "home": "PHI",
+        "away": "OSC",
+        "awayscore": "2"
+    },
+    {
+        "wk": 19,
+        "homescore": "0",
+        "home": "NYC",
+        "away": "POR",
+        "awayscore": "1"
+    },
+    {
+        "wk": 19,
+        "homescore": "2",
+        "home": "DC",
+        "away": "NE",
+        "awayscore": "2"
+    },
+    {
+        "wk": 19,
+        "homescore": "1",
+        "home": "HOU",
+        "away": "LFC",
+        "awayscore": "3"
+    },
+    {
+        "wk": 19,
+        "homescore": "1",
+        "home": "LAG",
+        "away": "SJ",
+        "awayscore": "3"
+    },
+    {
+        "wk": 20,
+        "homescore": "0",
+        "home": "MTL",
+        "away": "TOR",
+        "awayscore": "2"
+    },
+    {
+        "wk": 20,
+        "homescore": "1",
+        "home": "OSC",
+        "away": "CLB",
+        "awayscore": "0"
+    },
+    {
+        "wk": 20,
+        "homescore": "1",
+        "home": "MIN",
+        "away": "DAL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 20,
+        "homescore": "1",
+        "home": "CHI",
+        "away": "CIN",
+        "awayscore": "2"
+    },
+    {
+        "wk": 20,
+        "homescore": "0",
+        "home": "VAN",
+        "away": "SKC",
+        "awayscore": "3"
+    },
+    {
+        "wk": 20,
+        "homescore": "4",
+        "home": "RSL",
+        "away": "PHI",
+        "awayscore": "0"
+    },
+    {
+        "wk": 20,
+        "homescore": "2",
+        "home": "POR",
+        "away": "COL",
+        "awayscore": "2"
+    },
+    {
+        "wk": 20,
+        "homescore": "2",
+        "home": "SEA",
+        "away": "ATL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 20,
+        "homescore": "2",
+        "home": "NY",
+        "away": "NYC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 20,
+        "homescore": "5",
+        "home": "ATL",
+        "away": "HOU",
+        "awayscore": "0"
+    },
+    {
+        "wk": 20,
+        "homescore": "4",
+        "home": "NE",
+        "away": "VAN",
+        "awayscore": "0"
+    },
+    {
+        "wk": 20,
+        "homescore": "2",
+        "home": "CHI",
+        "away": "CLB",
+        "awayscore": "2"
+    },
+    {
+        "wk": 20,
+        "homescore": "3",
+        "home": "TOR",
+        "away": "NY",
+        "awayscore": "1"
+    },
+    {
+        "wk": 20,
+        "homescore": "1",
+        "home": "CIN",
+        "away": "DC",
+        "awayscore": "4"
+    },
+    {
+        "wk": 20,
+        "homescore": "1",
+        "home": "POR",
+        "away": "OSC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 20,
+        "homescore": "3",
+        "home": "LAG",
+        "away": "LFC",
+        "awayscore": "2"
+    },
+    {
+        "wk": 21,
+        "homescore": "2",
+        "home": "CLB",
+        "away": "MTL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 21,
+        "homescore": "1",
+        "home": "TOR",
+        "away": "HOU",
+        "awayscore": "3"
+    },
+    {
+        "wk": 21,
+        "homescore": "2",
+        "home": "PHI",
+        "away": "CHI",
+        "awayscore": "0"
+    },
+    {
+        "wk": 21,
+        "homescore": "0",
+        "home": "SKC",
+        "away": "DAL",
+        "awayscore": "2"
+    },
+    {
+        "wk": 21,
+        "homescore": "1",
+        "home": "COL",
+        "away": "NYC",
+        "awayscore": "2"
+    },
+    {
+        "wk": 21,
+        "homescore": "1",
+        "home": "VAN",
+        "away": "SJ",
+        "awayscore": "3"
+    },
+    {
+        "wk": 21,
+        "homescore": "1",
+        "home": "RSL",
+        "away": "MIN",
+        "awayscore": "1"
+    },
+    {
+        "wk": 21,
+        "homescore": "2",
+        "home": "ATL",
+        "away": "DC",
+        "awayscore": "0"
+    },
+    {
+        "wk": 21,
+        "homescore": "0",
+        "home": "CIN",
+        "away": "NE",
+        "awayscore": "2"
+    },
+    {
+        "wk": 21,
+        "homescore": "0",
+        "home": "OSC",
+        "away": "NY",
+        "awayscore": "1"
+    },
+    {
+        "wk": 21,
+        "homescore": "1",
+        "home": "SEA",
+        "away": "POR",
+        "awayscore": "2"
+    },
+    {
+        "wk": 21,
+        "homescore": "3",
+        "home": "NYC",
+        "away": "SKC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 21,
+        "homescore": "4",
+        "home": "LFC",
+        "away": "ATL",
+        "awayscore": "3"
+    },
+    {
+        "wk": 22,
+        "homescore": "4",
+        "home": "NE",
+        "away": "OSC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 22,
+        "homescore": "2",
+        "home": "NY",
+        "away": "CLB",
+        "awayscore": "3"
+    },
+    {
+        "wk": 22,
+        "homescore": "0",
+        "home": "MIN",
+        "away": "VAN",
+        "awayscore": "0"
+    },
+    {
+        "wk": 22,
+        "homescore": "0",
+        "home": "DAL",
+        "away": "RSL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 22,
+        "homescore": "0",
+        "home": "HOU",
+        "away": "SEA",
+        "awayscore": "1"
+    },
+    {
+        "wk": 22,
+        "homescore": "0",
+        "home": "CHI",
+        "away": "DC",
+        "awayscore": "0"
+    },
+    {
+        "wk": 22,
+        "homescore": "4",
+        "home": "MTL",
+        "away": "PHI",
+        "awayscore": "0"
+    },
+    {
+        "wk": 22,
+        "homescore": "2",
+        "home": "TOR",
+        "away": "CIN",
+        "awayscore": "1"
+    },
+    {
+        "wk": 22,
+        "homescore": "3",
+        "home": "SJ",
+        "away": "COL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 22,
+        "homescore": "4",
+        "home": "POR",
+        "away": "LAG",
+        "awayscore": "0"
+    },
+    {
+        "wk": 23,
+        "homescore": "3",
+        "home": "ATL",
+        "away": "LAG",
+        "awayscore": "0"
+    },
+    {
+        "wk": 23,
+        "homescore": "2",
+        "home": "NY",
+        "away": "TOR",
+        "awayscore": "0"
+    },
+    {
+        "wk": 23,
+        "homescore": "2",
+        "home": "OSC",
+        "away": "DAL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 23,
+        "homescore": "0",
+        "home": "NE",
+        "away": "LFC",
+        "awayscore": "2"
+    },
+    {
+        "wk": 23,
+        "homescore": "1",
+        "home": "CIN",
+        "away": "VAN",
+        "awayscore": "2"
+    },
+    {
+        "wk": 23,
+        "homescore": "6",
+        "home": "COL",
+        "away": "MTL",
+        "awayscore": "3"
+    },
+    {
+        "wk": 23,
+        "homescore": "0",
+        "home": "HOU",
+        "away": "CHI",
+        "awayscore": "1"
+    },
+    {
+        "wk": 23,
+        "homescore": "1",
+        "home": "SJ",
+        "away": "CLB",
+        "awayscore": "1"
+    },
+    {
+        "wk": 23,
+        "homescore": "3",
+        "home": "RSL",
+        "away": "NYC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 23,
+        "homescore": "1",
+        "home": "MIN",
+        "away": "POR",
+        "awayscore": "0"
+    },
+    {
+        "wk": 23,
+        "homescore": "1",
+        "home": "DC",
+        "away": "PHI",
+        "awayscore": "5"
+    },
+    {
+        "wk": 23,
+        "homescore": "2",
+        "home": "SEA",
+        "away": "SKC",
+        "awayscore": "3"
+    },
+    {
+        "wk": 23,
+        "homescore": "3",
+        "home": "NYC",
+        "away": "HOU",
+        "awayscore": "2"
+    },
+    {
+        "wk": 24,
+        "homescore": "3",
+        "home": "SEA",
+        "away": "NE",
+        "awayscore": "3"
+    },
+    {
+        "wk": 24,
+        "homescore": "1",
+        "home": "TOR",
+        "away": "OSC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 24,
+        "homescore": "2",
+        "home": "CLB",
+        "away": "CIN",
+        "awayscore": "2"
+    },
+    {
+        "wk": 24,
+        "homescore": "5",
+        "home": "DAL",
+        "away": "MIN",
+        "awayscore": "3"
+    },
+    {
+        "wk": 24,
+        "homescore": "1",
+        "home": "SKC",
+        "away": "RSL",
+        "awayscore": "2"
+    },
+    {
+        "wk": 24,
+        "homescore": "2",
+        "home": "COL",
+        "away": "SJ",
+        "awayscore": "1"
+    },
+    {
+        "wk": 24,
+        "homescore": "3",
+        "home": "CHI",
+        "away": "MTL",
+        "awayscore": "2"
+    },
+    {
+        "wk": 24,
+        "homescore": "3",
+        "home": "POR",
+        "away": "VAN",
+        "awayscore": "1"
+    },
+    {
+        "wk": 24,
+        "homescore": "2",
+        "home": "ATL",
+        "away": "NYC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 24,
+        "homescore": "2",
+        "home": "PHI",
+        "away": "HOU",
+        "awayscore": "1"
+    },
+    {
+        "wk": 24,
+        "homescore": "2",
+        "home": "DC",
+        "away": "LAG",
+        "awayscore": "1"
+    },
+    {
+        "wk": 24,
+        "homescore": "4",
+        "home": "LFC",
+        "away": "NY",
+        "awayscore": "2"
+    },
+    {
+        "wk": 24,
+        "homescore": "1",
+        "home": "OSC",
+        "away": "SKC",
+        "awayscore": "0"
+    },
+    {
+        "wk": 24,
+        "homescore": "1",
+        "home": "MIN",
+        "away": "COL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 24,
+        "homescore": "3",
+        "home": "RSL",
+        "away": "SEA",
+        "awayscore": "0"
+    },
+    {
+        "wk": 24,
+        "homescore": "2",
+        "home": "LAG",
+        "away": "DAL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 24,
+        "homescore": "3",
+        "home": "POR",
+        "away": "CHI",
+        "awayscore": "2"
+    },
+    {
+        "wk": 25,
+        "homescore": "1",
+        "home": "NY",
+        "away": "NE",
+        "awayscore": "1"
+    },
+    {
+        "wk": 25,
+        "homescore": "2",
+        "home": "CLB",
+        "away": "TOR",
+        "awayscore": "2"
+    },
+    {
+        "wk": 25,
+        "homescore": "1",
+        "home": "CIN",
+        "away": "NYC",
+        "awayscore": "4"
+    },
+    {
+        "wk": 25,
+        "homescore": "3",
+        "home": "MTL",
+        "away": "DAL",
+        "awayscore": "3"
+    },
+    {
+        "wk": 25,
+        "homescore": "2",
+        "home": "CHI",
+        "away": "PHI",
+        "awayscore": "0"
+    },
+    {
+        "wk": 25,
+        "homescore": "1",
+        "home": "MIN",
+        "away": "OSC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 25,
+        "homescore": "2",
+        "home": "SKC",
+        "away": "SJ",
+        "awayscore": "1"
+    },
+    {
+        "wk": 25,
+        "homescore": "2",
+        "home": "HOU",
+        "away": "COL",
+        "awayscore": "2"
+    },
+    {
+        "wk": 25,
+        "homescore": "2",
+        "home": "LAG",
+        "away": "SEA",
+        "awayscore": "2"
+    },
+    {
+        "wk": 25,
+        "homescore": "1",
+        "home": "VAN",
+        "away": "DC",
+        "awayscore": "0"
+    },
+    {
+        "wk": 25,
+        "homescore": "0",
+        "home": "RSL",
+        "away": "LFC",
+        "awayscore": "2"
+    },
+    {
+        "wk": 25,
+        "homescore": "0",
+        "home": "POR",
+        "away": "ATL",
+        "awayscore": "2"
+    },
+    {
+        "wk": 25,
+        "homescore": "1",
+        "home": "NYC",
+        "away": "CLB",
+        "awayscore": "0"
+    },
+    {
+        "wk": 25,
+        "homescore": "1",
+        "home": "DC",
+        "away": "NY",
+        "awayscore": "2"
+    },
+    {
+        "wk": 25,
+        "homescore": "4",
+        "home": "LFC",
+        "away": "SJ",
+        "awayscore": "0"
+    },
+    {
+        "wk": 25,
+        "homescore": "1",
+        "home": "SKC",
+        "away": "MIN",
+        "awayscore": "0"
+    },
+    {
+        "wk": 25,
+        "homescore": "0",
+        "home": "OSC",
+        "away": "ATL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 25,
+        "homescore": "1",
+        "home": "POR",
+        "away": "SEA",
+        "awayscore": "2"
+    },
+    {
+        "wk": 26,
+        "homescore": "2",
+        "home": "NYC",
+        "away": "NY",
+        "awayscore": "1"
+    },
+    {
+        "wk": 26,
+        "homescore": "2",
+        "home": "TOR",
+        "away": "MTL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 26,
+        "homescore": "2",
+        "home": "NE",
+        "away": "CHI",
+        "awayscore": "1"
+    },
+    {
+        "wk": 26,
+        "homescore": "3",
+        "home": "PHI",
+        "away": "DC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 26,
+        "homescore": "3",
+        "home": "SJ",
+        "away": "VAN",
+        "awayscore": "1"
+    },
+    {
+        "wk": 26,
+        "homescore": "2",
+        "home": "RSL",
+        "away": "COL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 26,
+        "homescore": "1",
+        "home": "CIN",
+        "away": "CLB",
+        "awayscore": "3"
+    },
+    {
+        "wk": 26,
+        "homescore": "5",
+        "home": "DAL",
+        "away": "HOU",
+        "awayscore": "1"
+    },
+    {
+        "wk": 26,
+        "homescore": "3",
+        "home": "LFC",
+        "away": "LAG",
+        "awayscore": "3"
+    },
+    {
+        "wk": 26,
+        "homescore": "2",
+        "home": "MTL",
+        "away": "VAN",
+        "awayscore": "1"
+    },
+    {
+        "wk": 27,
+        "homescore": "0",
+        "home": "NY",
+        "away": "COL",
+        "awayscore": "2"
+    },
+    {
+        "wk": 27,
+        "homescore": "0",
+        "home": "MTL",
+        "away": "DC",
+        "awayscore": "3"
+    },
+    {
+        "wk": 27,
+        "homescore": "1",
+        "home": "CLB",
+        "away": "CHI",
+        "awayscore": "1"
+    },
+    {
+        "wk": 27,
+        "homescore": "3",
+        "home": "PHI",
+        "away": "ATL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 27,
+        "homescore": "1",
+        "home": "NE",
+        "away": "TOR",
+        "awayscore": "1"
+    },
+    {
+        "wk": 27,
+        "homescore": "3",
+        "home": "DAL",
+        "away": "CIN",
+        "awayscore": "1"
+    },
+    {
+        "wk": 27,
+        "homescore": "1",
+        "home": "SKC",
+        "away": "HOU",
+        "awayscore": "0"
+    },
+    {
+        "wk": 27,
+        "homescore": "1",
+        "home": "VAN",
+        "away": "NYC",
+        "awayscore": "3"
+    },
+    {
+        "wk": 27,
+        "homescore": "3",
+        "home": "SJ",
+        "away": "OSC",
+        "awayscore": "0"
+    },
+    {
+        "wk": 27,
+        "homescore": "1",
+        "home": "POR",
+        "away": "RSL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 27,
+        "homescore": "4",
+        "home": "SEA",
+        "away": "LAG",
+        "awayscore": "3"
+    },
+    {
+        "wk": 27,
+        "homescore": "0",
+        "home": "LFC",
+        "away": "MIN",
+        "awayscore": "2"
+    },
+    {
+        "wk": 28,
+        "homescore": "2",
+        "home": "NYC",
+        "away": "NE",
+        "awayscore": "1"
+    },
+    {
+        "wk": 28,
+        "homescore": "2",
+        "home": "OSC",
+        "away": "LFC",
+        "awayscore": "2"
+    },
+    {
+        "wk": 28,
+        "homescore": "1",
+        "home": "CIN",
+        "away": "TOR",
+        "awayscore": "5"
+    },
+    {
+        "wk": 28,
+        "homescore": "2",
+        "home": "COL",
+        "away": "SEA",
+        "awayscore": "0"
+    },
+    {
+        "wk": 28,
+        "homescore": "2",
+        "home": "POR",
+        "away": "SKC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 28,
+        "homescore": "1",
+        "home": "NYC",
+        "away": "TOR",
+        "awayscore": "1"
+    },
+    {
+        "wk": 28,
+        "homescore": "2",
+        "home": "HOU",
+        "away": "MIN",
+        "awayscore": "0"
+    },
+    {
+        "wk": 28,
+        "homescore": "2",
+        "home": "COL",
+        "away": "LAG",
+        "awayscore": "1"
+    },
+    {
+        "wk": 28,
+        "homescore": "1",
+        "home": "RSL",
+        "away": "SJ",
+        "awayscore": "0"
+    },
+    {
+        "wk": 29,
+        "homescore": "2",
+        "home": "NYC",
+        "away": "SJ",
+        "awayscore": "1"
+    },
+    {
+        "wk": 29,
+        "homescore": "4",
+        "home": "CHI",
+        "away": "DAL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 29,
+        "homescore": "1",
+        "home": "ATL",
+        "away": "CLB",
+        "awayscore": "3"
+    },
+    {
+        "wk": 29,
+        "homescore": "3",
+        "home": "OSC",
+        "away": "NE",
+        "awayscore": "3"
+    },
+    {
+        "wk": 29,
+        "homescore": "1",
+        "home": "PHI",
+        "away": "LFC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 29,
+        "homescore": "0",
+        "home": "MTL",
+        "away": "CIN",
+        "awayscore": "1"
+    },
+    {
+        "wk": 29,
+        "homescore": "2",
+        "home": "VAN",
+        "away": "HOU",
+        "awayscore": "1"
+    },
+    {
+        "wk": 29,
+        "homescore": "0",
+        "home": "POR",
+        "away": "DC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 29,
+        "homescore": "3",
+        "home": "TOR",
+        "away": "COL",
+        "awayscore": "2"
+    },
+    {
+        "wk": 29,
+        "homescore": "3",
+        "home": "MIN",
+        "away": "RSL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 29,
+        "homescore": "4",
+        "home": "SEA",
+        "away": "NY",
+        "awayscore": "2"
+    },
+    {
+        "wk": 29,
+        "homescore": "7",
+        "home": "LAG",
+        "away": "SKC",
+        "awayscore": "2"
+    },
+    {
+        "wk": 29,
+        "homescore": "0",
+        "home": "CIN",
+        "away": "ATL",
+        "awayscore": "2"
+    },
+    {
+        "wk": 29,
+        "homescore": "0",
+        "home": "POR",
+        "away": "NY",
+        "awayscore": "2"
+    },
+    {
+        "wk": 29,
+        "homescore": "0",
+        "home": "SEA",
+        "away": "DAL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 30,
+        "homescore": "3",
+        "home": "ATL",
+        "away": "SJ",
+        "awayscore": "1"
+    },
+    {
+        "wk": 30,
+        "homescore": "1",
+        "home": "VAN",
+        "away": "CLB",
+        "awayscore": "1"
+    },
+    {
+        "wk": 30,
+        "homescore": "0",
+        "home": "CIN",
+        "away": "CHI",
+        "awayscore": "0"
+    },
+    {
+        "wk": 30,
+        "homescore": "0",
+        "home": "NE",
+        "away": "RSL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 30,
+        "homescore": "2",
+        "home": "SKC",
+        "away": "COL",
+        "awayscore": "3"
+    },
+    {
+        "wk": 30,
+        "homescore": "2",
+        "home": "HOU",
+        "away": "OSC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 30,
+        "homescore": "2",
+        "home": "LAG",
+        "away": "MTL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 30,
+        "homescore": "1",
+        "home": "LFC",
+        "away": "TOR",
+        "awayscore": "1"
+    },
+    {
+        "wk": 30,
+        "homescore": "0",
+        "home": "POR",
+        "away": "MIN",
+        "awayscore": "0"
+    },
+    {
+        "wk": 30,
+        "homescore": "1",
+        "home": "DAL",
+        "away": "NYC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 30,
+        "homescore": "2",
+        "home": "NY",
+        "away": "PHI",
+        "awayscore": "0"
+    },
+    {
+        "wk": 30,
+        "homescore": "2",
+        "home": "DC",
+        "away": "SEA",
+        "awayscore": "0"
+    },
+    {
+        "wk": 30,
+        "homescore": "4",
+        "home": "NYC",
+        "away": "ATL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 30,
+        "homescore": "2",
+        "home": "MIN",
+        "away": "SKC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 30,
+        "homescore": "1",
+        "home": "RSL",
+        "away": "LAG",
+        "awayscore": "2"
+    },
+    {
+        "wk": 30,
+        "homescore": "3",
+        "home": "LFC",
+        "away": "HOU",
+        "awayscore": "1"
+    },
+    {
+        "wk": 30,
+        "homescore": "2",
+        "home": "POR",
+        "away": "NE",
+        "awayscore": "2"
+    },
+    {
+        "wk": 30,
+        "homescore": "1",
+        "home": "SJ",
+        "away": "PHI",
+        "awayscore": "2"
+    },
+    {
+        "wk": 31,
+        "homescore": "2",
+        "home": "CHI",
+        "away": "TOR",
+        "awayscore": "2"
+    },
+    {
+        "wk": 31,
+        "homescore": "2",
+        "home": "CLB",
+        "away": "PHI",
+        "awayscore": "0"
+    },
+    {
+        "wk": 31,
+        "homescore": "0",
+        "home": "NY",
+        "away": "DC",
+        "awayscore": "0"
+    },
+    {
+        "wk": 31,
+        "homescore": "2",
+        "home": "NE",
+        "away": "NYC",
+        "awayscore": "0"
+    },
+    {
+        "wk": 31,
+        "homescore": "1",
+        "home": "CIN",
+        "away": "OSC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 31,
+        "homescore": "1",
+        "home": "MTL",
+        "away": "ATL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 31,
+        "homescore": "0",
+        "home": "SJ",
+        "away": "SEA",
+        "awayscore": "1"
+    },
+    {
+        "wk": 31,
+        "homescore": "3",
+        "home": "LAG",
+        "away": "VAN",
+        "awayscore": "4"
+    },
+    {
+        "wk": 31,
+        "homescore": "3",
+        "home": "COL",
+        "away": "DAL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 31,
+        "homescore": "2",
+        "home": "RSL",
+        "away": "HOU",
+        "awayscore": "1"
+    },
+    {
+        "wk": 31,
+        "homescore": "1",
+        "home": "MIN",
+        "away": "LFC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 31,
+        "homescore": "2",
+        "home": "SKC",
+        "away": "POR",
+        "awayscore": "2"
+    },
+    {
+        "wk": 32,
+        "homescore": "1",
+        "home": "SEA",
+        "away": "MIN",
+        "awayscore": "0"
+    },
+    {
+        "wk": 32,
+        "homescore": "0",
+        "home": "VAN",
+        "away": "RSL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 32,
+        "homescore": "3",
+        "home": "LFC",
+        "away": "COL",
+        "awayscore": "1"
+    },
+    {
+        "wk": 32,
+        "homescore": "3",
+        "home": "POR",
+        "away": "SJ",
+        "awayscore": "1"
+    },
+    {
+        "wk": 32,
+        "homescore": "6",
+        "home": "DAL",
+        "away": "SKC",
+        "awayscore": "0"
+    },
+    {
+        "wk": 32,
+        "homescore": "4",
+        "home": "HOU",
+        "away": "LAG",
+        "awayscore": "2"
+    },
+    {
+        "wk": 32,
+        "homescore": "1",
+        "home": "PHI",
+        "away": "NYC",
+        "awayscore": "2"
+    },
+    {
+        "wk": 32,
+        "homescore": "3",
+        "home": "ATL",
+        "away": "NE",
+        "awayscore": "1"
+    },
+    {
+        "wk": 32,
+        "homescore": "1",
+        "home": "TOR",
+        "away": "CLB",
+        "awayscore": "0"
+    },
+    {
+        "wk": 32,
+        "homescore": "0",
+        "home": "DC",
+        "away": "CIN",
+        "awayscore": "0"
+    },
+    {
+        "wk": 32,
+        "homescore": "2",
+        "home": "OSC",
+        "away": "CHI",
+        "awayscore": "5"
+    },
+    {
+        "wk": 32,
+        "homescore": "3",
+        "home": "MTL",
+        "away": "NY",
+        "awayscore": "0"
+    },
+    {
+        "wk": 33,
+        "homescore": "1",
+        "home": "ATL",
+        "away": "NE",
+        "awayscore": "0"
+    },
+    {
+        "wk": 33,
+        "homescore": "4",
+        "home": "SEA",
+        "away": "DAL",
+        "awayscore": "3"
+    },
+    {
+        "wk": 33,
+        "homescore": "5",
+        "home": "TOR",
+        "away": "DC",
+        "awayscore": "1"
+    },
+    {
+        "wk": 33,
+        "homescore": "2",
+        "home": "RSL",
+        "away": "POR",
+        "awayscore": "1"
+    },
+    {
+        "wk": 33,
+        "homescore": "4",
+        "home": "PHI",
+        "away": "NY",
+        "awayscore": "3"
+    },
+    {
+        "wk": 33,
+        "homescore": "1",
+        "home": "MIN",
+        "away": "LAG",
+        "awayscore": "2"
+    },
+    {
+        "wk": 34,
+        "homescore": "1",
+        "home": "NYC",
+        "away": "TOR",
+        "awayscore": "2"
+    },
+    {
+        "wk": 34,
+        "homescore": "2",
+        "home": "SEA",
+        "away": "RSL",
+        "awayscore": "0"
+    },
+    {
+        "wk": 34,
+        "homescore": "2",
+        "home": "ATL",
+        "away": "PHI",
+        "awayscore": "0"
+    },
+    {
+        "wk": 34,
+        "homescore": "5",
+        "home": "LFC",
+        "away": "LAG",
+        "awayscore": "3"
+    },
+    {
+        "wk": 35,
+        "homescore": "1",
+        "home": "LFC",
+        "away": "SEA",
+        "awayscore": "3"
+    },
+    {
+        "wk": 35,
+        "homescore": "1",
+        "home": "ATL",
+        "away": "TOR",
+        "awayscore": "2"
+    },
+    {
+        "wk": 36,
+        "homescore": "3",
+        "home": "SEA",
+        "away": "TOR",
+        "awayscore": "1"
+    }
+]

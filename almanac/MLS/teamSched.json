@@ -1,0 +1,4130 @@
+{
+    "ATL": {
+        "match1": {
+            "Opponent": "@DC",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match2": {
+            "Opponent": "CIN",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match3": {
+            "Opponent": "PHI",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match4": {
+            "Opponent": "@CLB",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match5": {
+            "Opponent": "@NE",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match6": {
+            "Opponent": "DAL",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match7": {
+            "Opponent": "COL",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match8": {
+            "Opponent": "@SKC",
+            "Score": "3-0",
+            "Result": "W"
+        },
+        "match9": {
+            "Opponent": "TOR",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match10": {
+            "Opponent": "OSC",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match11": {
+            "Opponent": "@VAN",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match12": {
+            "Opponent": "@NY",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match13": {
+            "Opponent": "@RSL",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match14": {
+            "Opponent": "MIN",
+            "Score": "3-0",
+            "Result": "W"
+        },
+        "match15": {
+            "Opponent": "CHI",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match16": {
+            "Opponent": "@TOR",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match17": {
+            "Opponent": "MTL",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match18": {
+            "Opponent": "@CHI",
+            "Score": "1-5",
+            "Result": "L"
+        },
+        "match19": {
+            "Opponent": "NY",
+            "Score": "3-3",
+            "Result": "D"
+        },
+        "match20": {
+            "Opponent": "@SEA",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match21": {
+            "Opponent": "HOU",
+            "Score": "5-0",
+            "Result": "W"
+        },
+        "match22": {
+            "Opponent": "DC",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match23": {
+            "Opponent": "@LFC",
+            "Score": "3-4",
+            "Result": "L"
+        },
+        "match24": {
+            "Opponent": "LAG",
+            "Score": "3-0",
+            "Result": "W"
+        },
+        "match25": {
+            "Opponent": "NYC",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match26": {
+            "Opponent": "@POR",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match27": {
+            "Opponent": "@OSC",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match28": {
+            "Opponent": "@PHI",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match29": {
+            "Opponent": "CLB",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match30": {
+            "Opponent": "@CIN",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match31": {
+            "Opponent": "SJ",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match32": {
+            "Opponent": "@NYC",
+            "Score": "1-4",
+            "Result": "L"
+        },
+        "match33": {
+            "Opponent": "@MTL",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match34": {
+            "Opponent": "NE",
+            "Score": "3-1",
+            "Result": "W"
+        }
+    },
+    "CHI": {
+        "match1": {
+            "Opponent": "@LAG",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match2": {
+            "Opponent": "OSC",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match3": {
+            "Opponent": "SEA",
+            "Score": "2-4",
+            "Result": "L"
+        },
+        "match4": {
+            "Opponent": "NY",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match5": {
+            "Opponent": "@TOR",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match6": {
+            "Opponent": "VAN",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match7": {
+            "Opponent": "COL",
+            "Score": "4-1",
+            "Result": "W"
+        },
+        "match8": {
+            "Opponent": "@NYC",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match9": {
+            "Opponent": "@MTL",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match10": {
+            "Opponent": "@LFC",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match11": {
+            "Opponent": "NE",
+            "Score": "5-0",
+            "Result": "W"
+        },
+        "match12": {
+            "Opponent": "MIN",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match13": {
+            "Opponent": "@SJ",
+            "Score": "1-4",
+            "Result": "L"
+        },
+        "match14": {
+            "Opponent": "NYC",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match15": {
+            "Opponent": "@DC",
+            "Score": "3-3",
+            "Result": "D"
+        },
+        "match16": {
+            "Opponent": "@ATL",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match17": {
+            "Opponent": "RSL",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match18": {
+            "Opponent": "@NY",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match19": {
+            "Opponent": "ATL",
+            "Score": "5-1",
+            "Result": "W"
+        },
+        "match20": {
+            "Opponent": "@SKC",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match21": {
+            "Opponent": "CIN",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match22": {
+            "Opponent": "CLB",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match23": {
+            "Opponent": "@PHI",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match24": {
+            "Opponent": "DC",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match25": {
+            "Opponent": "@HOU",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match26": {
+            "Opponent": "MTL",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match27": {
+            "Opponent": "@POR",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match28": {
+            "Opponent": "PHI",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match29": {
+            "Opponent": "@NE",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match30": {
+            "Opponent": "@CLB",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match31": {
+            "Opponent": "DAL",
+            "Score": "4-0",
+            "Result": "W"
+        },
+        "match32": {
+            "Opponent": "@CIN",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match33": {
+            "Opponent": "TOR",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match34": {
+            "Opponent": "@OSC",
+            "Score": "5-2",
+            "Result": "W"
+        }
+    },
+    "CIN": {
+        "match1": {
+            "Opponent": "@SEA",
+            "Score": "1-4",
+            "Result": "L"
+        },
+        "match2": {
+            "Opponent": "@ATL",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match3": {
+            "Opponent": "POR",
+            "Score": "3-0",
+            "Result": "W"
+        },
+        "match4": {
+            "Opponent": "@NE",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match5": {
+            "Opponent": "PHI",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match6": {
+            "Opponent": "SKC",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match7": {
+            "Opponent": "@LFC",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match8": {
+            "Opponent": "RSL",
+            "Score": "0-3",
+            "Result": "L"
+        },
+        "match9": {
+            "Opponent": "@NY",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match10": {
+            "Opponent": "@PHI",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match11": {
+            "Opponent": "@SJ",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match12": {
+            "Opponent": "MTL",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match13": {
+            "Opponent": "@OSC",
+            "Score": "1-5",
+            "Result": "L"
+        },
+        "match14": {
+            "Opponent": "NY",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match15": {
+            "Opponent": "@COL",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match16": {
+            "Opponent": "@NYC",
+            "Score": "2-5",
+            "Result": "L"
+        },
+        "match17": {
+            "Opponent": "LAG",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match18": {
+            "Opponent": "@MIN",
+            "Score": "1-7",
+            "Result": "L"
+        },
+        "match19": {
+            "Opponent": "HOU",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match20": {
+            "Opponent": "@CHI",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match21": {
+            "Opponent": "DC",
+            "Score": "1-4",
+            "Result": "L"
+        },
+        "match22": {
+            "Opponent": "NE",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match23": {
+            "Opponent": "@TOR",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match24": {
+            "Opponent": "VAN",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match25": {
+            "Opponent": "@CLB",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match26": {
+            "Opponent": "NYC",
+            "Score": "1-4",
+            "Result": "L"
+        },
+        "match27": {
+            "Opponent": "CLB",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match28": {
+            "Opponent": "@DAL",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match29": {
+            "Opponent": "TOR",
+            "Score": "1-5",
+            "Result": "L"
+        },
+        "match30": {
+            "Opponent": "@MTL",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match31": {
+            "Opponent": "ATL",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match32": {
+            "Opponent": "CHI",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match33": {
+            "Opponent": "OSC",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match34": {
+            "Opponent": "@DC",
+            "Score": "0-0",
+            "Result": "D"
+        }
+    },
+    "CLB": {
+        "match1": {
+            "Opponent": "NY",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match2": {
+            "Opponent": "@NE",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match3": {
+            "Opponent": "DAL",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match4": {
+            "Opponent": "@PHI",
+            "Score": "0-3",
+            "Result": "L"
+        },
+        "match5": {
+            "Opponent": "ATL",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match6": {
+            "Opponent": "NE",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match7": {
+            "Opponent": "@MTL",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match8": {
+            "Opponent": "POR",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match9": {
+            "Opponent": "DC",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match10": {
+            "Opponent": "@HOU",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match11": {
+            "Opponent": "@DC",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match12": {
+            "Opponent": "LAG",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match13": {
+            "Opponent": "LFC",
+            "Score": "0-3",
+            "Result": "L"
+        },
+        "match14": {
+            "Opponent": "@MIN",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match15": {
+            "Opponent": "@COL",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match16": {
+            "Opponent": "NYC",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match17": {
+            "Opponent": "SKC",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match18": {
+            "Opponent": "OSC",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match19": {
+            "Opponent": "@RSL",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match20": {
+            "Opponent": "SEA",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match21": {
+            "Opponent": "@OSC",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match22": {
+            "Opponent": "@CHI",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match23": {
+            "Opponent": "MTL",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match24": {
+            "Opponent": "@NY",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match25": {
+            "Opponent": "@SJ",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match26": {
+            "Opponent": "CIN",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match27": {
+            "Opponent": "TOR",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match28": {
+            "Opponent": "@NYC",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match29": {
+            "Opponent": "@CIN",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match30": {
+            "Opponent": "CHI",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match31": {
+            "Opponent": "@ATL",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match32": {
+            "Opponent": "@VAN",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match33": {
+            "Opponent": "PHI",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match34": {
+            "Opponent": "@TOR",
+            "Score": "0-1",
+            "Result": "L"
+        }
+    },
+    "COL": {
+        "match1": {
+            "Opponent": "POR",
+            "Score": "3-3",
+            "Result": "D"
+        },
+        "match2": {
+            "Opponent": "@SEA",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match3": {
+            "Opponent": "SKC",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match4": {
+            "Opponent": "@DAL",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match5": {
+            "Opponent": "HOU",
+            "Score": "1-4",
+            "Result": "L"
+        },
+        "match6": {
+            "Opponent": "@OSC",
+            "Score": "3-4",
+            "Result": "L"
+        },
+        "match7": {
+            "Opponent": "DC",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match8": {
+            "Opponent": "@CHI",
+            "Score": "1-4",
+            "Result": "L"
+        },
+        "match9": {
+            "Opponent": "@ATL",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match10": {
+            "Opponent": "VAN",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match11": {
+            "Opponent": "RSL",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match12": {
+            "Opponent": "@LAG",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match13": {
+            "Opponent": "CLB",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match14": {
+            "Opponent": "@PHI",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match15": {
+            "Opponent": "CIN",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match16": {
+            "Opponent": "MIN",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match17": {
+            "Opponent": "@VAN",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match18": {
+            "Opponent": "LFC",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match19": {
+            "Opponent": "NE",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match20": {
+            "Opponent": "@POR",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match21": {
+            "Opponent": "NYC",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match22": {
+            "Opponent": "@SJ",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match23": {
+            "Opponent": "MTL",
+            "Score": "6-3",
+            "Result": "W"
+        },
+        "match24": {
+            "Opponent": "SJ",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match25": {
+            "Opponent": "@MIN",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match26": {
+            "Opponent": "@HOU",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match27": {
+            "Opponent": "@RSL",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match28": {
+            "Opponent": "@NY",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match29": {
+            "Opponent": "SEA",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match30": {
+            "Opponent": "LAG",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match31": {
+            "Opponent": "@TOR",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match32": {
+            "Opponent": "@SKC",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match33": {
+            "Opponent": "DAL",
+            "Score": "3-0",
+            "Result": "W"
+        },
+        "match34": {
+            "Opponent": "@LFC",
+            "Score": "1-3",
+            "Result": "L"
+        }
+    },
+    "DAL": {
+        "match1": {
+            "Opponent": "NE",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match2": {
+            "Opponent": "LAG",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match3": {
+            "Opponent": "@CLB",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match4": {
+            "Opponent": "COL",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match5": {
+            "Opponent": "@RSL",
+            "Score": "4-2",
+            "Result": "W"
+        },
+        "match6": {
+            "Opponent": "@PHI",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match7": {
+            "Opponent": "POR",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match8": {
+            "Opponent": "@ATL",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match9": {
+            "Opponent": "SJ",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match10": {
+            "Opponent": "@HOU",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match11": {
+            "Opponent": "NY",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match12": {
+            "Opponent": "@LFC",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match13": {
+            "Opponent": "LFC",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match14": {
+            "Opponent": "@VAN",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match15": {
+            "Opponent": "SEA",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match16": {
+            "Opponent": "@SJ",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match17": {
+            "Opponent": "TOR",
+            "Score": "3-0",
+            "Result": "W"
+        },
+        "match18": {
+            "Opponent": "VAN",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match19": {
+            "Opponent": "@POR",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match20": {
+            "Opponent": "DC",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match21": {
+            "Opponent": "@MIN",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match22": {
+            "Opponent": "@SKC",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match23": {
+            "Opponent": "RSL",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match24": {
+            "Opponent": "@OSC",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match25": {
+            "Opponent": "MIN",
+            "Score": "5-3",
+            "Result": "W"
+        },
+        "match26": {
+            "Opponent": "@LAG",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match27": {
+            "Opponent": "@MTL",
+            "Score": "3-3",
+            "Result": "D"
+        },
+        "match28": {
+            "Opponent": "HOU",
+            "Score": "5-1",
+            "Result": "W"
+        },
+        "match29": {
+            "Opponent": "CIN",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match30": {
+            "Opponent": "@CHI",
+            "Score": "0-4",
+            "Result": "L"
+        },
+        "match31": {
+            "Opponent": "@SEA",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match32": {
+            "Opponent": "NYC",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match33": {
+            "Opponent": "@COL",
+            "Score": "0-3",
+            "Result": "L"
+        },
+        "match34": {
+            "Opponent": "SKC",
+            "Score": "6-0",
+            "Result": "W"
+        }
+    },
+    "DC": {
+        "match1": {
+            "Opponent": "ATL",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match2": {
+            "Opponent": "@NYC",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match3": {
+            "Opponent": "RSL",
+            "Score": "5-0",
+            "Result": "W"
+        },
+        "match4": {
+            "Opponent": "@OSC",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match5": {
+            "Opponent": "LFC",
+            "Score": "0-4",
+            "Result": "L"
+        },
+        "match6": {
+            "Opponent": "MTL",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match7": {
+            "Opponent": "@COL",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match8": {
+            "Opponent": "NYC",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match9": {
+            "Opponent": "@CLB",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match10": {
+            "Opponent": "@MIN",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match11": {
+            "Opponent": "CLB",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match12": {
+            "Opponent": "SKC",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match13": {
+            "Opponent": "@TOR",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match14": {
+            "Opponent": "@HOU",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match15": {
+            "Opponent": "@NE",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match16": {
+            "Opponent": "CHI",
+            "Score": "3-3",
+            "Result": "D"
+        },
+        "match17": {
+            "Opponent": "SJ",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match18": {
+            "Opponent": "OSC",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match19": {
+            "Opponent": "TOR",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match20": {
+            "Opponent": "@DAL",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match21": {
+            "Opponent": "NE",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match22": {
+            "Opponent": "@CIN",
+            "Score": "4-1",
+            "Result": "W"
+        },
+        "match23": {
+            "Opponent": "@ATL",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match24": {
+            "Opponent": "@CHI",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match25": {
+            "Opponent": "PHI",
+            "Score": "1-5",
+            "Result": "L"
+        },
+        "match26": {
+            "Opponent": "LAG",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match27": {
+            "Opponent": "@VAN",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match28": {
+            "Opponent": "NY",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match29": {
+            "Opponent": "@PHI",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match30": {
+            "Opponent": "@MTL",
+            "Score": "3-0",
+            "Result": "W"
+        },
+        "match31": {
+            "Opponent": "@POR",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match32": {
+            "Opponent": "SEA",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match33": {
+            "Opponent": "@NY",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match34": {
+            "Opponent": "CIN",
+            "Score": "0-0",
+            "Result": "D"
+        }
+    },
+    "HOU": {
+        "match1": {
+            "Opponent": "RSL",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match2": {
+            "Opponent": "MTL",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match3": {
+            "Opponent": "VAN",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match4": {
+            "Opponent": "@COL",
+            "Score": "4-1",
+            "Result": "W"
+        },
+        "match5": {
+            "Opponent": "SJ",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match6": {
+            "Opponent": "@LAG",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match7": {
+            "Opponent": "CLB",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match8": {
+            "Opponent": "DAL",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match9": {
+            "Opponent": "@SEA",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match10": {
+            "Opponent": "POR",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match11": {
+            "Opponent": "DC",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match12": {
+            "Opponent": "@MIN",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match13": {
+            "Opponent": "SKC",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match14": {
+            "Opponent": "@POR",
+            "Score": "0-4",
+            "Result": "L"
+        },
+        "match15": {
+            "Opponent": "@SJ",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match16": {
+            "Opponent": "@NE",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match17": {
+            "Opponent": "NY",
+            "Score": "4-0",
+            "Result": "W"
+        },
+        "match18": {
+            "Opponent": "@CIN",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match19": {
+            "Opponent": "LFC",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match20": {
+            "Opponent": "@ATL",
+            "Score": "0-5",
+            "Result": "L"
+        },
+        "match21": {
+            "Opponent": "@TOR",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match22": {
+            "Opponent": "SEA",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match23": {
+            "Opponent": "CHI",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match24": {
+            "Opponent": "@NYC",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match25": {
+            "Opponent": "@PHI",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match26": {
+            "Opponent": "COL",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match27": {
+            "Opponent": "@DAL",
+            "Score": "1-5",
+            "Result": "L"
+        },
+        "match28": {
+            "Opponent": "@SKC",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match29": {
+            "Opponent": "MIN",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match30": {
+            "Opponent": "@VAN",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match31": {
+            "Opponent": "OSC",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match32": {
+            "Opponent": "@LFC",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match33": {
+            "Opponent": "@RSL",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match34": {
+            "Opponent": "LAG",
+            "Score": "4-2",
+            "Result": "W"
+        }
+    },
+    "LAG": {
+        "match1": {
+            "Opponent": "CHI",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match2": {
+            "Opponent": "@DAL",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match3": {
+            "Opponent": "MIN",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match4": {
+            "Opponent": "POR",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match5": {
+            "Opponent": "@VAN",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match6": {
+            "Opponent": "PHI",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match7": {
+            "Opponent": "HOU",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match8": {
+            "Opponent": "@MIN",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match9": {
+            "Opponent": "RSL",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match10": {
+            "Opponent": "@NY",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match11": {
+            "Opponent": "@CLB",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match12": {
+            "Opponent": "NYC",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match13": {
+            "Opponent": "COL",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match14": {
+            "Opponent": "@OSC",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match15": {
+            "Opponent": "@SKC",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match16": {
+            "Opponent": "NE",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match17": {
+            "Opponent": "@CIN",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match18": {
+            "Opponent": "@SJ",
+            "Score": "0-3",
+            "Result": "L"
+        },
+        "match19": {
+            "Opponent": "TOR",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match20": {
+            "Opponent": "SJ",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match21": {
+            "Opponent": "LFC",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match22": {
+            "Opponent": "@POR",
+            "Score": "0-4",
+            "Result": "L"
+        },
+        "match23": {
+            "Opponent": "@ATL",
+            "Score": "0-3",
+            "Result": "L"
+        },
+        "match24": {
+            "Opponent": "@DC",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match25": {
+            "Opponent": "DAL",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match26": {
+            "Opponent": "SEA",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match27": {
+            "Opponent": "@LFC",
+            "Score": "3-3",
+            "Result": "D"
+        },
+        "match28": {
+            "Opponent": "@SEA",
+            "Score": "3-4",
+            "Result": "L"
+        },
+        "match29": {
+            "Opponent": "@COL",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match30": {
+            "Opponent": "SKC",
+            "Score": "7-2",
+            "Result": "W"
+        },
+        "match31": {
+            "Opponent": "MTL",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match32": {
+            "Opponent": "@RSL",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match33": {
+            "Opponent": "VAN",
+            "Score": "3-4",
+            "Result": "L"
+        },
+        "match34": {
+            "Opponent": "@HOU",
+            "Score": "2-4",
+            "Result": "L"
+        }
+    },
+    "LFC": {
+        "match1": {
+            "Opponent": "SKC",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match2": {
+            "Opponent": "POR",
+            "Score": "4-1",
+            "Result": "W"
+        },
+        "match3": {
+            "Opponent": "@NYC",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match4": {
+            "Opponent": "RSL",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match5": {
+            "Opponent": "@SJ",
+            "Score": "5-0",
+            "Result": "W"
+        },
+        "match6": {
+            "Opponent": "@DC",
+            "Score": "4-0",
+            "Result": "W"
+        },
+        "match7": {
+            "Opponent": "CIN",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match8": {
+            "Opponent": "@VAN",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match9": {
+            "Opponent": "SEA",
+            "Score": "4-1",
+            "Result": "W"
+        },
+        "match10": {
+            "Opponent": "@SEA",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match11": {
+            "Opponent": "CHI",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match12": {
+            "Opponent": "@CLB",
+            "Score": "3-0",
+            "Result": "W"
+        },
+        "match13": {
+            "Opponent": "DAL",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match14": {
+            "Opponent": "@DAL",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match15": {
+            "Opponent": "MTL",
+            "Score": "4-2",
+            "Result": "W"
+        },
+        "match16": {
+            "Opponent": "@POR",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match17": {
+            "Opponent": "@COL",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match18": {
+            "Opponent": "@SKC",
+            "Score": "5-1",
+            "Result": "W"
+        },
+        "match19": {
+            "Opponent": "VAN",
+            "Score": "6-1",
+            "Result": "W"
+        },
+        "match20": {
+            "Opponent": "@HOU",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match21": {
+            "Opponent": "@LAG",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match22": {
+            "Opponent": "ATL",
+            "Score": "4-3",
+            "Result": "W"
+        },
+        "match23": {
+            "Opponent": "@NE",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match24": {
+            "Opponent": "NY",
+            "Score": "4-2",
+            "Result": "W"
+        },
+        "match25": {
+            "Opponent": "@RSL",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match26": {
+            "Opponent": "SJ",
+            "Score": "4-0",
+            "Result": "W"
+        },
+        "match27": {
+            "Opponent": "LAG",
+            "Score": "3-3",
+            "Result": "D"
+        },
+        "match28": {
+            "Opponent": "MIN",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match29": {
+            "Opponent": "@OSC",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match30": {
+            "Opponent": "@PHI",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match31": {
+            "Opponent": "TOR",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match32": {
+            "Opponent": "HOU",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match33": {
+            "Opponent": "@MIN",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match34": {
+            "Opponent": "COL",
+            "Score": "3-1",
+            "Result": "W"
+        }
+    },
+    "MIN": {
+        "match1": {
+            "Opponent": "@VAN",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match2": {
+            "Opponent": "@SJ",
+            "Score": "3-0",
+            "Result": "W"
+        },
+        "match3": {
+            "Opponent": "@LAG",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match4": {
+            "Opponent": "@NE",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match5": {
+            "Opponent": "@NY",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match6": {
+            "Opponent": "NYC",
+            "Score": "3-3",
+            "Result": "D"
+        },
+        "match7": {
+            "Opponent": "@TOR",
+            "Score": "3-4",
+            "Result": "L"
+        },
+        "match8": {
+            "Opponent": "LAG",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match9": {
+            "Opponent": "DC",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match10": {
+            "Opponent": "SEA",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match11": {
+            "Opponent": "@CHI",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match12": {
+            "Opponent": "CLB",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match13": {
+            "Opponent": "HOU",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match14": {
+            "Opponent": "@ATL",
+            "Score": "0-3",
+            "Result": "L"
+        },
+        "match15": {
+            "Opponent": "PHI",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match16": {
+            "Opponent": "@COL",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match17": {
+            "Opponent": "CIN",
+            "Score": "7-1",
+            "Result": "W"
+        },
+        "match18": {
+            "Opponent": "SJ",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match19": {
+            "Opponent": "@MTL",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match20": {
+            "Opponent": "DAL",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match21": {
+            "Opponent": "@RSL",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match22": {
+            "Opponent": "VAN",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match23": {
+            "Opponent": "POR",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match24": {
+            "Opponent": "@DAL",
+            "Score": "3-5",
+            "Result": "L"
+        },
+        "match25": {
+            "Opponent": "COL",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match26": {
+            "Opponent": "OSC",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match27": {
+            "Opponent": "@SKC",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match28": {
+            "Opponent": "@LFC",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match29": {
+            "Opponent": "@HOU",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match30": {
+            "Opponent": "RSL",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match31": {
+            "Opponent": "@POR",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match32": {
+            "Opponent": "SKC",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match33": {
+            "Opponent": "LFC",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match34": {
+            "Opponent": "@SEA",
+            "Score": "0-1",
+            "Result": "L"
+        }
+    },
+    "MTL": {
+        "match1": {
+            "Opponent": "@SJ",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match2": {
+            "Opponent": "@HOU",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match3": {
+            "Opponent": "@OSC",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match4": {
+            "Opponent": "@SKC",
+            "Score": "1-7",
+            "Result": "L"
+        },
+        "match5": {
+            "Opponent": "@NYC",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match6": {
+            "Opponent": "@DC",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match7": {
+            "Opponent": "CLB",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match8": {
+            "Opponent": "@PHI",
+            "Score": "0-3",
+            "Result": "L"
+        },
+        "match9": {
+            "Opponent": "@NE",
+            "Score": "3-0",
+            "Result": "W"
+        },
+        "match10": {
+            "Opponent": "CHI",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match11": {
+            "Opponent": "NYC",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match12": {
+            "Opponent": "@NY",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match13": {
+            "Opponent": "@CIN",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match14": {
+            "Opponent": "NE",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match15": {
+            "Opponent": "@LFC",
+            "Score": "2-4",
+            "Result": "L"
+        },
+        "match16": {
+            "Opponent": "RSL",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match17": {
+            "Opponent": "OSC",
+            "Score": "0-3",
+            "Result": "L"
+        },
+        "match18": {
+            "Opponent": "SEA",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match19": {
+            "Opponent": "POR",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match20": {
+            "Opponent": "@ATL",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match21": {
+            "Opponent": "MIN",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match22": {
+            "Opponent": "TOR",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match23": {
+            "Opponent": "@CLB",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match24": {
+            "Opponent": "PHI",
+            "Score": "4-0",
+            "Result": "W"
+        },
+        "match25": {
+            "Opponent": "@COL",
+            "Score": "3-6",
+            "Result": "L"
+        },
+        "match26": {
+            "Opponent": "@CHI",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match27": {
+            "Opponent": "DAL",
+            "Score": "3-3",
+            "Result": "D"
+        },
+        "match28": {
+            "Opponent": "@TOR",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match29": {
+            "Opponent": "VAN",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match30": {
+            "Opponent": "DC",
+            "Score": "0-3",
+            "Result": "L"
+        },
+        "match31": {
+            "Opponent": "CIN",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match32": {
+            "Opponent": "@LAG",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match33": {
+            "Opponent": "ATL",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match34": {
+            "Opponent": "NY",
+            "Score": "3-0",
+            "Result": "W"
+        }
+    },
+    "NE": {
+        "match1": {
+            "Opponent": "@DAL",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match2": {
+            "Opponent": "CLB",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match3": {
+            "Opponent": "@TOR",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match4": {
+            "Opponent": "CIN",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match5": {
+            "Opponent": "MIN",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match6": {
+            "Opponent": "@CLB",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match7": {
+            "Opponent": "ATL",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match8": {
+            "Opponent": "NY",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match9": {
+            "Opponent": "MTL",
+            "Score": "0-3",
+            "Result": "L"
+        },
+        "match10": {
+            "Opponent": "@SKC",
+            "Score": "4-4",
+            "Result": "D"
+        },
+        "match11": {
+            "Opponent": "@PHI",
+            "Score": "1-6",
+            "Result": "L"
+        },
+        "match12": {
+            "Opponent": "@CHI",
+            "Score": "0-5",
+            "Result": "L"
+        },
+        "match13": {
+            "Opponent": "SJ",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match14": {
+            "Opponent": "@MTL",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match15": {
+            "Opponent": "DC",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match16": {
+            "Opponent": "@LAG",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match17": {
+            "Opponent": "PHI",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match18": {
+            "Opponent": "HOU",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match19": {
+            "Opponent": "@COL",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match20": {
+            "Opponent": "@DC",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match21": {
+            "Opponent": "VAN",
+            "Score": "4-0",
+            "Result": "W"
+        },
+        "match22": {
+            "Opponent": "@CIN",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match23": {
+            "Opponent": "OSC",
+            "Score": "4-1",
+            "Result": "W"
+        },
+        "match24": {
+            "Opponent": "LFC",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match25": {
+            "Opponent": "@SEA",
+            "Score": "3-3",
+            "Result": "D"
+        },
+        "match26": {
+            "Opponent": "@NY",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match27": {
+            "Opponent": "CHI",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match28": {
+            "Opponent": "TOR",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match29": {
+            "Opponent": "@NYC",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match30": {
+            "Opponent": "@OSC",
+            "Score": "3-3",
+            "Result": "D"
+        },
+        "match31": {
+            "Opponent": "RSL",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match32": {
+            "Opponent": "@POR",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match33": {
+            "Opponent": "NYC",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match34": {
+            "Opponent": "@ATL",
+            "Score": "1-3",
+            "Result": "L"
+        }
+    },
+    "NY": {
+        "match1": {
+            "Opponent": "@CLB",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match2": {
+            "Opponent": "SJ",
+            "Score": "4-1",
+            "Result": "W"
+        },
+        "match3": {
+            "Opponent": "OSC",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match4": {
+            "Opponent": "@CHI",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match5": {
+            "Opponent": "MIN",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match6": {
+            "Opponent": "@SKC",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match7": {
+            "Opponent": "@NE",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match8": {
+            "Opponent": "CIN",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match9": {
+            "Opponent": "LAG",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match10": {
+            "Opponent": "MTL",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match11": {
+            "Opponent": "@DAL",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match12": {
+            "Opponent": "ATL",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match13": {
+            "Opponent": "VAN",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match14": {
+            "Opponent": "@CIN",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match15": {
+            "Opponent": "RSL",
+            "Score": "4-0",
+            "Result": "W"
+        },
+        "match16": {
+            "Opponent": "@PHI",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match17": {
+            "Opponent": "CHI",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match18": {
+            "Opponent": "@HOU",
+            "Score": "0-4",
+            "Result": "L"
+        },
+        "match19": {
+            "Opponent": "@ATL",
+            "Score": "3-3",
+            "Result": "D"
+        },
+        "match20": {
+            "Opponent": "NYC",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match21": {
+            "Opponent": "@TOR",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match22": {
+            "Opponent": "@OSC",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match23": {
+            "Opponent": "CLB",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match24": {
+            "Opponent": "TOR",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match25": {
+            "Opponent": "@LFC",
+            "Score": "2-4",
+            "Result": "L"
+        },
+        "match26": {
+            "Opponent": "NE",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match27": {
+            "Opponent": "@DC",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match28": {
+            "Opponent": "@NYC",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match29": {
+            "Opponent": "COL",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match30": {
+            "Opponent": "@SEA",
+            "Score": "2-4",
+            "Result": "L"
+        },
+        "match31": {
+            "Opponent": "@POR",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match32": {
+            "Opponent": "PHI",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match33": {
+            "Opponent": "DC",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match34": {
+            "Opponent": "@MTL",
+            "Score": "0-3",
+            "Result": "L"
+        }
+    },
+    "NYC": {
+        "match1": {
+            "Opponent": "@OSC",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match2": {
+            "Opponent": "DC",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match3": {
+            "Opponent": "LFC",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match4": {
+            "Opponent": "@TOR",
+            "Score": "0-4",
+            "Result": "L"
+        },
+        "match5": {
+            "Opponent": "MTL",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match6": {
+            "Opponent": "@MIN",
+            "Score": "3-3",
+            "Result": "D"
+        },
+        "match7": {
+            "Opponent": "@DC",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match8": {
+            "Opponent": "CHI",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match9": {
+            "Opponent": "OSC",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match10": {
+            "Opponent": "@MTL",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match11": {
+            "Opponent": "@LAG",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match12": {
+            "Opponent": "@CHI",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match13": {
+            "Opponent": "@CLB",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match14": {
+            "Opponent": "CIN",
+            "Score": "5-2",
+            "Result": "W"
+        },
+        "match15": {
+            "Opponent": "PHI",
+            "Score": "4-2",
+            "Result": "W"
+        },
+        "match16": {
+            "Opponent": "SEA",
+            "Score": "3-0",
+            "Result": "W"
+        },
+        "match17": {
+            "Opponent": "POR",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match18": {
+            "Opponent": "@NY",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match19": {
+            "Opponent": "@COL",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match20": {
+            "Opponent": "SKC",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match21": {
+            "Opponent": "@RSL",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match22": {
+            "Opponent": "HOU",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match23": {
+            "Opponent": "@ATL",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match24": {
+            "Opponent": "@CIN",
+            "Score": "4-1",
+            "Result": "W"
+        },
+        "match25": {
+            "Opponent": "CLB",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match26": {
+            "Opponent": "NY",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match27": {
+            "Opponent": "@VAN",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match28": {
+            "Opponent": "NE",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match29": {
+            "Opponent": "TOR",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match30": {
+            "Opponent": "SJ",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match31": {
+            "Opponent": "@DAL",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match32": {
+            "Opponent": "ATL",
+            "Score": "4-1",
+            "Result": "W"
+        },
+        "match33": {
+            "Opponent": "@NE",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match34": {
+            "Opponent": "@PHI",
+            "Score": "2-1",
+            "Result": "W"
+        }
+    },
+    "OSC": {
+        "match1": {
+            "Opponent": "NYC",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match2": {
+            "Opponent": "@CHI",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match3": {
+            "Opponent": "MTL",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match4": {
+            "Opponent": "@NY",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match5": {
+            "Opponent": "DC",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match6": {
+            "Opponent": "COL",
+            "Score": "4-3",
+            "Result": "W"
+        },
+        "match7": {
+            "Opponent": "@RSL",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match8": {
+            "Opponent": "VAN",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match9": {
+            "Opponent": "@NYC",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match10": {
+            "Opponent": "TOR",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match11": {
+            "Opponent": "@ATL",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match12": {
+            "Opponent": "@SEA",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match13": {
+            "Opponent": "CIN",
+            "Score": "5-1",
+            "Result": "W"
+        },
+        "match14": {
+            "Opponent": "LAG",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match15": {
+            "Opponent": "@MTL",
+            "Score": "3-0",
+            "Result": "W"
+        },
+        "match16": {
+            "Opponent": "@DC",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match17": {
+            "Opponent": "@CLB",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match18": {
+            "Opponent": "PHI",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match19": {
+            "Opponent": "@PHI",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match20": {
+            "Opponent": "CLB",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match21": {
+            "Opponent": "@POR",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match22": {
+            "Opponent": "NY",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match23": {
+            "Opponent": "@NE",
+            "Score": "1-4",
+            "Result": "L"
+        },
+        "match24": {
+            "Opponent": "DAL",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match25": {
+            "Opponent": "@TOR",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match26": {
+            "Opponent": "SKC",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match27": {
+            "Opponent": "@MIN",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match28": {
+            "Opponent": "ATL",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match29": {
+            "Opponent": "@SJ",
+            "Score": "0-3",
+            "Result": "L"
+        },
+        "match30": {
+            "Opponent": "LFC",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match31": {
+            "Opponent": "NE",
+            "Score": "3-3",
+            "Result": "D"
+        },
+        "match32": {
+            "Opponent": "@HOU",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match33": {
+            "Opponent": "@CIN",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match34": {
+            "Opponent": "CHI",
+            "Score": "2-5",
+            "Result": "L"
+        }
+    },
+    "PHI": {
+        "match1": {
+            "Opponent": "TOR",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match2": {
+            "Opponent": "@SKC",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match3": {
+            "Opponent": "@ATL",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match4": {
+            "Opponent": "CLB",
+            "Score": "3-0",
+            "Result": "W"
+        },
+        "match5": {
+            "Opponent": "@CIN",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match6": {
+            "Opponent": "DAL",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match7": {
+            "Opponent": "@LAG",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match8": {
+            "Opponent": "MTL",
+            "Score": "3-0",
+            "Result": "W"
+        },
+        "match9": {
+            "Opponent": "@VAN",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match10": {
+            "Opponent": "CIN",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match11": {
+            "Opponent": "NE",
+            "Score": "6-1",
+            "Result": "W"
+        },
+        "match12": {
+            "Opponent": "@TOR",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match13": {
+            "Opponent": "SEA",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match14": {
+            "Opponent": "POR",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match15": {
+            "Opponent": "COL",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match16": {
+            "Opponent": "@MIN",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match17": {
+            "Opponent": "NY",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match18": {
+            "Opponent": "@NE",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match19": {
+            "Opponent": "@NYC",
+            "Score": "2-4",
+            "Result": "L"
+        },
+        "match20": {
+            "Opponent": "@OSC",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match21": {
+            "Opponent": "OSC",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match22": {
+            "Opponent": "@RSL",
+            "Score": "0-4",
+            "Result": "L"
+        },
+        "match23": {
+            "Opponent": "CHI",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match24": {
+            "Opponent": "@MTL",
+            "Score": "0-4",
+            "Result": "L"
+        },
+        "match25": {
+            "Opponent": "@DC",
+            "Score": "5-1",
+            "Result": "W"
+        },
+        "match26": {
+            "Opponent": "HOU",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match27": {
+            "Opponent": "@CHI",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match28": {
+            "Opponent": "DC",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match29": {
+            "Opponent": "ATL",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match30": {
+            "Opponent": "LFC",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match31": {
+            "Opponent": "@NY",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match32": {
+            "Opponent": "@SJ",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match33": {
+            "Opponent": "@CLB",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match34": {
+            "Opponent": "NYC",
+            "Score": "1-2",
+            "Result": "L"
+        }
+    },
+    "POR": {
+        "match1": {
+            "Opponent": "@COL",
+            "Score": "3-3",
+            "Result": "D"
+        },
+        "match2": {
+            "Opponent": "@LFC",
+            "Score": "1-4",
+            "Result": "L"
+        },
+        "match3": {
+            "Opponent": "@CIN",
+            "Score": "0-3",
+            "Result": "L"
+        },
+        "match4": {
+            "Opponent": "@LAG",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match5": {
+            "Opponent": "@SJ",
+            "Score": "0-3",
+            "Result": "L"
+        },
+        "match6": {
+            "Opponent": "@DAL",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match7": {
+            "Opponent": "@CLB",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match8": {
+            "Opponent": "@TOR",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match9": {
+            "Opponent": "@RSL",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match10": {
+            "Opponent": "@VAN",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match11": {
+            "Opponent": "@HOU",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match12": {
+            "Opponent": "@PHI",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match13": {
+            "Opponent": "LFC",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match14": {
+            "Opponent": "HOU",
+            "Score": "4-0",
+            "Result": "W"
+        },
+        "match15": {
+            "Opponent": "@MTL",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match16": {
+            "Opponent": "DAL",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match17": {
+            "Opponent": "@NYC",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match18": {
+            "Opponent": "COL",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match19": {
+            "Opponent": "OSC",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match20": {
+            "Opponent": "@SEA",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match21": {
+            "Opponent": "LAG",
+            "Score": "4-0",
+            "Result": "W"
+        },
+        "match22": {
+            "Opponent": "@MIN",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match23": {
+            "Opponent": "VAN",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match24": {
+            "Opponent": "CHI",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match25": {
+            "Opponent": "ATL",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match26": {
+            "Opponent": "SEA",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match27": {
+            "Opponent": "RSL",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match28": {
+            "Opponent": "SKC",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match29": {
+            "Opponent": "DC",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match30": {
+            "Opponent": "NY",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match31": {
+            "Opponent": "MIN",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match32": {
+            "Opponent": "NE",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match33": {
+            "Opponent": "@SKC",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match34": {
+            "Opponent": "SJ",
+            "Score": "3-1",
+            "Result": "W"
+        }
+    },
+    "RSL": {
+        "match1": {
+            "Opponent": "@HOU",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match2": {
+            "Opponent": "VAN",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match3": {
+            "Opponent": "@DC",
+            "Score": "0-5",
+            "Result": "L"
+        },
+        "match4": {
+            "Opponent": "@LFC",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match5": {
+            "Opponent": "DAL",
+            "Score": "2-4",
+            "Result": "L"
+        },
+        "match6": {
+            "Opponent": "@SEA",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match7": {
+            "Opponent": "OSC",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match8": {
+            "Opponent": "@CIN",
+            "Score": "3-0",
+            "Result": "W"
+        },
+        "match9": {
+            "Opponent": "@LAG",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match10": {
+            "Opponent": "POR",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match11": {
+            "Opponent": "@COL",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match12": {
+            "Opponent": "TOR",
+            "Score": "3-0",
+            "Result": "W"
+        },
+        "match13": {
+            "Opponent": "ATL",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match14": {
+            "Opponent": "@MTL",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match15": {
+            "Opponent": "@NY",
+            "Score": "0-4",
+            "Result": "L"
+        },
+        "match16": {
+            "Opponent": "@CHI",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match17": {
+            "Opponent": "SKC",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match18": {
+            "Opponent": "CLB",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match19": {
+            "Opponent": "@SJ",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match20": {
+            "Opponent": "PHI",
+            "Score": "4-0",
+            "Result": "W"
+        },
+        "match21": {
+            "Opponent": "MIN",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match22": {
+            "Opponent": "@DAL",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match23": {
+            "Opponent": "NYC",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match24": {
+            "Opponent": "@SKC",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match25": {
+            "Opponent": "SEA",
+            "Score": "3-0",
+            "Result": "W"
+        },
+        "match26": {
+            "Opponent": "LFC",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match27": {
+            "Opponent": "COL",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match28": {
+            "Opponent": "@POR",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match29": {
+            "Opponent": "SJ",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match30": {
+            "Opponent": "@MIN",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match31": {
+            "Opponent": "@NE",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match32": {
+            "Opponent": "LAG",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match33": {
+            "Opponent": "HOU",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match34": {
+            "Opponent": "@VAN",
+            "Score": "1-0",
+            "Result": "W"
+        }
+    },
+    "SEA": {
+        "match1": {
+            "Opponent": "CIN",
+            "Score": "4-1",
+            "Result": "W"
+        },
+        "match2": {
+            "Opponent": "COL",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match3": {
+            "Opponent": "@CHI",
+            "Score": "4-2",
+            "Result": "W"
+        },
+        "match4": {
+            "Opponent": "@VAN",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match5": {
+            "Opponent": "RSL",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match6": {
+            "Opponent": "TOR",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match7": {
+            "Opponent": "@LFC",
+            "Score": "1-4",
+            "Result": "L"
+        },
+        "match8": {
+            "Opponent": "SJ",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match9": {
+            "Opponent": "LFC",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match10": {
+            "Opponent": "@MIN",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match11": {
+            "Opponent": "HOU",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match12": {
+            "Opponent": "OSC",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match13": {
+            "Opponent": "@PHI",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match14": {
+            "Opponent": "@SKC",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match15": {
+            "Opponent": "@DAL",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match16": {
+            "Opponent": "@MTL",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match17": {
+            "Opponent": "VAN",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match18": {
+            "Opponent": "@NYC",
+            "Score": "0-3",
+            "Result": "L"
+        },
+        "match19": {
+            "Opponent": "@CLB",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match20": {
+            "Opponent": "ATL",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match21": {
+            "Opponent": "POR",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match22": {
+            "Opponent": "@HOU",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match23": {
+            "Opponent": "SKC",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match24": {
+            "Opponent": "NE",
+            "Score": "3-3",
+            "Result": "D"
+        },
+        "match25": {
+            "Opponent": "@RSL",
+            "Score": "0-3",
+            "Result": "L"
+        },
+        "match26": {
+            "Opponent": "@LAG",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match27": {
+            "Opponent": "@POR",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match28": {
+            "Opponent": "LAG",
+            "Score": "4-3",
+            "Result": "W"
+        },
+        "match29": {
+            "Opponent": "@COL",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match30": {
+            "Opponent": "NY",
+            "Score": "4-2",
+            "Result": "W"
+        },
+        "match31": {
+            "Opponent": "DAL",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match32": {
+            "Opponent": "@DC",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match33": {
+            "Opponent": "@SJ",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match34": {
+            "Opponent": "MIN",
+            "Score": "1-0",
+            "Result": "W"
+        }
+    },
+    "SJ": {
+        "match1": {
+            "Opponent": "MTL",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match2": {
+            "Opponent": "MIN",
+            "Score": "0-3",
+            "Result": "L"
+        },
+        "match3": {
+            "Opponent": "@NY",
+            "Score": "1-4",
+            "Result": "L"
+        },
+        "match4": {
+            "Opponent": "LFC",
+            "Score": "0-5",
+            "Result": "L"
+        },
+        "match5": {
+            "Opponent": "POR",
+            "Score": "3-0",
+            "Result": "W"
+        },
+        "match6": {
+            "Opponent": "@HOU",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match7": {
+            "Opponent": "SKC",
+            "Score": "4-1",
+            "Result": "W"
+        },
+        "match8": {
+            "Opponent": "@SEA",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match9": {
+            "Opponent": "@DAL",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match10": {
+            "Opponent": "CIN",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match11": {
+            "Opponent": "@NE",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match12": {
+            "Opponent": "CHI",
+            "Score": "4-1",
+            "Result": "W"
+        },
+        "match13": {
+            "Opponent": "@TOR",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match14": {
+            "Opponent": "@DC",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match15": {
+            "Opponent": "DAL",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match16": {
+            "Opponent": "HOU",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match17": {
+            "Opponent": "LAG",
+            "Score": "3-0",
+            "Result": "W"
+        },
+        "match18": {
+            "Opponent": "@MIN",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match19": {
+            "Opponent": "RSL",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match20": {
+            "Opponent": "@LAG",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match21": {
+            "Opponent": "@VAN",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match22": {
+            "Opponent": "COL",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match23": {
+            "Opponent": "CLB",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match24": {
+            "Opponent": "@COL",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match25": {
+            "Opponent": "@SKC",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match26": {
+            "Opponent": "@LFC",
+            "Score": "0-4",
+            "Result": "L"
+        },
+        "match27": {
+            "Opponent": "VAN",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match28": {
+            "Opponent": "OSC",
+            "Score": "3-0",
+            "Result": "W"
+        },
+        "match29": {
+            "Opponent": "@RSL",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match30": {
+            "Opponent": "@NYC",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match31": {
+            "Opponent": "@ATL",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match32": {
+            "Opponent": "PHI",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match33": {
+            "Opponent": "SEA",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match34": {
+            "Opponent": "@POR",
+            "Score": "1-3",
+            "Result": "L"
+        }
+    },
+    "SKC": {
+        "match1": {
+            "Opponent": "@LFC",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match2": {
+            "Opponent": "PHI",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match3": {
+            "Opponent": "@COL",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match4": {
+            "Opponent": "MTL",
+            "Score": "7-1",
+            "Result": "W"
+        },
+        "match5": {
+            "Opponent": "@CIN",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match6": {
+            "Opponent": "NY",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match7": {
+            "Opponent": "@SJ",
+            "Score": "1-4",
+            "Result": "L"
+        },
+        "match8": {
+            "Opponent": "NE",
+            "Score": "4-4",
+            "Result": "D"
+        },
+        "match9": {
+            "Opponent": "ATL",
+            "Score": "0-3",
+            "Result": "L"
+        },
+        "match10": {
+            "Opponent": "@DC",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match11": {
+            "Opponent": "VAN",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match12": {
+            "Opponent": "SEA",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match13": {
+            "Opponent": "LAG",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match14": {
+            "Opponent": "@HOU",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match15": {
+            "Opponent": "@TOR",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match16": {
+            "Opponent": "@CLB",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match17": {
+            "Opponent": "@RSL",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match18": {
+            "Opponent": "LFC",
+            "Score": "1-5",
+            "Result": "L"
+        },
+        "match19": {
+            "Opponent": "CHI",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match20": {
+            "Opponent": "@VAN",
+            "Score": "3-0",
+            "Result": "W"
+        },
+        "match21": {
+            "Opponent": "DAL",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match22": {
+            "Opponent": "@NYC",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match23": {
+            "Opponent": "@SEA",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match24": {
+            "Opponent": "RSL",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match25": {
+            "Opponent": "@OSC",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match26": {
+            "Opponent": "SJ",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match27": {
+            "Opponent": "MIN",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match28": {
+            "Opponent": "HOU",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match29": {
+            "Opponent": "@POR",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match30": {
+            "Opponent": "@LAG",
+            "Score": "2-7",
+            "Result": "L"
+        },
+        "match31": {
+            "Opponent": "COL",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match32": {
+            "Opponent": "@MIN",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match33": {
+            "Opponent": "POR",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match34": {
+            "Opponent": "@DAL",
+            "Score": "0-6",
+            "Result": "L"
+        }
+    },
+    "TOR": {
+        "match1": {
+            "Opponent": "@PHI",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match2": {
+            "Opponent": "NE",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match3": {
+            "Opponent": "NYC",
+            "Score": "4-0",
+            "Result": "W"
+        },
+        "match4": {
+            "Opponent": "CHI",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match5": {
+            "Opponent": "@SEA",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match6": {
+            "Opponent": "MIN",
+            "Score": "4-3",
+            "Result": "W"
+        },
+        "match7": {
+            "Opponent": "POR",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match8": {
+            "Opponent": "@OSC",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match9": {
+            "Opponent": "@ATL",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match10": {
+            "Opponent": "PHI",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match11": {
+            "Opponent": "DC",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match12": {
+            "Opponent": "@RSL",
+            "Score": "0-3",
+            "Result": "L"
+        },
+        "match13": {
+            "Opponent": "SJ",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match14": {
+            "Opponent": "@VAN",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match15": {
+            "Opponent": "SKC",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match16": {
+            "Opponent": "@DAL",
+            "Score": "0-3",
+            "Result": "L"
+        },
+        "match17": {
+            "Opponent": "ATL",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match18": {
+            "Opponent": "@DC",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match19": {
+            "Opponent": "@LAG",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match20": {
+            "Opponent": "@MTL",
+            "Score": "2-0",
+            "Result": "W"
+        },
+        "match21": {
+            "Opponent": "NY",
+            "Score": "3-1",
+            "Result": "W"
+        },
+        "match22": {
+            "Opponent": "HOU",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match23": {
+            "Opponent": "CIN",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match24": {
+            "Opponent": "@NY",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match25": {
+            "Opponent": "OSC",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match26": {
+            "Opponent": "@CLB",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match27": {
+            "Opponent": "MTL",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match28": {
+            "Opponent": "@NE",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match29": {
+            "Opponent": "@CIN",
+            "Score": "5-1",
+            "Result": "W"
+        },
+        "match30": {
+            "Opponent": "@NYC",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match31": {
+            "Opponent": "COL",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match32": {
+            "Opponent": "@LFC",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match33": {
+            "Opponent": "@CHI",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match34": {
+            "Opponent": "CLB",
+            "Score": "1-0",
+            "Result": "W"
+        }
+    },
+    "VAN": {
+        "match1": {
+            "Opponent": "MIN",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match2": {
+            "Opponent": "@RSL",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match3": {
+            "Opponent": "@HOU",
+            "Score": "2-3",
+            "Result": "L"
+        },
+        "match4": {
+            "Opponent": "SEA",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match5": {
+            "Opponent": "LAG",
+            "Score": "0-2",
+            "Result": "L"
+        },
+        "match6": {
+            "Opponent": "@CHI",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match7": {
+            "Opponent": "LFC",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match8": {
+            "Opponent": "@OSC",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match9": {
+            "Opponent": "PHI",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match10": {
+            "Opponent": "@COL",
+            "Score": "3-2",
+            "Result": "W"
+        },
+        "match11": {
+            "Opponent": "POR",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match12": {
+            "Opponent": "ATL",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match13": {
+            "Opponent": "@SKC",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match14": {
+            "Opponent": "@NY",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match15": {
+            "Opponent": "DAL",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match16": {
+            "Opponent": "TOR",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match17": {
+            "Opponent": "COL",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match18": {
+            "Opponent": "@DAL",
+            "Score": "2-2",
+            "Result": "D"
+        },
+        "match19": {
+            "Opponent": "@SEA",
+            "Score": "0-1",
+            "Result": "L"
+        },
+        "match20": {
+            "Opponent": "@LFC",
+            "Score": "1-6",
+            "Result": "L"
+        },
+        "match21": {
+            "Opponent": "SKC",
+            "Score": "0-3",
+            "Result": "L"
+        },
+        "match22": {
+            "Opponent": "@NE",
+            "Score": "0-4",
+            "Result": "L"
+        },
+        "match23": {
+            "Opponent": "SJ",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match24": {
+            "Opponent": "@MIN",
+            "Score": "0-0",
+            "Result": "D"
+        },
+        "match25": {
+            "Opponent": "@CIN",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match26": {
+            "Opponent": "@POR",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match27": {
+            "Opponent": "DC",
+            "Score": "1-0",
+            "Result": "W"
+        },
+        "match28": {
+            "Opponent": "@SJ",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match29": {
+            "Opponent": "@MTL",
+            "Score": "1-2",
+            "Result": "L"
+        },
+        "match30": {
+            "Opponent": "NYC",
+            "Score": "1-3",
+            "Result": "L"
+        },
+        "match31": {
+            "Opponent": "HOU",
+            "Score": "2-1",
+            "Result": "W"
+        },
+        "match32": {
+            "Opponent": "CLB",
+            "Score": "1-1",
+            "Result": "D"
+        },
+        "match33": {
+            "Opponent": "@LAG",
+            "Score": "4-3",
+            "Result": "W"
+        },
+        "match34": {
+            "Opponent": "RSL",
+            "Score": "0-1",
+            "Result": "L"
+        }
+    }
+}

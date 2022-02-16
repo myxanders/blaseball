@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Mitchell Xanders' Website</title>
+    <!-- Bootstrap core CSS -->
+    <link href="../../css/bootstrap.css" rel="stylesheet">
+    <link href="../../css/jquery.bracket.min.css" rel="stylesheet">
+    <link href="../almanacstyle.css" rel="stylesheet">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../favicon-16x16.png">
+    <link rel="manifest" href="../../site.webmanifest">
+    <link rel="mask-icon" href="../../safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+</head>
+<style>
+    #bracket::-webkit-scrollbar {
+        display: none;
+    }
+
+    /* Hide scrollbar for IE, Edge and Firefox */
+    #bracket {
+        -ms-overflow-style: none;
+        /* IE and Edge */
+        scrollbar-width: none;
+        /* Firefox */
+    }
+
+    #playoffbracket td {
+        border: 2px solid whitesmoke;
+    }
+
+    #playoffbracket th {
+        text-align: center;
+        color: whitesmoke;
+    }
+
+    td#empty {
+        border: none;
+        background-color: none;
+        color: none;
+    }
+
+    #afcseed {
+        float: left;
+        font-style: italic;
+    }
+
+    #afcscore {
+        float: right;
+        font-weight: bold;
+    }
+
+    #nfcseed {
+        float: right;
+        font-style: italic;
+    }
+
+    #nfcscore {
+        float: left;
+        font-weight: bold;
+    }
+
+    #champs {
+        text-align: center;
+        font-weight: bold;
+        background-color: darkgoldenrod;
+        color: black;
+    }
+
+    .col {
+        min-width: 233px;
+        max-width: 14%;
+    }
+</style>
+
+<body class="MLS">
+    <div class="container-fluid">
+        <h1 class="h1 text-center py-4"><b>MLS Playoff Bracket</b></h1>
+        <div class="table-responsive" id="bracket">
+            <table class="table" id="playoffbracket">
+                <thead>
+                    <tr>
+                        <th class="col">First Round</th>
+                        <th class="col">Conference Semifinals</th>
+                        <th class="col">Conference Finals</th>
+                        <th></th>
+                        <th class="col">MLS Cup</th>
+                        <th></th>
+                        <th class="col">Conference Finals</th>
+                        <th class="col">Conference Semifinals</th>
+                        <th class="col">First Round</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td id="SEA" class="text-center"><span id="afcseed">2</span>Sounders<span id="afcscore">4</span></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="ATL" class="text-center"><span id="nfcseed">2</span>Atlanta Utd<span id="nfcscore">1</span></td>
+                    </tr>
+                    <tr>
+                        <td id="DAL" class="text-center"><span id="afcseed">7</span>FC Dallas<span id="afcscore">3</span></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="champs">MLS CUP CHAMPIONS:</td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="NE" class="text-center"><span id="nfcseed">7</span>Revolution<span id="nfcscore">0</span></td>
+
+                    </tr>
+                    <tr>
+                        <td id="empty"></td>
+                        <td id="LFC" class="text-center"><span id="afcseed">1</span>LA FC<span id="afcscore">5</span></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="SEA" class="text-center"><b>Sounders</b></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="NYC" class="text-center"><span id="nfcseed">1</span>NYC FC<span id="nfcscore">1</span></td>
+                        <td id="empty"></td>
+                    </tr>
+                    <tr>
+                        <td id="empty"></td>
+                        <td id="LAG" class="text-center"><span id="afcseed">5</span>Galaxy<span id="afcscore">3</span></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="TOR" class="text-center"><span id="nfcseed">4</span>Toronto FC<span id="nfcscore">2</span></td>
+                        <td id="empty"></td>
+                    </tr>
+                    <tr>
+                        <td id="RSL" class="text-center"><span id="afcseed">3</span>Real Salt Lake<span id="afcscore">2</span></td>
+                        <td id="empty"></td>
+                        <td id="LFC" class="text-center"><span id="afcseed">1</span>LA FC<span id="afcscore">1</span></td>
+                        <td id="empty"></td>
+                        <td id="SEA" class="text-center"><span id="afcseed">2</span>Sounders<span id="afcscore">3</span></td>
+                        <td id="empty"></td>
+                        <td id="ATL" class="text-center"><span id="nfcseed">2</span>Atlanta Utd<span id="nfcscore">1</span></td>
+                        <td id="empty"></td>
+                        <td id="PHI" class="text-center"><span id="nfcseed">3</span>Union<span id="nfcscore">4</span></td>
+                    </tr>
+                    <tr>
+                        <td id="POR" class="text-center"><span id="afcseed">7</span>Timbers<span id="afcscore">1</span></td>
+                        <td id="empty"></td>
+                        <td id="SEA" class="text-center"><span id="afcseed">2</span>Sounders<span id="afcscore">3</span></td>
+                        <td id="empty"></td>
+                        <td id="TOR" class="text-center"><span id="afcseed">4</span>Toronto FC<span id="afcscore">1</span></td>
+                        <td id="empty"></td>
+                        <td id="TOR" class="text-center"><span id="nfcseed">4</span>Toronto FC<span id="nfcscore">2</span></td>
+                        <td id="empty"></td>
+                        <td id="NY" class="text-center"><span id="nfcseed">6</span>Red Bulls<span id="nfcscore">3</span></td>
+
+                    </tr>
+                    <tr>
+                        <td id="empty"></td>
+                        <td id="SEA" class="text-center"><span id="afcseed">2</span>Sounders<span id="afcscore">2</span></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="ATL" class="text-center"><span id="nfcseed">2</span>Atlanta Utd<span id="nfcscore">2</span></td>
+                        <td id="empty"></td>
+                    </tr>
+                    <tr>
+                        <td id="empty"></td>
+                        <td id="RSL" class="text-center"><span id="afcseed">3</span>Real Salt Lake<span id="afcscore">0</span></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="PHI" class="text-center"><span id="nfcseed">3</span>Union<span id="nfcscore">0</span></td>
+                        <td id="empty"></td>
+                    </tr>
+                    <tr>
+                        <td id="MIN" class="text-center"><span id="afcseed">4</span>Minnesota Utd<span id="afcscore">1</span></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="TOR" class="text-center"><span id="nfcseed">4</span>Toronto FC<span id="nfcscore">5</span></td>
+                    </tr>
+                    <tr>
+                        <td id="LAG" class="text-center"><span id="afcseed">5</span>Galaxy<span id="afcscore">2</span></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="empty"></td>
+                        <td id="DC" class="text-center"><span id="nfcseed">5</span>D.C. United<span id="nfcscore">1</span>
+                    </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <footer>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <script src="../../js/bootstrap.js"></script>
+    </footer>
+</body>
+
+</html>

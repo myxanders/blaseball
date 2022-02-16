@@ -19,16 +19,11 @@ body {
 
 .NBA h1 {
     color: white;
-    font-weight: bold;
 }
 
 .MLB {
     background-color: steelblue;
     color: firebrick;
-}
-
-.MLB h1 {
-    font-weight: bold;
 }
 
 .NHL {
@@ -38,7 +33,6 @@ body {
 
 .NHL h1 {
     color: black;
-    font-weight: bold;
 }
 
 .MLS {
