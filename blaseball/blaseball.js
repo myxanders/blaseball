@@ -71,17 +71,17 @@ function displayBattingResults(table, data) {
         let team = row.insertCell(2);
         team.innerHTML = item.tsho;
         let rating = row.insertCell(3);
-        rating.innerHTML = item.Rating;
+        rating.innerHTML = item.Rating.toFixed(3);
         let pm = row.insertCell(4);
-        pm.innerHTML = item.PM;
+        pm.innerHTML = item.PM.toFixed(3);
         let rm = row.insertCell(5);
-        rm.innerHTML = item.RM;
+        rm.innerHTML = item.RM.toFixed(3);
         let imp = row.insertCell(6);
-        imp.innerHTML = item.IMP;
+        imp.innerHTML = item.IMP.toFixed(3);
         let aobp = row.insertCell(7);
-        aobp.innerHTML = item.aOBP;
+        aobp.innerHTML = item.aOBP.toFixed(3);
         let dead = row.insertCell(8);
-        dead.innerHTML = item.DEAD;
+        dead.innerHTML = item.DEAD.toFixed(3);
     });
 }
 
@@ -98,17 +98,17 @@ function displayPitchingResults(table, data) {
         let team = row.insertCell(2);
         team.innerHTML = item.tsho;
         let rating = row.insertCell(3);
-        rating.innerHTML = item.Rating;
+        rating.innerHTML = item.Rating.toFixed(3);
         let net = row.insertCell(4);
-        net.innerHTML = item.NET;
+        net.innerHTML = item.NET.toFixed(3);
         let qs = row.insertCell(5);
-        qs.innerHTML = item['QS%'];
+        qs.innerHTML = item['QS%'].toFixed(3);
         let fip = row.insertCell(6);
-        fip.innerHTML = item.FIP;
+        fip.innerHTML = item.FIP.toFixed(3);
         let kip = row.insertCell(7);
-        kip.innerHTML = item.KIP;
+        kip.innerHTML = item.KIP.toFixed(3);
         let whip = row.insertCell(8);
-        whip.innerHTML = item.WHIP;
+        whip.innerHTML = item.WHIP.toFixed(3);
     });
 }
 
